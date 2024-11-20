@@ -31,7 +31,6 @@
 ## Book Chapters
 
 1.  S.Y. Kung and M.W. Mak, "Feature Selection for Genomic and Proteomic Data Mining", in Yanqing Zhang and Jagath C. Rajapakse, editors, _Machine Learning in Bioinformatics_, John Wiley & Sons, 2008, pp. 1-45.   
-     
 2.  M.C. Cheung, M.W. Mak and S.Y. Kung, "[Probabilistic Fusion of Sorted Score Sequences for Robust Speaker Verification](http://www.eie.polyu.edu.hk/~mwmak/papers/TanBook05.pdf)," in Y.P. Tan, K.H. Yap and L. Wang, editors, _Intelligent Multimedia Processing with Soft Computing_, Springer, pp. 369-381, 2005. 
 3.  K.W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004. 
 4.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
@@ -42,51 +41,44 @@
       
 2.  Chongkai Lu and Man-Wai Mak, "DITA: DETR with Improved Queries for End-to-End Temporal Action Detection", _Neurocomputing_, vol. 596, May 2024. (IF=6) [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Neurocomp2024.pdf)  
       
-    
 3.  Y.Z. Tu, M.W. Mak and J.T. Chien, "Contrastive Self-Supervised Speaker Embedding With Sequential Disentanglement", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, May 2024, pp. 2704-2715. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP-Tu-2024.pdf).  
-      
     
 4.  Yuancheng Zhan, Hui Zhang, Hexiang Lin, Lip Ket Chin, Hong Cai, Muhammad Faeyz Karim, Daniel Puiu Poenar, Xudong Jiang, Man‐Wai Mak, Leong Chuan Kwek, Ai Qun Liu, "[Physics-Aware Analytic-Gradient Training of Photonic Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202300445)", _Laser & Photonics Reviews,_ Feb 2024. (IF=11)  
       
-    
-5.  Sean Shensheng Xu, Xiaoquan Ke, Man-Wai Mak, Ka Ho Wong, Helen Meng, Timothy C.Y. Kwok, Jason Gu, Jian Zhang, Wei Tao and Chunqi Chang, "[Speaker-turn Aware Diarization for Speech-Based Cognitive Assessments](https://doi.org/10.3389/fnins.2023.1351848)", _Frontiers in Neuroscience_, Jan 2024[  
+5.  Sean Shensheng Xu, Xiaoquan Ke, Man-Wai Mak, Ka Ho Wong, Helen Meng, Timothy C.Y. Kwok, Jason Gu, Jian Zhang, Wei Tao and Chunqi Chang, "[Speaker-turn Aware Diarization for Speech-Based Cognitive Assessments](https://doi.org/10.3389/fnins.2023.1351848)", _Frontiers in Neuroscience_, Jan 2024[Link](https://github.com/kexquan/dual-dropout-ranking)
+   
+7.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Automatic Selection of Spoken Language Biomarkers for Dementia Detection", _Neural Networks_, vol. 169, Jan 2024, pp. 191-204. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/NEUNET-2023.pdf). [Source code](https://github.com/kexquan/dual-dropout-ranking)  
       
-    ](https://github.com/kexquan/dual-dropout-ranking)
-6.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Automatic Selection of Spoken Language Biomarkers for Dementia Detection", _Neural Networks_, vol. 169, Jan 2024, pp. 191-204. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/NEUNET-2023.pdf). [Source code](https://github.com/kexquan/dual-dropout-ranking)  
-      
-    
-7.  Lishi Zuo and Man-Wai Mak, "Avoiding Dominance of Speaker Features in Speech-based Depression Detection", _Pattern Recognition Letters_, vol. 173, Sep 2023, pp. 50-56.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/PRL2023.pdf).  
+8.  Lishi Zuo and Man-Wai Mak, "Avoiding Dominance of Speaker Features in Speech-based Depression Detection", _Pattern Recognition Letters_, vol. 173, Sep 2023, pp. 50-56.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/PRL2023.pdf).  
       
     
-8.  H.Q. Mao, F. Hong, and M.W. Mak, "Cluster-Guided Unsupervised Domain Adaptation  
+9.  H.Q. Mao, F. Hong, and M.W. Mak, "Cluster-Guided Unsupervised Domain Adaptation  
     for Deep Speaker Embedding," _IEEE Signal Processing Letters_, vol. 30, pp. 643-647, May 2023. [Paper](https://arxiv.org/abs/2303.15944). [Source code](https://github.com/Maohq97/Cluster-GuidedUDA).  
       
     
-9.  W.W. Lin and M.W. Mak, "Model-Agnostic Meta-Learning for Fast Text-dependent Speaker Embedding Adaptation", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, May 2023, pp. 1866-1876.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22b.pdf).  
+10.  W.W. Lin and M.W. Mak, "Model-Agnostic Meta-Learning for Fast Text-dependent Speaker Embedding Adaptation", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, May 2023, pp. 1866-1876.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22b.pdf).  
       
     
-10.  W.W. Lin and M.W. Mak, "Robust Speaker Verification using Deep Weight Space Ensemble", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, Jan 2023, pp. 802-812. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22a.pdf).  
+11.  W.W. Lin and M.W. Mak, "Robust Speaker Verification using Deep Weight Space Ensemble", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, Jan 2023, pp. 802-812. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22a.pdf).  
       
     
-11.  Y.Z. Tu, W.W. Lin, and M.W. Mak, "[A Survey on Text-Dependent and Text-Independent Speaker Verification](https://ieeexplore.ieee.org/document/9889705)", _IEEE Access_, Sept. 2022.  
+12.  Y.Z. Tu, W.W. Lin, and M.W. Mak, "[A Survey on Text-Dependent and Text-Independent Speaker Verification](https://ieeexplore.ieee.org/document/9889705)", _IEEE Access_, Sept. 2022.  
       
     
-12.  Sean S.S. Xu, M.W. Mak, and C.Q. Chang, "Inter-Patient ECG Classification with I-Vector Based Unsupervised Patient Adaptation," _Expert Systems with Applications_, vol. 210, Dec 2022, (IF: 8.665) [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/ESWA-Xu-22.pdf).  
+13.  Sean S.S. Xu, M.W. Mak, and C.Q. Chang, "Inter-Patient ECG Classification with I-Vector Based Unsupervised Patient Adaptation," _Expert Systems with Applications_, vol. 210, Dec 2022, (IF: 8.665) [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/ESWA-Xu-22.pdf).  
       
     
-13.  Y.Z. Tu and M.W. Mak, "Aggregating Frame-Level Information in the Spectral Domain With Self-Attention for Speaker Embedding," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb. 2022, pp. 944-957. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21a.pdf).  
+14.  Y.Z. Tu and M.W. Mak, "Aggregating Frame-Level Information in the Spectral Domain With Self-Attention for Speaker Embedding," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb. 2022, pp. 944-957. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21a.pdf).  
       
     
-14.  W.W. Lin and M.W. Mak, "Mixture Representation Learning for Deep Speaker Embedding", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb 2022, pp. 968-978. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21b.pdf).  
+15.  W.W. Lin and M.W. Mak, "Mixture Representation Learning for Deep Speaker Embedding", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb 2022, pp. 968-978. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21b.pdf).  
       
     
-15.  L.X. Li, M.W. Mak, and J.T. Chien, "Contrastive Adversarial Domain Adaptation Networks for Speaker Recognition", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, Issue 5, May 2022, pp. 2236-2245. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/TNNLS-2019-P-11660.pdf).  
-    [  
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/T-NNLS-emotion.pdf)
-16.  L. Yi and M.W. Mak, "Improving Speech Emotion Recognition with Adversarial Data Augmentation Network," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, issue 1, Jan 2022, pp. 172-184. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-NNLS-emotion.pdf)  [Code](https://github.com/Louisa-Luyi/adan).[  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/T-NNLS-emotion.pdf)
-17.  W.W. Lin, M.W. Mak, N. Li, D. Su, and D. Yu, "A Framework for Adapting DNN Speaker  
+16.  L.X. Li, M.W. Mak, and J.T. Chien, "Contrastive Adversarial Domain Adaptation Networks for Speaker Recognition", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, Issue 5, May 2022, pp. 2236-2245. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/TNNLS-2019-P-11660.pdf).  
+
+17.  L. Yi and M.W. Mak, "Improving Speech Emotion Recognition with Adversarial Data Augmentation Network," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, issue 1, Jan 2022, pp. 172-184. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-NNLS-emotion.pdf)  [Code](https://github.com/Louisa-Luyi/adan).
+    
+17. W. W. Lin, M.W. Mak, N. Li, D. Su, and D. Yu, "A Framework for Adapting DNN Speaker  
     Embedding Across Languages," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 28, pp. 2810-2822, 2020\. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP20-mmd.pdf)  [Code](https://github.com/enmwmak/msc-domain-adaptation).  
       
     
