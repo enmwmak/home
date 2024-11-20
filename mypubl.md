@@ -11,7 +11,6 @@
     
 3.  S.B. Wan and M.W. Mak, _Machine Learning for Protein Subcellular Localization Prediction_,  De Gruyter, 2015. [(Preface and Table of Contents)](http://www.eie.polyu.edu.hk/~mwmak/papers/biobook_toc.pdf)  
       
-    
 4.  S.Y. Kung, M.W. Mak and S.H. Lin, _Biometric Authentication: A Machine Learning Approach_, Prentice Hall, 2005. [(Preface and Table of Contents)](http://www.eie.polyu.edu.hk/~mwmak/papers/book2Toc.pdf)  
     
 
@@ -19,21 +18,17 @@
 
 1.  J.T. Chien and M.W. Mak, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Modern Speech Processing and Learning_, Guest Editorial, July 2020, [DOI](https://doi.org/10.1007/s11265-020-01577-4)  
       
-    
-2.  L. Xie, T. Lee and M.W. Mak, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Advances in Deep Learning for Speech Processing_, Guest Editorial, Feb. 2018, [DOI  
+2.  L. Xie, T. Lee and M.W. Mak, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Advances in Deep Learning for Speech Processing_, Guest Editorial, Feb. 2018, [DOI](https://doi.org/10.1007/s11265-018-1333-3)
+   
+4.  Haiying Wang, Man-Wai Mak and Hui Wang, _International Journal of Machine Learning and Cybernetics, special issue on Semantic Data Analytics and Bioinformatics_, Guest Editorial, Nov. 2017. [Link](https://doi.org/10.1007/s13042-017-0749-6)  
       
-    ](https://doi.org/10.1007/s11265-018-1333-3)
-3.  Haiying Wang, Man-Wai Mak and Hui Wang, _International Journal of Machine Learning and Cybernetics, special issue on Semantic Data Analytics and Bioinformatics_, Guest Editorial, Nov. 2017, [https://doi.org/10.1007/s13042-017-0749-6](https://doi.org/10.1007/s13042-017-0749-6)  
-      
-    
-4.  Minghui Dong, Jianhua Tao and Man Wai Mak, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Advances in Machine Learning for Speech Processing_, Guest Editorial, Jan. 2016, [DOI 10.1007/s11265-016-1101-1  
-      
-    ](http://link.springer.com/article/10.1007/s11265-016-1101-1)
-5.  M.W. Mak, A. Tewfik, L.W. Chan, and C.C. Keith Chan, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Machine Learning for Microarray and Sequence Analysis_, Guest Editorial, vol. 50, No. 3, March 2008, pp. 263-265. ([jvlsi08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jvlsi08.pdf)  
-     
-6.  M.W. Mak and I. King, _International Journal of Computational Intelligence Research, special issue for ICONIP'06_, Guest Editorial, vol.3, no.1, 2007. ([ijcir07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcir07.pdf)
+5.  Minghui Dong, Jianhua Tao and Man Wai Mak, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Advances in Machine Learning for Speech Processing_, Guest Editorial, Jan. 2016, [Link](http://link.springer.com/article/10.1007/s11265-016-1101-1)
 
-Book Chapters
+6.  M.W. Mak, A. Tewfik, L.W. Chan, and C.C. Keith Chan, _Journal of Signal Processing Systems for Signal, Image, and Video Technology, special issue on Machine Learning for Microarray and Sequence Analysis_, Guest Editorial, vol. 50, No. 3, March 2008, pp. 263-265. [Link](http://www.eie.polyu.edu.hk/~mwmak/papers/jvlsi08.pdf)
+   
+8.  M.W. Mak and I. King, _International Journal of Computational Intelligence Research, special issue for ICONIP'06_, Guest Editorial, vol.3, no.1, 2007. [Link](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcir07.pdf)
+
+## Book Chapters
 
 1.  S.Y. Kung and M.W. Mak, "Feature Selection for Genomic and Proteomic Data Mining", in Yanqing Zhang and Jagath C. Rajapakse, editors, _Machine Learning in Bioinformatics_, John Wiley & Sons, 2008, pp. 1-45.   
      
@@ -41,11 +36,10 @@ Book Chapters
 3.  K.W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004. 
 4.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
-Journal Papers
+## Journal Papers
 
 1.  Chongkai Lu, Man-wai Mak, Ruimin Li, Zheru Chi, and Hong Fu, "Action Progression Networks for Temporal Action Detection in Videos", _IEEE Access_, Aug 2024. [Paper](https://ieeexplore.ieee.org/document/10658640)  
       
-    
 2.  Chongkai Lu and Man-Wai Mak, "DITA: DETR with Improved Queries for End-to-End Temporal Action Detection", _Neurocomputing_, vol. 596, May 2024. (IF=6) [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Neurocomp2024.pdf)  
       
     
@@ -247,7 +241,7 @@ Journal Papers
  85.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
  86.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
-### Conference Papers
+## Conference Papers
 
 1.  Junjie Li, Kong-Aik Lee and Man-Wai Mak, "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction", _Proc. IEEE Spoken Language Technology Workshop_, Macau, Dec 2024.  
     
@@ -596,8 +590,7 @@ Journal Papers
 176.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptron and Radial Basis function Networks in Speaker Recognition", _BCS/IEEE/EUROMICRO Workshop on Neural Networks: Techniques and Applications_, Liverpool, 7-8 Sept. 1992.
 
   
-**Technical Reports and Lecture Note****s**  
-[](http://www.eie.polyu.edu.hk/~mwmak/embook.jpg)
+## Technical Reports and Lecture Notes  
 
 1.  M.W. Mak, "[Lecture Notes on Factor Analysis and I-Vectors](http://www.eie.polyu.edu.hk/~mwmak/papers/FA-Ivector.pdf)", _Technical Report and Lecture Note Series, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University_, Feb. 2016. ([Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/FA-Ivector-beamer.pdf))  
       
@@ -624,16 +617,7 @@ Journal Papers
       
     
 
-### PhD Thesis
+## PhD Thesis
 
 M.W. Mak, "Application of Artificial Neural Networks for Speaker Identification", PhD Thesis, _University of Northumbria at Newcastle_, 1993.
 
-* * *
-
-### M.W. Mak's Homepage
-
-[http://www.eie.polyu.edu.hk/~mwmak/mypage.htm](http://www.eie.polyu.edu.hk/~mwmak/mypage.htm)
-
-* * *
-
-Last update: Dec.  2016
