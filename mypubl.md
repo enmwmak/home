@@ -55,78 +55,53 @@
       
 8.  Lishi Zuo and Man-Wai Mak, "Avoiding Dominance of Speaker Features in Speech-based Depression Detection", _Pattern Recognition Letters_, vol. 173, Sep 2023, pp. 50-56.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/PRL2023.pdf).  
       
-    
 9.  H.Q. Mao, F. Hong, and M.W. Mak, "Cluster-Guided Unsupervised Domain Adaptation  
     for Deep Speaker Embedding," _IEEE Signal Processing Letters_, vol. 30, pp. 643-647, May 2023. [Paper](https://arxiv.org/abs/2303.15944). [Source code](https://github.com/Maohq97/Cluster-GuidedUDA).  
       
-    
 10.  W.W. Lin and M.W. Mak, "Model-Agnostic Meta-Learning for Fast Text-dependent Speaker Embedding Adaptation", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, May 2023, pp. 1866-1876.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22b.pdf).  
       
-    
 11.  W.W. Lin and M.W. Mak, "Robust Speaker Verification using Deep Weight Space Ensemble", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 31, Jan 2023, pp. 802-812. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP22a.pdf).  
       
-    
 12.  Y.Z. Tu, W.W. Lin, and M.W. Mak, "[A Survey on Text-Dependent and Text-Independent Speaker Verification](https://ieeexplore.ieee.org/document/9889705)", _IEEE Access_, Sept. 2022.  
       
-    
 13.  Sean S.S. Xu, M.W. Mak, and C.Q. Chang, "Inter-Patient ECG Classification with I-Vector Based Unsupervised Patient Adaptation," _Expert Systems with Applications_, vol. 210, Dec 2022, (IF: 8.665) [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/ESWA-Xu-22.pdf).  
       
-    
 14.  Y.Z. Tu and M.W. Mak, "Aggregating Frame-Level Information in the Spectral Domain With Self-Attention for Speaker Embedding," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb. 2022, pp. 944-957. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21a.pdf).  
       
-    
 15.  W.W. Lin and M.W. Mak, "Mixture Representation Learning for Deep Speaker Embedding", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 30, Feb 2022, pp. 968-978. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP21b.pdf).  
       
-    
 16.  L.X. Li, M.W. Mak, and J.T. Chien, "Contrastive Adversarial Domain Adaptation Networks for Speaker Recognition", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, Issue 5, May 2022, pp. 2236-2245. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/TNNLS-2019-P-11660.pdf).  
 
 17.  L. Yi and M.W. Mak, "Improving Speech Emotion Recognition with Adversarial Data Augmentation Network," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, issue 1, Jan 2022, pp. 172-184. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-NNLS-emotion.pdf)  [Code](https://github.com/Louisa-Luyi/adan).
     
-17. W. W. Lin, M.W. Mak, N. Li, D. Su, and D. Yu, "A Framework for Adapting DNN Speaker  
-    Embedding Across Languages," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 28, pp. 2810-2822, 2020\. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP20-mmd.pdf)  [Code](https://github.com/enmwmak/msc-domain-adaptation).  
+17. W. W. Lin, M.W. Mak, N. Li, D. Su, and D. Yu, "A Framework for Adapting DNN Speaker Embedding Across Languages," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 28, pp. 2810-2822, 2020. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP20-mmd.pdf)  [Code](https://github.com/enmwmak/msc-domain-adaptation).  
       
-    
 18.  Y.Z. Tu, M.W. Mak and J.T. Chien, "Variational Domain Adversarial Learning with Mutual Information Maximization for Speaker Verification," _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 28, pp. 2013-2024, June 2020.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/infoVDANN_j.pdf)  
       
-    
 19.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho, Man-Wai Mak, and Alan Pak-Tao Lau, "Survey of CSI Fingerprinting-based indoor positioning and mobility tracking systems," _IET Signal Processing_, vol. 14, issue 7, 2020.  
       
-    
 20.  Sean S.S. Xu, M.W. Mak, and C.C. Cheung, "[I-Vector Based Patient Adaptation of Deep Neural Networks for Automatic Heartbeat Classification](https://ieeexplore.ieee.org/document/8725515)", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, vol. 24, no. 3, pp. 717-727, March 2020. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/JBHI-00060-2019.pdf)  
       
-    
-21.  Sean S.S. Xu, M.W. Mak, and C.C. Cheung, "Towards End-to-End ECG Classification with Raw  
-    Signal Extraction and Deep Neural Networks_",_ _[IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/document/8468972) (J-BHI)_, vol. 23, No. 4, pp. 1574-1584, July 2019. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/JBHI-00154-2018.pdf)  
+21.  Sean S.S. Xu, M.W. Mak, and C.C. Cheung, "Towards End-to-End ECG Classification with Raw Signal Extraction and Deep Neural Networks_",_ _[IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/document/8468972) (J-BHI)_, vol. 23, No. 4, pp. 1574-1584, July 2019. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/JBHI-00154-2018.pdf)  
       
-    
 22.  Q. Yao and M.W. Mak, "[SNR-Invariant Multi-Task Deep Neural Networks for Robust Speaker Verification](https://doi.org/10.1109/LSP.2018.2870726), _IEEE Signal Processing Letters_, vol. 25, no. 11, pp. 1670-1674, Nov. 2018.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/IEEE-SPL18.pdf)  
       
-    
 23.  W.W. Lin, M.W. Mak and J.T. Chien, "[Multi-source I-vectors Domain Adaptation using Maximum Mean Discrepancy Based Autoencoders](http://secure-web.cisco.com/12E1y4TJBF1jOA-ysAk9Qa-J5W55ypJl4DO1seQh7rwDtTnJyczaRarPKI6wurVNxW_W1bFmXkqtMWD4BRIYC-nt4v0lfuo_jkHNccXmVbir0T9gO5_5Q4vukM_5HtzkbrziODa0kBaaeSphL4-UdRGKdhhobVwDkHjn_py9bj6ovLYO1etwIpLdYvijXBwi0-cPFUHzGZxL5gBvBMmhYp92lZgUrdhnAG-GNhYXzWyPrrGRaJSnpNKmpiNYltdifCKRlPJnOz44tCm5_d7CtIjhY7PPpnWM52m1Y26B5coY_6r75FVOk014ovA5sN-jreD6a5Z3A5JhcWIWdSy_cJA/http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Farnumber%3D8445620%26source%3Dauthoralert)", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 26, no. 12, pp. 2412-2422, Dec. 2018.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP18c.pdf)  
       
-    
-24.  Z. L. Tan, M.W. Mak, B. Mak and Y.K. Zhu, "[Denoised Senone I-Vectors for Robust Speaker Verification](http://ieeexplore.ieee.org/document/8269399/)", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 26, no. 4,  
-    pp. 820-830, April 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP18b.pdf)  
+24.  Z. L. Tan, M.W. Mak, B. Mak and Y.K. Zhu, "[Denoised Senone I-Vectors for Robust Speaker Verification](http://ieeexplore.ieee.org/document/8269399/)", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 26, no. 4,  pp. 820-830, April 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP18b.pdf)  
       
-    
 25.  Z. L. Tan, M.W. Mak, and B. Mak, "[DNN-Based Score Calibration with Multitask Learning for Noise Robust Speaker Verification](http://ieeexplore.ieee.org/document/8249870/)", _IEEE/ACM Transactions on Audio, Speech and Language Processing_,  vol. 26, no. 4, pp. 700-712, April 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP18a.pdf)  
       
-    
 26.  N. Li, M.W. Mak, W.W. Lin and J.T. Chien, "[Discriminative Subspace Modeling of SNR and Duration Variabilities for Robust Speaker Verification](http://doi.org/10.1016/j.csl.2017.04.001)", _Computer Speech and Language_, vol. 45, pp. 87-103, 2017. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/csl17.pdf)  [Derivation of Eq. 13](http://www.eie.polyu.edu.hk/~mwmak/papers/VB-plda.pdf)  
       
-    
 27.  N. Li, M.W. Mak, and J.T. Chien, "[DNN-driven Mixture of PLDA for Robust Speaker Verification](https://doi.org/10.1109/TASLP.2017.2692304)", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 25, no. 6, pp. 1371-1383, June 2017, [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP17.pdf)  
       
-    
-28.  W.W. Lin, M.W. Mak, and J.T. Chien, "[Fast Scoring for PLDA with Uncertainty Propagation via I-vector Grouping](http://dx.doi.org/10.1016/j.csl.2017.02.009)", _Computer Speech and Language_, vol. 45, pp. 503-515, 2017. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/csl16.pdf)  [Supplementary Materials  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/UncertaintyProp.pdf)
+28.  W.W. Lin, M.W. Mak, and J.T. Chien, "[Fast Scoring for PLDA with Uncertainty Propagation via I-vector Grouping](http://dx.doi.org/10.1016/j.csl.2017.02.009)", _Computer Speech and Language_, vol. 45, pp. 503-515, 2017. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/csl16.pdf)  [Supplementary Materials] (http://www.eie.polyu.edu.hk/~mwmak/papers/UncertaintyProp.pdf)
+
 29.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins](http://www.sciencedirect.com/science/article/pii/S016974391630452X)", _Chemometrics and Intelligent Laboratory Systems_, Vol. 162, March 2017, pp. 1-9. [Gram-LocEN Server](http://bioinfo.eie.polyu.edu.hk/Gram-LocEN/)  
       
-    
 30.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Transductive Learning for Multi-Label Protein Subchloroplast Localization Prediction](http://ieeexplore.ieee.org/document/7401011/)", _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 14, no. 1, pp. 212-224, Jan. 2017, [EnTrans-Cho](http://bioinfo.eie.polyu.edu.hk/EnTransChloServer/)  
       
-    
 31.  S.B. Wan, M.W. Mak and S.Y. Kung, "FUEL-mLoc: Feature-Unified Prediction and Explanation of Multi-Localization of Cellular Proteins in Multiple Organisms", _Bioinformatics_, 2016, [doi: 10.1093/bioinformatics/btw717](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw717). [FUEL-mLoc](http://bioinfo.eie.polyu.edu.hk/FUEL-mLoc/)  
       
     
