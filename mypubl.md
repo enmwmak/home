@@ -100,72 +100,55 @@
 
 29.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins](http://www.sciencedirect.com/science/article/pii/S016974391630452X)", _Chemometrics and Intelligent Laboratory Systems_, Vol. 162, March 2017, pp. 1-9. [Gram-LocEN Server](http://bioinfo.eie.polyu.edu.hk/Gram-LocEN/)  
       
-30.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Transductive Learning for Multi-Label Protein Subchloroplast Localization Prediction](http://ieeexplore.ieee.org/document/7401011/)", _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 14, no. 1, pp. 212-224, Jan. 2017, [EnTrans-Cho](http://bioinfo.eie.polyu.edu.hk/EnTransChloServer/)  
+30.  S.B. Wan, M.W. Mak, and S.Y. Kung, "[Transductive Learning for Multi-Label Protein Subchloroplast Localization Prediction](http://ieeexplore.ieee.org/document/7401011/)", _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 14, no. 1, pp. 212-224, Jan. 2017, [EnTrans-Cho](http://bioinfo.eie.polyu.edu.hk/EnTransChloServer/)  
       
-31.  S.B. Wan, M.W. Mak and S.Y. Kung, "FUEL-mLoc: Feature-Unified Prediction and Explanation of Multi-Localization of Cellular Proteins in Multiple Organisms", _Bioinformatics_, 2016, [doi: 10.1093/bioinformatics/btw717](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw717). [FUEL-mLoc](http://bioinfo.eie.polyu.edu.hk/FUEL-mLoc/)  
+31.  S.B. Wan, M.W. Mak, and S.Y. Kung, "FUEL-mLoc: Feature-Unified Prediction and Explanation of Multi-Localization of Cellular Proteins in Multiple Organisms," _Bioinformatics_, 2016, [doi: 10.1093/bioinformatics/btw717](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw717). [FUEL-mLoc](http://bioinfo.eie.polyu.edu.hk/FUEL-mLoc/)  
       
     
 32.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins](http://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686)", _Journal of_ _of Proteome Research_, Vol. 15, No. 12, Oct. 2016, pp. 4755-4762. [LNPChloServer](http://bioinfo.eie.polyu.edu.hk/LNPChloServer/)  
       
-    
-33.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Benchmark data for identifying multi-functional types of membrane proteins](http://www.sciencedirect.com/science/article/pii/S2352340916303122)", _Data in Brief_, vol. 8, September 2016, pp. 105�107.  
+33.  S.B. Wan, M.W. Mak, and S.Y. Kung, "[Benchmark data for identifying multi-functional types of membrane proteins](http://www.sciencedirect.com/science/article/pii/S2352340916303122)", _Data in Brief_, vol. 8, September 2016, pp. 105-107.  
       
-    
-34.  S.B. Wan, M.W. Mak and S.Y. Kung, "Mem-ADSVM: A Two-Layer Multi-Label Predictor for Identifying Multi-Functional Types of Membrane Proteins", _J. of Theoretical Biology_, 2016, vol. 398, pp. 32�42, June 2016. [MemADSVMServer  
-      
-    ](http://bioinfo.eie.polyu.edu.hk/MemADSVMServer)
+34.  S.B. Wan, M.W. Mak, and S.Y. Kung, "Mem-ADSVM: A Two-Layer Multi-Label Predictor for Identifying Multi-Functional Types of Membrane Proteins," _J. of Theoretical Biology_, 2016, vol. 398, pp. 32-42, June 2016. [MemADSVMServer](http://bioinfo.eie.polyu.edu.hk/MemADSVMServer)
+
 35.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Sparse Regressions for Predicting and Interpreting Subcellular Localization of Multi-label Proteins](http://www.biomedcentral.com/1471-2105/17/97)", _BMC Bioinformatics_, vol. 17:97, DOI 10.1186/s12859-016-0940-x, Feb. 2016, [SpaPredictorServer](http://bioinfo.eie.polyu.edu.hk/SpaPredictorServer)  
       
-    
 36.  W. Rao and M.W. Mak, "[Sparse Kernel Machines with Empirical Kernel Maps for PLDA Speaker Verification](http://dx.doi.org/10.1016/j.csl.2016.01.001)", _Computer Speech & Language_, vol. 38, pp. 104-121, Jan. 2016. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/emk.pdf)  
       
-    
-37.  M.W. Mak, X.M. Pang and J.T. Chien, "[Mixture of PLDA for Noise Robust I-Vector Speaker Verification](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322215&isnumber=7322312)", _IEEE/ACM Trans. on Audio Speech and Language Processing_, vol. 24, No. 1, pp. 130-142, Jan. 2016.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP16.pdf) [Resources and Matlab codes  
+37.  M.W. Mak, X.M. Pang and J.T. Chien, "[Mixture of PLDA for Noise Robust I-Vector Speaker Verification](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322215&isnumber=7322312)", _IEEE/ACM Trans. on Audio Speech and Language Processing_, vol. 24, No. 1, pp. 130-142, Jan. 2016.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP16.pdf) [Resources and Matlab codes](http://bioinfo.eie.polyu.edu.hk/mPLDA)
+
+38.  S.B. Wan, M.W. Mak, and S.Y. Kung, "[Mem-mEN: Predicting Multi-Functional Types of Membrane Proteins by Interpretable Elastic Nets](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7229308)", _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 14, no. 4, pp. 706-718, July 2016, [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/mem_type_prediction.pdf) [Mem-mEN Web Server](http://bioinfo.eie.polyu.edu.hk/MemmENServer/)  
       
-    ](http://bioinfo.eie.polyu.edu.hk/mPLDA)
-38.  S.B. Wan, M.W. Mak and S.Y. Kung, "[Mem-mEN: Predicting Multi-Functional Types of Membrane Proteins by Interpretable Elastic Nets](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7229308)", _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 14, no. 4, pp. 706-718, July 2016, [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/mem_type_prediction.pdf) [Mem-mEN Web Server](http://bioinfo.eie.polyu.edu.hk/MemmENServer/)  
-      
-    
 39.  S.B. Wan and M.W. Mak, "[Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with an Adaptive-Decision Scheme](http://link.springer.com/article/10.1007%2Fs13042-015-0460-4)", _International Journal of Machine Learning and Cybernetics, Special Issue on Semantic Data Analytics and Bioinformatics_, Nov. 2015. doi:10.1007/s13042-015-0460-4 [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/adsvm.pdf)  
       
-    
 40.  X.M. Pang and M.W. Mak, "[Noise Robust Speaker Verification via the Fusion of SNR-Independent and SNR-Dependent PLDA](http://link.springer.com/article/10.1007/s10772-015-9310-8)", _International Journal of Speech Technology_, vol. 18, Issue 4, Dec. 2015, pp 633-648. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/J-SpeechTech15.pdf)  
       
-    
-41.  S.B. Wan, M.W. Mak and S.Y. Kung, "[mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor](http://www.sciencedirect.com/science/article/pii/S0022519315003215)", _J. of Theoretical Biology_, vol. 382, Oct 2015, pp. 223�234.  
+41.  S.B. Wan, M.W. Mak and S.Y. Kung, "[mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor](http://www.sciencedirect.com/science/article/pii/S0022519315003215)", _J. of Theoretical Biology_, vol. 382, Oct 2015, pp. 223-234.  
       
-    
 42.  Na Li and M.W. Mak, "SNR-Invariant PLDA Modeling in Nonparametric Subspace for Robust Speaker Verification", _IEEE/ACM Trans. on Audio Speech and Language Processing_, vol. 23, no. 10, pp. 1648-1659, Oct. 2015. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2015.pdf) [Supplementary Materials](http://www.eie.polyu.edu.hk/~mwmak/papers/si-plda.pdf)  
       
-    
 43.  Baiying Lei and M.W. Mak, "[Robust scream sound detection via sound event partitioning](http://link.springer.com/article/10.1007%2Fs11042-015-2555-z)", _Multimedia Tools and Applications_, March 2015, pp. 1-19, DOI: 10.1007/s11042-015-2555-z.[](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2015.pdf)  
       
-    
 44.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mPLR-Loc: An Adaptive-decision Multi-label Classifier Based on Penalized Logistic Regression for Protein Subcellular Localization Prediction", _Analytical Biochemistry: Methods in the Biological Sciences_, Vol. 473, March 2015, Pages 14-27, [Paper](http://www.sciencedirect.com/science/article/pii/S0003269714004965), [mPLR-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/mPLRLocServer/)  
       
-    
 45.  S.B. Wan, M.W. Mak, and S.Y. Kung, "R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization", _J. of Theoretical Biology_, vol. 360, pp. 34�45, 2014. [Paper](http://www.sciencedirect.com/science/article/pii/S0022519314003749) [R3P-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/R3PLocServer/)  
       
-    
 46.  S.B. Wan, M.W. Mak, and S.Y. Kung, "HybridGO-Loc: Mining Hybrid Features on Gene Ontology for Predicting Subcellular Localization of Multi-Location Proteins", _PLoS ONE_, vol. 9, no. 3, March 2014. [Paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089545) [HybridGO-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/HybridGoServer/)  
       
-    
 47.  M.W. Mak and H.B. Yu, " A Study of Voice Activity Detection Techniques for NIST Speaker Recognition Evaluations", _Computer Speech & Language_, vol. 28, No. 1, Jan 2014, pp. 295-313. [Paper](http://www.sciencedirect.com/science/article/pii/S0885230813000533)  [Web Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)  
       
-    
 48.  S.B. Wan, M. Mak and S. Kung, "Semantic Similarity over Gene Ontology for Multi-Label Protein Subcellular Localization," _Engineering_, Vol. 5 No. 10B, 2013, pp. 68-72. doi:10.4236/eng.2013.510B014. [Paper](http://www.scirp.org/journal/PaperInformation.aspx?paperID=38539#.UzJB362Sw3s) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icbbe13.pptx)  
       
-    
 49.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou�s Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40�48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
+
 50.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)  
      
 51.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines", _BMC Bioinformatics_, 2012, 13:290.  [mGOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/mGOASVM.html) [Paper](http://www.biomedcentral.com/1471-2105/13/290) 
-52.  M.W. Mak, W. Wang, and S.Y. Kung, "Fast Subcellular Localization by Cascaded Fusion of Signal-Based and Homology-Based Methods", _Proteome Science_, 9(Suppl 1):S8. [Data (before Blustclust)](http://www.eie.polyu.edu.hk/~mwmak/papers/Group.zip) [Paper](http://www.proteomesci.com/content/9/S1/S8) [Presentation  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)
+
+52.  M.W. Mak, W. Wang, and S.Y. Kung, "Fast Subcellular Localization by Cascaded Fusion of Signal-Based and Homology-Based Methods", _Proteome Science_, 9(Suppl 1):S8. [Data (before Blustclust)](http://www.eie.polyu.edu.hk/~mwmak/papers/Group.zip) [Paper](http://www.proteomesci.com/content/9/S1/S8) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)
+
 53.  S.Y. Kung, Y.H. Luo, and M.W. Mak, "Feature Selection for Genomic Signal Processing: Unsupervised, Supervised, and Self-Supervised Scenarios, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, Vol. 61, Issue 1, Special Issue, pp. 3�20, Oct. 2010.  
-      
-    
+          
 54.  S.Y. Kung and M.W. Mak, "PDA-SVM Hybrid: A Unified Model for Kernel-Based Supervised Classification, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, May 2011.  
      
 55.  S.X. Zhang and M.W. Mak, "Optimized Discriminative Kernel for SVM Scoring and its Application to Speaker Verification", _IEEE Trans. on Neural Networks_, vol. 22, no. 2, Feb. 2011. [(tnn2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnn2010.pdf)  
@@ -174,7 +157,6 @@
      
 57.  S.X. Zhang and M.W. Mak, "A New Adaptation Approach to High-Level Speaker-Model Creation in Speaker Verification", _Speech Communication_, vol. 51, no. 6, pp.  534-550, 2009. [(sc2009.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/sc2009.pdf)   
        
-    
 58.  S.Y. Kung and M.W. Mak, "Feature Selection for Self-Supervised Classification with Applications to Microarray and Sequence Data", _IEEE Journal of Selected Topics in Signal Processing, Special Issue on Genomic and Proteomic Signal Processing_, vol. 2, No. 3, pp. 297-309, 2008.  
      
 59.  M.W. Mak and S.Y. Kung, "Fusion of Feature Selection Methods for Pairwise Scoring SVM", _Neurocomputing,_ vol. 71, no. 16-18, pp. 3104-3113, Oct. 2008. [(MakKung06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/MakKung06.pdf)  
@@ -188,29 +170,48 @@
 63.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification by Cascading Maximum Likelihood Linear Regression and Reinforced Learning", _Computer Speech and Language_, vol. 21, pp. 231-246, 2007. [(csl06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/csl06.pdf)  
      
 64.  S. Y. Kung and M. W. Mak. Machine Learning for Multi-Modality Genomic Signal Processing, _IEEE Signal Processing Magazine_, vol. 23, no. 3, May 2006, pp. 117-121. [(ieeespm06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeespm06.pdf) 
+
 65.  S.Y. Kung, M. W. Mak, and I. Tagkopoulos. Symmetric and asymmetric multi-modality biclustering analysis for microarray data matrix. _J. of Bioinformatics and Computational Biology_, 4(3), June 2006, pp. 275-298. (In the special CSB�05 issue). [(jbcb06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jbcb06.pdf) 
+
 66.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification, _Speech Communications_, Volume 48, Issue 1, January 2006, Pages 71-84. [(spcomm05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/spcomm05.pdf) 
+
 67.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "Blind Stochastic Feature Transformation for Channel Robust Speaker Verification, " _J. of VLSI Signal Processing,_ Vol. 42, Issue 2, pp. 117-126, 2006. [(jvlsisp04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jvlsisp04.pdf) [(BSFT and BBSFT Software)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz) 
+
 68.  M.W. Mak, C.H. Sit, and S.Y. Kung, "Extraction of Speaker Features from Different Stages of DSR Front-ends for Distributed Speaker Verification," _International Journal of Speech Technology_, vol. 8, pp. 67-77, 2005. [(ijst04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijst04.pdf) 
+
 69.  M.W. Mak, C.L. Tsang, and S.Y. Kung, "Stochastic Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification," _EURASIP J. on Applied Signal Processing_, vol. 2004, No. 4, April 2004, pp. 452-465. [(jasp03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jasp03.pdf) 
+
 70.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A Comparative Study on Kernel-Based Probabilistic Neural Networks for Speaker Verification", _International Journal of Neural Systems_, Vol. 12, No. 5, 381-391, 2002. [(ijons2.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/IJONS2.pdf)  
      
 71.  Zhang, W.D., He, M.X. and Mak, M.W. �An RBF networks approach for cloud detection,� _Journal of Ocean University of Qingdao,_ vol. 31, pp. 586-592, July, 2001.
   
 73.  M.W. Mak and S.Y. Kung. "Estimation of Elliptical Basis Function Parameters by the EM Algorithms with Application to Speaker Verification," _IEEE Trans. on Neural Networks_, Vol. 11, No. 4, pp. 961-969, July 2000. [(tnna069.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnna069.ps)
- 74.  K.W. Ku, M.W. Mak and W.C. Siu. "A Study of the Lamarckian Evolution of Recurrent Neural Networks," _IEEE Trans. on Evolutionary Computation_, Vol. 4, No. 1, pp. 31-42, April 2000. [(ieeetec.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeetec.ps)
- 75.  K.K. Yiu, M.W. Mak and C.K. Li, "Gaussian Mixture Models and Probabilistic Decision-Based Neural Networks for Pattern Classification: A Comparative Study," _Neural Computing and Applications_, Vol. 8, pp. 235-245, 1999. [(pdbnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/pdbnn.ps)
- 76.  X. Li, M.W. Mak and C.K. Li, "Determining the Optimal Number of Clusters by an Extended RPCL Algorithm," _International Journal of Advanced Computational Intelligence_, Vol. 3, No. 6, pp. 467-473, Dec. 1999. [(erpcl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/erpcl.ps) 
- 77.  K.W. Ku, M.W. Mak and W.C. Siu. "Adding Learning to Cellular Genetic Algorithms for Training Recurrent Neural Networks," _IEEE Trans. on Neural Networks_, Vol. 10, No. 2, pp. 239-252, March 1999. [(cgarnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgarnn.ps) 
- 78.  W.F. Chang and M.W. Mak. "A Conjugate Gradient Learning Algorithm for Recurrent Neural Networks," _Neurocomputing_, Vol. 24, pp. 173-189, Feb. 1999. [(cgrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgrl.ps) 
- 79.  M.W. Mak, K.W. Ku and Y.L. Lu. "On the Improvement of the Real Time Recurrent Learning Algorithm," _Neurocomputing_, Vol. 24, pp. 13-36, Feb. 1999. [(imprtrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/imprtrl.ps) 
- 80.  Y.K. Wong, A.B. Rad, L. Yan and M.W. Mak. "A Heating Process Controller by On-line Training Neural Network", _HKIE Transactions_, Vol. 3, No. 1, pp. 47-50, June 1996. 
- 81.  M.W. Mak, "A Learning Algorithm for Recurrent Radial Basis Function Networks," _Neural Processing Letters_, Vol. 2, No. 1, pp. 27-31, January 1995. 
- 82.  M.W. Mak and W.G. Allen, "A Lip-Tracking System Based on Morphological Processing and Block Matching Techniques," _Image Communication_, Vol. 6, No. 4, pp. 335-48, August 1994. 
- 83.  M.W. Mak and W.G. Allen, "Lip-Motion Analysis for Speech Segmentation in Noise," _Speech Communication_, Vol. 14, No. 3, pp. 279-96, June 1994. 
- 84.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
- 85.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
- 86.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
+
+74.  K.W. Ku, M.W. Mak and W.C. Siu. "A Study of the Lamarckian Evolution of Recurrent Neural Networks," _IEEE Trans. on Evolutionary Computation_, Vol. 4, No. 1, pp. 31-42, April 2000. [(ieeetec.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeetec.ps)
+
+75.  K.K. Yiu, M.W. Mak and C.K. Li, "Gaussian Mixture Models and Probabilistic Decision-Based Neural Networks for Pattern Classification: A Comparative Study," _Neural Computing and Applications_, Vol. 8, pp. 235-245, 1999. [(pdbnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/pdbnn.ps)
+
+76.  X. Li, M.W. Mak and C.K. Li, "Determining the Optimal Number of Clusters by an Extended RPCL Algorithm," _International Journal of Advanced Computational Intelligence_, Vol. 3, No. 6, pp. 467-473, Dec. 1999. [(erpcl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/erpcl.ps) 
+
+77.  K.W. Ku, M.W. Mak and W.C. Siu. "Adding Learning to Cellular Genetic Algorithms for Training Recurrent Neural Networks," _IEEE Trans. on Neural Networks_, Vol. 10, No. 2, pp. 239-252, March 1999. [(cgarnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgarnn.ps) 
+
+78.  W.F. Chang and M.W. Mak. "A Conjugate Gradient Learning Algorithm for Recurrent Neural Networks," _Neurocomputing_, Vol. 24, pp. 173-189, Feb. 1999. [(cgrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgrl.ps) 
+
+79.  M.W. Mak, K.W. Ku and Y.L. Lu. "On the Improvement of the Real Time Recurrent Learning Algorithm," _Neurocomputing_, Vol. 24, pp. 13-36, Feb. 1999. [(imprtrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/imprtrl.ps) 
+
+80.  Y.K. Wong, A.B. Rad, L. Yan and M.W. Mak. "A Heating Process Controller by On-line Training Neural Network", _HKIE Transactions_, Vol. 3, No. 1, pp. 47-50, June 1996. 
+
+81.  M.W. Mak, "A Learning Algorithm for Recurrent Radial Basis Function Networks," _Neural Processing Letters_, Vol. 2, No. 1, pp. 27-31, January 1995. 
+
+82.  M.W. Mak and W.G. Allen, "A Lip-Tracking System Based on Morphological Processing and Block Matching Techniques," _Image Communication_, Vol. 6, No. 4, pp. 335-48, August 1994. 
+
+83.  M.W. Mak and W.G. Allen, "Lip-Motion Analysis for Speech Segmentation in Noise," _Speech Communication_, Vol. 14, No. 3, pp. 279-96, June 1994. 
+
+84.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
+
+85.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
+
+86.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
 
