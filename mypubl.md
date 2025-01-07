@@ -5,7 +5,7 @@
 [Book Chapters](#Book-Chapters)    
 [Journal Papers](#Journal-Papers)   
 [Conference Papers](#Conference-Papers)    
-[Technical Reports](#Technical-Reports)  
+[Technical Reports](#Technical-Reports-and-Lecture-Notes)  
 
 ## Books  
 
