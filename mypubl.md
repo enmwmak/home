@@ -139,7 +139,7 @@
       
 48.  S.B. Wan, M. Mak and S. Kung, "Semantic Similarity over Gene Ontology for Multi-Label Protein Subcellular Localization," _Engineering_, Vol. 5 No. 10B, 2013, pp. 68-72. doi:10.4236/eng.2013.510B014. [Paper](http://www.scirp.org/journal/PaperInformation.aspx?paperID=38539#.UzJB362Sw3s) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icbbe13.pptx)  
       
-49.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou�s Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40�48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
+49.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou's Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40-48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
 
 50.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)  
      
@@ -147,43 +147,43 @@
 
 52.  M.W. Mak, W. Wang, and S.Y. Kung, "Fast Subcellular Localization by Cascaded Fusion of Signal-Based and Homology-Based Methods", _Proteome Science_, 9(Suppl 1):S8. [Data (before Blustclust)](http://www.eie.polyu.edu.hk/~mwmak/papers/Group.zip) [Paper](http://www.proteomesci.com/content/9/S1/S8) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)
 
-53.  S.Y. Kung, Y.H. Luo, and M.W. Mak, "Feature Selection for Genomic Signal Processing: Unsupervised, Supervised, and Self-Supervised Scenarios, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, Vol. 61, Issue 1, Special Issue, pp. 3�20, Oct. 2010.  
+53.  S.Y. Kung, Y.H. Luo, and M.W. Mak, "Feature Selection for Genomic Signal Processing: Unsupervised, Supervised, and Self-Supervised Scenarios, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, Vol. 61, Issue 1, Special Issue, pp. 3-20, Oct. 2010.  
           
-54.  S.Y. Kung and M.W. Mak, "PDA-SVM Hybrid: A Unified Model for Kernel-Based Supervised Classification, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, May 2011.  
+54.  S.Y. Kung and M.W. Mak, "PDA-SVM Hybrid: A Unified Model for Kernel-Based Supervised Classification, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, May 2011.
+    
+56.  S.X. Zhang and M.W. Mak, "Optimized Discriminative Kernel for SVM Scoring and its Application to Speaker Verification", _IEEE Trans. on Neural Networks_, vol. 22, no. 2, Feb. 2011. [(tnn2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnn2010.pdf)  
      
-55.  S.X. Zhang and M.W. Mak, "Optimized Discriminative Kernel for SVM Scoring and its Application to Speaker Verification", _IEEE Trans. on Neural Networks_, vol. 22, no. 2, Feb. 2011. [(tnn2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnn2010.pdf)  
+57.  M.W. Mak and W. Rao, "Utterance Partitioning with Acoustic Vector Resampling for GMM-SVM Speaker Verification", _Speech Communication_, vol. 53, no. 1, Jan. 2011, pp. 119-130. [(sc2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/sc2010.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/GMM-SVM+UP-AVR.ppt)  
      
-56.  M.W. Mak and W. Rao, "Utterance Partitioning with Acoustic Vector Resampling for GMM-SVM Speaker Verification", _Speech Communication_, vol. 53, no. 1, Jan. 2011, pp. 119-130. [(sc2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/sc2010.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/GMM-SVM+UP-AVR.ppt)  
-     
-57.  S.X. Zhang and M.W. Mak, "A New Adaptation Approach to High-Level Speaker-Model Creation in Speaker Verification", _Speech Communication_, vol. 51, no. 6, pp.  534-550, 2009. [(sc2009.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/sc2009.pdf)   
+58.  S.X. Zhang and M.W. Mak, "A New Adaptation Approach to High-Level Speaker-Model Creation in Speaker Verification", _Speech Communication_, vol. 51, no. 6, pp.  534-550, 2009. [(sc2009.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/sc2009.pdf)   
        
-58.  S.Y. Kung and M.W. Mak, "Feature Selection for Self-Supervised Classification with Applications to Microarray and Sequence Data", _IEEE Journal of Selected Topics in Signal Processing, Special Issue on Genomic and Proteomic Signal Processing_, vol. 2, No. 3, pp. 297-309, 2008.  
+59.  S.Y. Kung and M.W. Mak, "Feature Selection for Self-Supervised Classification with Applications to Microarray and Sequence Data", _IEEE Journal of Selected Topics in Signal Processing, Special Issue on Genomic and Proteomic Signal Processing_, vol. 2, No. 3, pp. 297-309, 2008.  
      
-59.  M.W. Mak and S.Y. Kung, "Fusion of Feature Selection Methods for Pairwise Scoring SVM", _Neurocomputing,_ vol. 71, no. 16-18, pp. 3104-3113, Oct. 2008. [(MakKung06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/MakKung06.pdf)  
+60.  M.W. Mak and S.Y. Kung, "Fusion of Feature Selection Methods for Pairwise Scoring SVM", _Neurocomputing,_ vol. 71, no. 16-18, pp. 3104-3113, Oct. 2008. [(MakKung06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/MakKung06.pdf)  
      
-60.  M.W. Mak, J. Guo, and S.Y. Kung, "PairProSVM: Protein Subcellular Localization Based on Local Pairwise Profile Alignment and SVM", _IEEE/ACM Trans. on Computational Biology and Bioinformatics_,  vol. 5, No. 3, pp. 416 - 422, 2008. [(tcbb.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tcbb07.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a_slide.pdf) [(Supplementary Materials)](http://www.eie.polyu.edu.hk/~mwmak/BSIG/PairProSVM.htm)  
+61.  M.W. Mak, J. Guo, and S.Y. Kung, "PairProSVM: Protein Subcellular Localization Based on Local Pairwise Profile Alignment and SVM", _IEEE/ACM Trans. on Computational Biology and Bioinformatics_,  vol. 5, No. 3, pp. 416 - 422, 2008. [(tcbb.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tcbb07.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a_slide.pdf) [(Supplementary Materials)](http://www.eie.polyu.edu.hk/~mwmak/BSIG/PairProSVM.htm)  
      
-61.  S.X. Zhang, M.W. Mak and Helen M. Meng, "Speaker Verification via High-Level Feature Based Phonetic-Class Pronunciation Modeling", _IEEE Trans. on Computers,_ Vol. 56, No. 9, pp. 1189-1198_,_ Sept. 2007. [(tc07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tc07.pdf)  
+62.  S.X. Zhang, M.W. Mak and Helen M. Meng, "Speaker Verification via High-Level Feature Based Phonetic-Class Pronunciation Modeling", _IEEE Trans. on Computers,_ Vol. 56, No. 9, pp. 1189-1198_,_ Sept. 2007. [(tc07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tc07.pdf)  
      
-62.  M.W. Mak, K.K. Yiu and S.Y. Kung, "Probabilistic Feature-Based Transformation for Speaker Verification over Telephone Networks", _Neurocomputing_, _special issue on Neural Networks for Speech and Audio Processing_, vol. 71, pp. 137�146, 2007. [(ncomp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ncomp07.pdf)  
+63.  M.W. Mak, K.K. Yiu and S.Y. Kung, "Probabilistic Feature-Based Transformation for Speaker Verification over Telephone Networks", _Neurocomputing_, _special issue on Neural Networks for Speech and Audio Processing_, vol. 71, pp. 137�146, 2007. [(ncomp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ncomp07.pdf)  
      
-63.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification by Cascading Maximum Likelihood Linear Regression and Reinforced Learning", _Computer Speech and Language_, vol. 21, pp. 231-246, 2007. [(csl06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/csl06.pdf)  
+64.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification by Cascading Maximum Likelihood Linear Regression and Reinforced Learning", _Computer Speech and Language_, vol. 21, pp. 231-246, 2007. [(csl06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/csl06.pdf)  
      
-64.  S. Y. Kung and M. W. Mak. Machine Learning for Multi-Modality Genomic Signal Processing, _IEEE Signal Processing Magazine_, vol. 23, no. 3, May 2006, pp. 117-121. [(ieeespm06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeespm06.pdf) 
+65.  S. Y. Kung and M. W. Mak. Machine Learning for Multi-Modality Genomic Signal Processing, _IEEE Signal Processing Magazine_, vol. 23, no. 3, May 2006, pp. 117-121. [(ieeespm06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeespm06.pdf) 
 
-65.  S.Y. Kung, M. W. Mak, and I. Tagkopoulos. Symmetric and asymmetric multi-modality biclustering analysis for microarray data matrix. _J. of Bioinformatics and Computational Biology_, 4(3), June 2006, pp. 275-298. (In the special CSB�05 issue). [(jbcb06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jbcb06.pdf) 
+66.  S.Y. Kung, M. W. Mak, and I. Tagkopoulos. Symmetric and asymmetric multi-modality biclustering analysis for microarray data matrix. _J. of Bioinformatics and Computational Biology_, 4(3), June 2006, pp. 275-298. (In the special CSB�05 issue). [(jbcb06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jbcb06.pdf) 
 
-66.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification, _Speech Communications_, Volume 48, Issue 1, January 2006, Pages 71-84. [(spcomm05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/spcomm05.pdf) 
+67.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification, _Speech Communications_, Volume 48, Issue 1, January 2006, Pages 71-84. [(spcomm05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/spcomm05.pdf) 
 
-67.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "Blind Stochastic Feature Transformation for Channel Robust Speaker Verification, " _J. of VLSI Signal Processing,_ Vol. 42, Issue 2, pp. 117-126, 2006. [(jvlsisp04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jvlsisp04.pdf) [(BSFT and BBSFT Software)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz) 
+68.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "Blind Stochastic Feature Transformation for Channel Robust Speaker Verification, " _J. of VLSI Signal Processing,_ Vol. 42, Issue 2, pp. 117-126, 2006. [(jvlsisp04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jvlsisp04.pdf) [(BSFT and BBSFT Software)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz) 
 
-68.  M.W. Mak, C.H. Sit, and S.Y. Kung, "Extraction of Speaker Features from Different Stages of DSR Front-ends for Distributed Speaker Verification," _International Journal of Speech Technology_, vol. 8, pp. 67-77, 2005. [(ijst04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijst04.pdf) 
+69.  M.W. Mak, C.H. Sit, and S.Y. Kung, "Extraction of Speaker Features from Different Stages of DSR Front-ends for Distributed Speaker Verification," _International Journal of Speech Technology_, vol. 8, pp. 67-77, 2005. [(ijst04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijst04.pdf) 
 
-69.  M.W. Mak, C.L. Tsang, and S.Y. Kung, "Stochastic Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification," _EURASIP J. on Applied Signal Processing_, vol. 2004, No. 4, April 2004, pp. 452-465. [(jasp03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jasp03.pdf) 
+70.  M.W. Mak, C.L. Tsang, and S.Y. Kung, "Stochastic Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification," _EURASIP J. on Applied Signal Processing_, vol. 2004, No. 4, April 2004, pp. 452-465. [(jasp03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jasp03.pdf) 
 
-70.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A Comparative Study on Kernel-Based Probabilistic Neural Networks for Speaker Verification", _International Journal of Neural Systems_, Vol. 12, No. 5, 381-391, 2002. [(ijons2.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/IJONS2.pdf)  
+71.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A Comparative Study on Kernel-Based Probabilistic Neural Networks for Speaker Verification", _International Journal of Neural Systems_, Vol. 12, No. 5, 381-391, 2002. [(ijons2.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/IJONS2.pdf)  
      
-71.  Zhang, W.D., He, M.X. and Mak, M.W. �An RBF networks approach for cloud detection,� _Journal of Ocean University of Qingdao,_ vol. 31, pp. 586-592, July, 2001.
+72.  Zhang, W.D., He, M.X. and Mak, M.W. �An RBF networks approach for cloud detection,� _Journal of Ocean University of Qingdao,_ vol. 31, pp. 586-592, July, 2001.
   
 73.  M.W. Mak and S.Y. Kung. "Estimation of Elliptical Basis Function Parameters by the EM Algorithms with Application to Speaker Verification," _IEEE Trans. on Neural Networks_, Vol. 11, No. 4, pp. 961-969, July 2000. [(tnna069.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnna069.ps)
 
