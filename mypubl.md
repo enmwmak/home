@@ -170,7 +170,7 @@
      
 74.  S. Y. Kung and M. W. Mak. Machine Learning for Multi-Modality Genomic Signal Processing, _IEEE Signal Processing Magazine_, vol. 23, no. 3, May 2006, pp. 117-121. [(ieeespm06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeespm06.pdf) 
 
-75.  S.Y. Kung, M. W. Mak, and I. Tagkopoulos. Symmetric and asymmetric multi-modality biclustering analysis for microarray data matrix. _J. of Bioinformatics and Computational Biology_, 4(3), June 2006, pp. 275-298. (In the special CSB�05 issue). [(jbcb06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jbcb06.pdf) 
+75.  S.Y. Kung, M. W. Mak, and I. Tagkopoulos. Symmetric and asymmetric multi-modality biclustering analysis for microarray data matrix. _J. of Bioinformatics and Computational Biology_, 4(3), June 2006, pp. 275-298. (In the special CSB'05 issue). [(jbcb06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jbcb06.pdf) 
 
 76.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification, _Speech Communications_, Volume 48, Issue 1, January 2006, Pages 71-84. [(spcomm05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/spcomm05.pdf) 
 
@@ -180,37 +180,37 @@
 
 79.  M.W. Mak, C.L. Tsang, and S.Y. Kung, "Stochastic Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification," _EURASIP J. on Applied Signal Processing_, vol. 2004, No. 4, April 2004, pp. 452-465. [(jasp03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/jasp03.pdf) 
 
-80.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A Comparative Study on Kernel-Based Probabilistic Neural Networks for Speaker Verification", _International Journal of Neural Systems_, Vol. 12, No. 5, 381-391, 2002. [(ijons2.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/IJONS2.pdf)  
-     
-81.  Zhang, W.D., He, M.X. and Mak, M.W. �An RBF networks approach for cloud detection,� _Journal of Ocean University of Qingdao,_ vol. 31, pp. 586-592, July, 2001.
+80.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A Comparative Study on Kernel-Based Probabilistic Neural Networks for Speaker Verification", _International Journal of Neural Systems_, Vol. 12, No. 5, 381-391, 2002. [(ijons2.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/IJONS2.pdf)
+   
+82.  Zhang, W.D., He, M.X. and Mak, M.W. "An RBF networks approach for cloud detection," _Journal of Ocean University of Qingdao,_ vol. 31, pp. 586-592, July, 2001.
   
-82.  M.W. Mak and S.Y. Kung. "Estimation of Elliptical Basis Function Parameters by the EM Algorithms with Application to Speaker Verification," _IEEE Trans. on Neural Networks_, Vol. 11, No. 4, pp. 961-969, July 2000. [(tnna069.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnna069.ps)
+83.  M.W. Mak and S.Y. Kung. "Estimation of Elliptical Basis Function Parameters by the EM Algorithms with Application to Speaker Verification," _IEEE Trans. on Neural Networks_, Vol. 11, No. 4, pp. 961-969, July 2000. [(tnna069.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnna069.ps)
 
-83.  K.W. Ku, M.W. Mak and W.C. Siu. "A Study of the Lamarckian Evolution of Recurrent Neural Networks," _IEEE Trans. on Evolutionary Computation_, Vol. 4, No. 1, pp. 31-42, April 2000. [(ieeetec.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeetec.ps)
+84.  K.W. Ku, M.W. Mak and W.C. Siu. "A Study of the Lamarckian Evolution of Recurrent Neural Networks," _IEEE Trans. on Evolutionary Computation_, Vol. 4, No. 1, pp. 31-42, April 2000. [(ieeetec.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeetec.ps)
 
-84.  K.K. Yiu, M.W. Mak and C.K. Li, "Gaussian Mixture Models and Probabilistic Decision-Based Neural Networks for Pattern Classification: A Comparative Study," _Neural Computing and Applications_, Vol. 8, pp. 235-245, 1999. [(pdbnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/pdbnn.ps)
+85.  K.K. Yiu, M.W. Mak and C.K. Li, "Gaussian Mixture Models and Probabilistic Decision-Based Neural Networks for Pattern Classification: A Comparative Study," _Neural Computing and Applications_, Vol. 8, pp. 235-245, 1999. [(pdbnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/pdbnn.ps)
 
-85.  X. Li, M.W. Mak and C.K. Li, "Determining the Optimal Number of Clusters by an Extended RPCL Algorithm," _International Journal of Advanced Computational Intelligence_, Vol. 3, No. 6, pp. 467-473, Dec. 1999. [(erpcl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/erpcl.ps) 
+86.  X. Li, M.W. Mak and C.K. Li, "Determining the Optimal Number of Clusters by an Extended RPCL Algorithm," _International Journal of Advanced Computational Intelligence_, Vol. 3, No. 6, pp. 467-473, Dec. 1999. [(erpcl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/erpcl.ps) 
 
-86.  K.W. Ku, M.W. Mak and W.C. Siu. "Adding Learning to Cellular Genetic Algorithms for Training Recurrent Neural Networks," _IEEE Trans. on Neural Networks_, Vol. 10, No. 2, pp. 239-252, March 1999. [(cgarnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgarnn.ps) 
+87.  K.W. Ku, M.W. Mak and W.C. Siu. "Adding Learning to Cellular Genetic Algorithms for Training Recurrent Neural Networks," _IEEE Trans. on Neural Networks_, Vol. 10, No. 2, pp. 239-252, March 1999. [(cgarnn.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgarnn.ps) 
 
-87.  W.F. Chang and M.W. Mak. "A Conjugate Gradient Learning Algorithm for Recurrent Neural Networks," _Neurocomputing_, Vol. 24, pp. 173-189, Feb. 1999. [(cgrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgrl.ps) 
+88.  W.F. Chang and M.W. Mak. "A Conjugate Gradient Learning Algorithm for Recurrent Neural Networks," _Neurocomputing_, Vol. 24, pp. 173-189, Feb. 1999. [(cgrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/cgrl.ps) 
 
-88.  M.W. Mak, K.W. Ku and Y.L. Lu. "On the Improvement of the Real Time Recurrent Learning Algorithm," _Neurocomputing_, Vol. 24, pp. 13-36, Feb. 1999. [(imprtrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/imprtrl.ps) 
+89.  M.W. Mak, K.W. Ku and Y.L. Lu. "On the Improvement of the Real Time Recurrent Learning Algorithm," _Neurocomputing_, Vol. 24, pp. 13-36, Feb. 1999. [(imprtrl.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/imprtrl.ps) 
 
-89.  Y.K. Wong, A.B. Rad, L. Yan and M.W. Mak. "A Heating Process Controller by On-line Training Neural Network", _HKIE Transactions_, Vol. 3, No. 1, pp. 47-50, June 1996. 
+90.  Y.K. Wong, A.B. Rad, L. Yan and M.W. Mak. "A Heating Process Controller by On-line Training Neural Network", _HKIE Transactions_, Vol. 3, No. 1, pp. 47-50, June 1996. 
 
-90.  M.W. Mak, "A Learning Algorithm for Recurrent Radial Basis Function Networks," _Neural Processing Letters_, Vol. 2, No. 1, pp. 27-31, January 1995. 
+91.  M.W. Mak, "A Learning Algorithm for Recurrent Radial Basis Function Networks," _Neural Processing Letters_, Vol. 2, No. 1, pp. 27-31, January 1995. 
 
-91.  M.W. Mak and W.G. Allen, "A Lip-Tracking System Based on Morphological Processing and Block Matching Techniques," _Image Communication_, Vol. 6, No. 4, pp. 335-48, August 1994. 
+92.  M.W. Mak and W.G. Allen, "A Lip-Tracking System Based on Morphological Processing and Block Matching Techniques," _Image Communication_, Vol. 6, No. 4, pp. 335-48, August 1994. 
 
-92.  M.W. Mak and W.G. Allen, "Lip-Motion Analysis for Speech Segmentation in Noise," _Speech Communication_, Vol. 14, No. 3, pp. 279-96, June 1994. 
+93.  M.W. Mak and W.G. Allen, "Lip-Motion Analysis for Speech Segmentation in Noise," _Speech Communication_, Vol. 14, No. 3, pp. 279-96, June 1994. 
 
-93.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
+94.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
 
-94.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
+95.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
 
-95.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
+96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
 
