@@ -2,10 +2,10 @@
  
 [Books](#Books)    
 [Editorials](#Editorials)   
-[Book Chapters](#Book Chapters)    
-[Journal Papers](#Journal Papers)   
-[Conference Papers](#Conference Papers)    
-[Technical Reports](#Technical_Reports)  
+[Book Chapters](#BookChapters)    
+[Journal Papers](#JournalPapers)   
+[Conference Papers](#ConferencePapers)    
+[Technical Reports](#TechnicalReports)  
 
 ## Books  
 
