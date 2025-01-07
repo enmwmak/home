@@ -523,67 +523,67 @@
    
 151.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Speaker Verification with A Priori Threshold Determination using Kernel-Based Probabilistic Neural Networks," _Int. Conf. on Neural Information Processing, 2002 (ICONIP'02)_, Singapore, Nov. 2002, pp. 2386-2390 [(iconip2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip2002.pdf)
      
- 137.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Divergence-Based Out-of-Class Rejection for Telephone Handset Identification," _Int. Conf. on Spoken Language Processing_, USA, 2002, pp. 2329-2332. [(icslp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp2002.pdf)
+153.  C. L. Tsang, M.W. Mak and S.Y. Kung, "Divergence-Based Out-of-Class Rejection for Telephone Handset Identification," _Int. Conf. on Spoken Language Processing_, USA, 2002, pp. 2329-2332. [(icslp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp2002.pdf)
   
-153.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Kernel-Based Probabilistic Neural Networks with Integrated Scoring Normalization for Speaker Verification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 623-630. [(pcm2002b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002b.pdf)
+154.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Kernel-Based Probabilistic Neural Networks with Integrated Scoring Normalization for Speaker Verification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 623-630. [(pcm2002b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002b.pdf)
      
- 142.  Eric W.M. Yu, M.W. Mak and S.Y. Kung, "Speaker Verification From Coded Telephone Speech Using Stochastic Feature Transformation and Handset Identification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 598-606. [(pcm2002a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002a.pdf) 
+156.  Eric W.M. Yu, M.W. Mak and S.Y. Kung, "Speaker Verification From Coded Telephone Speech Using Stochastic Feature Transformation and Handset Identification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 598-606. [(pcm2002a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002a.pdf) 
   
-155.  M.W. Mak and S.Y. Kung. "Combining Stochastic Feature Transformation and Handset Identification for Telephone-Based Speaker Verification, _ICASSP'2002,_ pp. I701-I704_._[(icassp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2002.pdf)
+157.  M.W. Mak and S.Y. Kung. "Combining Stochastic Feature Transformation and Handset Identification for Telephone-Based Speaker Verification, _ICASSP'2002,_ pp. I701-I704_._[(icassp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2002.pdf)
      
- 147.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A GMM-Based Handset Selector for Channel Mismatch Compensation with Applications to Speaker Identification," _Second IEEE Pacific-Rim Conference on Multimedia 2001 (PCM'2001)_, pp. 1132-1137, Oct. 2001. [(pcm2001.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2001.pdf)
+147.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A GMM-Based Handset Selector for Channel Mismatch Compensation with Applications to Speaker Identification," _Second IEEE Pacific-Rim Conference on Multimedia 2001 (PCM'2001)_, pp. 1132-1137, Oct. 2001. [(pcm2001.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2001.pdf)
  
- 148.  Zhang, W.D., He, M.X. and Mak, M.W. �Cloud detection using probabilistic neural networks,� _IEEE International Geoscience and Remote Sensing Symposium 2001 (IGARSS'01)_, pp. 2373-2375.
+148.  Zhang, W.D., He, M.X. and Mak, M.W. �Cloud detection using probabilistic neural networks,� _IEEE International Geoscience and Remote Sensing Symposium 2001 (IGARSS'01)_, pp. 2373-2375.
       
- 149.  M.W. Mak, W.D. Zhang and M.X. He, "A New Two-Stage Scoring Normalization Approach to Speaker Verification," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 107-110, May 2001, Hong Kong.[(1024.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1024.pdf)
+149.  M.W. Mak, W.D. Zhang and M.X. He, "A New Two-Stage Scoring Normalization Approach to Speaker Verification," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 107-110, May 2001, Hong Kong.[(1024.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1024.pdf)
  
- 150.  W.D. Zhang, M.X. He and M.W. Mak, "Application of MLP and RBF Networks to Cloud Detection,"_Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 60-63, May 2001, Hong Kong. [(4042.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/4042.pdf)
+150.  W.D. Zhang, M.X. He and M.W. Mak, "Application of MLP and RBF Networks to Cloud Detection,"_Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 60-63, May 2001, Hong Kong. [(4042.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/4042.pdf)
  
- 151.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Channel Distortion Compensation Based on the Measurement of Handset's Frequency Responses," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 197-200, May 2001, Hong Kong. [(1023.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1023.pdf)
+151.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Channel Distortion Compensation Based on the Measurement of Handset's Frequency Responses," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 197-200, May 2001, Hong Kong. [(1023.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1023.pdf)
  
- 152.  X. Li, M.W. Mak and S.Y. Kung, "Robust Speaker Verification Over the Telephone by Feature Recuperation," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_pp. 433-436, May 2001, Hong Kong. [(1022.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1022.pdf)
+152.  X. Li, M.W. Mak and S.Y. Kung, "Robust Speaker Verification Over the Telephone by Feature Recuperation," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_pp. 433-436, May 2001, Hong Kong. [(1022.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1022.pdf)
   
 157.  K.W. Ku and M.W. Mak, "Training Neurocontrollers by Local and Evolutionary Search," _Proc. Congress on Evolutionary Computation, 2000 (CEC'2000)_, Vol. 2, pp. 1558-1564.  
     
- 155.  W.D. Zhang, M.W. Mak and M.X. He, "A Two-Stage Scoring Method Combining World and Cohort Models for Speaker Verification," _Proc. Int. Conference on Acoustic, Speech and Signal Processing_, Vol. 2, pp. 1193-1196, 2000. [(icassp2000.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2000.ps)
+155.  W.D. Zhang, M.W. Mak and M.X. He, "A Two-Stage Scoring Method Combining World and Cohort Models for Speaker Verification," _Proc. Int. Conference on Acoustic, Speech and Signal Processing_, Vol. 2, pp. 1193-1196, 2000. [(icassp2000.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2000.ps)
  
-   156.  T.F. Lo and M.W. Mak, "A New Intra-Frame and Inter-Frame Cepstral Processing Method for Telephone-Based Speaker Verification," _Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications,_ pp. 116-122, 2000. [(mmws2000a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000a.ps) 
+156.  T.F. Lo and M.W. Mak, "A New Intra-Frame and Inter-Frame Cepstral Processing Method for Telephone-Based Speaker Verification," _Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications,_ pp. 116-122, 2000. [(mmws2000a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000a.ps) 
    
- 157.  M. W. Mak, W. D. Zhang and M. X. He, "Determination of A Priori Decision Threshold for Phrase-Prompted Speaker Verification,"_Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications_, pp. 96-103, 2000. [(mmws2000b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000b.ps)
+157.  M. W. Mak, W. D. Zhang and M. X. He, "Determination of A Priori Decision Threshold for Phrase-Prompted Speaker Verification,"_Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications_, pp. 96-103, 2000. [(mmws2000b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000b.ps)
   
 159.  K.K. Yiu, M.W. Mak, T.F. Lo and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speaker Verification with A Priori Decision Thresholds,"_1999 International Symposium on Signal Processing and Intelligent System,_ pp. 612-617.
      
- 160.  M.W. Mak and C.K. Li, "Elliptical Basis Function Networks and Radial Basis Function Networks for Speaker Verification: A Comparative Study," _International Joint Conference on Neural Networks (IJCNN'99)_, vol. 5, pp. 3034-3039, July 1999, Washington DC. [(ijcnn99.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn99.pdf) 
+160.  M.W. Mak and C.K. Li, "Elliptical Basis Function Networks and Radial Basis Function Networks for Speaker Verification: A Comparative Study," _International Joint Conference on Neural Networks (IJCNN'99)_, vol. 5, pp. 3034-3039, July 1999, Washington DC. [(ijcnn99.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn99.pdf) 
 
- 161.  T.F. Lo, M.W. Mak and K.K. Yiu "A New Cepstrum-Based Channel Compensation Method for Speaker Verification," _Eurospeech'99_, Vol. 2, pp. 775-778, Sept. 1999, Hungary. [(eurospeech99a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99a.pdf) 
+161.  T.F. Lo, M.W. Mak and K.K. Yiu "A New Cepstrum-Based Channel Compensation Method for Speaker Verification," _Eurospeech'99_, Vol. 2, pp. 775-778, Sept. 1999, Hungary. [(eurospeech99a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99a.pdf) 
  
- 162.  W.D. Zhang, K.K. Yiu, M.W. Mak, C.K. Li and M.X. He, "A Priori Threshold Determination for Phrase-Prompted Speaker Verification", _Eurospeech'99_, Vol.2, pp. 1023-1026, Sept. 1999, Hungary. [(eurospeech99b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99b.pdf) 
+162.  W.D. Zhang, K.K. Yiu, M.W. Mak, C.K. Li and M.X. He, "A Priori Threshold Determination for Phrase-Prompted Speaker Verification", _Eurospeech'99_, Vol.2, pp. 1023-1026, Sept. 1999, Hungary. [(eurospeech99b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99b.pdf) 
  
- 163.  M.W. Mak, C.K. Li and X. Li, "Maximum Likelihood Estimation of Elliptical Basis Function Parameters with Application to Speaker Verification," _International Conference on Signal Processing (ICSP'98)_, pp. 1287-1290. Oct. 98, Beijing. [(icsp98a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98a.ps) 
+163.  M.W. Mak, C.K. Li and X. Li, "Maximum Likelihood Estimation of Elliptical Basis Function Parameters with Application to Speaker Verification," _International Conference on Signal Processing (ICSP'98)_, pp. 1287-1290. Oct. 98, Beijing. [(icsp98a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98a.ps) 
  
- 164.  K.K. Yiu, M.W. Mak and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speech Pattern Classification," _International Conference on Signal Processing (ICSP'98)_, pp. 1378-1381, Oct. 98, Beijing. [(icsp98b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98b.ps) 
+164.  K.K. Yiu, M.W. Mak and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speech Pattern Classification," _International Conference on Signal Processing (ICSP'98)_, pp. 1378-1381, Oct. 98, Beijing. [(icsp98b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98b.ps) 
  
- 165.  X. Li and M.W. Mak, "Optimization of EBFN architecture by an improved RPCL algorithm with application to speaker verification," _Proc. of the 1998 Symposium on Image, Speech, Signal Processing and Robotics (ISSPR'98)_, Vol. II, pp. 43-47, Hong Kong. [(isspr98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isspr98.ps) 
+165.  X. Li and M.W. Mak, "Optimization of EBFN architecture by an improved RPCL algorithm with application to speaker verification," _Proc. of the 1998 Symposium on Image, Speech, Signal Processing and Robotics (ISSPR'98)_, Vol. II, pp. 43-47, Hong Kong. [(isspr98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isspr98.ps) 
  
- 166.  K.W. Ku and M.W. Mak, "Empirical Analysis of the Factors that Affect the Baldwin Effect," _Fifth Internation Conference on Parallel Problem Solving from Nature (PPSN'98)_, pp. 481-490, Sept. 98, Amsterdam. [(ppsn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ppsn98.ps) 
+166.  K.W. Ku and M.W. Mak, "Empirical Analysis of the Factors that Affect the Baldwin Effect," _Fifth Internation Conference on Parallel Problem Solving from Nature (PPSN'98)_, pp. 481-490, Sept. 98, Amsterdam. [(ppsn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ppsn98.ps) 
  
- 167.  M.W. Mak and K.W. Cho, "Genetic Evolution of Radial Basis Function Centers for Pattern Classification", _International Conference on Neural Networks (ICNN'98)_, pp. 669-673 May 1998, USA. [(ijcnn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn98.ps) 
+167.  M.W. Mak and K.W. Cho, "Genetic Evolution of Radial Basis Function Centers for Pattern Classification", _International Conference on Neural Networks (ICNN'98)_, pp. 669-673 May 1998, USA. [(ijcnn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn98.ps) 
  
- 168.  K.W. Ku and M.W. Mak, "Exploring the Effects of Lamarckian and Baldwinian Learning in Evolving Neural Networks", _Int. Conf. on Evolutionary Computation (ICEC'97)_, pp. 617-20, 13-16 April 1997. [(icec97.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icec97.ps) 
+168.  K.W. Ku and M.W. Mak, "Exploring the Effects of Lamarckian and Baldwinian Learning in Evolving Neural Networks", _Int. Conf. on Evolutionary Computation (ICEC'97)_, pp. 617-20, 13-16 April 1997. [(icec97.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icec97.ps) 
  
- 169.  M.W. Mak, "Text-Independent Speaker Verification Over a Telephone Network by Radial Basis Function Networks", _Proc. Int. Sym. Multi-Technology Information Processing (ISMIP'96)_, pp. 145-150, December 1996, Taiwan. [(ismip96.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ismip96.ps) 
+169.  M.W. Mak, "Text-Independent Speaker Verification Over a Telephone Network by Radial Basis Function Networks", _Proc. Int. Sym. Multi-Technology Information Processing (ISMIP'96)_, pp. 145-150, December 1996, Taiwan. [(ismip96.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ismip96.ps) 
  
- 170.  K.W. Ku, M.W. Mak and W.C. Siu, "A Cellular Genetic Algorithm for Training Recurrent Neural Networks", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 140-3, 10-3 December 1995, Nanjing, China. [(icnnsp95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnnsp95.ps) 
+170.  K.W. Ku, M.W. Mak and W.C. Siu, "A Cellular Genetic Algorithm for Training Recurrent Neural Networks", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 140-3, 10-3 December 1995, Nanjing, China. [(icnnsp95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnnsp95.ps) 
  
- 171.  Y.L. Lu, M.W. Mak and W.C. Siu, "Diminish the Computational Burden of Real Time Recurrent Learning Algorithm by Constrainted Sensitivity", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 223-6, 10-3 December 1995, Nanjing, China. 
+171.  Y.L. Lu, M.W. Mak and W.C. Siu, "Diminish the Computational Burden of Real Time Recurrent Learning Algorithm by Constrainted Sensitivity", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 223-6, 10-3 December 1995, Nanjing, China. 
  
- 172.  M.W. Mak, Y.L. Lu and K.W. Ku, "Improved Real-time Recurrent Learning Algorithm : A Review and some New Approaches", _Proceedings, International Symposium on Artificial Neural Networks (ISANN'95)_, pp. IS01-IS06, December 1995, Taiwan. [(isann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isann95.ps) 
+172.  M.W. Mak, Y.L. Lu and K.W. Ku, "Improved Real-time Recurrent Learning Algorithm : A Review and some New Approaches", _Proceedings, International Symposium on Artificial Neural Networks (ISANN'95)_, pp. IS01-IS06, December 1995, Taiwan. [(isann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isann95.ps) 
  
- 173.  Y.L. Lu, M.W. Mak and W.C. Siu, "Application of a Fast Real-Time Recurrent Learning Algorithm to text-to-phoneme Conversion", _Proceedings, IEEE International Conference on Neural Networks (ICNN'95)_, Vol. 5, pp. 2853-7, November- December 1995, Perth, Australia. [(icnn95.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnn95.pdf) 
+173.  Y.L. Lu, M.W. Mak and W.C. Siu, "Application of a Fast Real-Time Recurrent Learning Algorithm to text-to-phoneme Conversion", _Proceedings, IEEE International Conference on Neural Networks (ICNN'95)_, Vol. 5, pp. 2853-7, November- December 1995, Perth, Australia. [(icnn95.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnn95.pdf) 
  
- 174.  M.W. Mak, "Speaker Identification using Modular Recurrent Neural Networks", _Proceedings, 4th IEE International Conference on Artificial Neural Networks_, pp. 1-6, June 1995, U.K. [(ieeann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann95.ps) 
+174.  M.W. Mak, "Speaker Identification using Modular Recurrent Neural Networks", _Proceedings, 4th IEE International Conference on Artificial Neural Networks_, pp. 1-6, June 1995, U.K. [(ieeann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann95.ps) 
  
- 175.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Radial Basis Functions," _The 3rd IEE Int. Conf. on Artificial Neural Networks_, pp. 138-142, U.K. [(ieeann93.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann93.pdf)   
+175.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Radial Basis Functions," _The 3rd IEE Int. Conf. on Artificial Neural Networks_, pp. 138-142, U.K. [(ieeann93.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann93.pdf)   
      
 176.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptron and Radial Basis function Networks in Speaker Recognition", _BCS/IEEE/EUROMICRO Workshop on Neural Networks: Techniques and Applications_, Liverpool, 7-8 Sept. 1992.
 
