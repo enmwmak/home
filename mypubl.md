@@ -214,6 +214,14 @@
 
 ## Conference Papers
 
+1. Zhe Li, Man-Wai Mak, Mert Pilanci, Hyng-yi Lee, and Helen Meng, "Spectral-Aware Low-Rank Adaptation for Speaker
+Verification," _ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025a.pdf)
+
+1. Chong-Xin Gan, Youzhi Tu, Zezhong Jin, Man-Wai Mak, and Kong Aik Lee, "Grouped Knowledge Distillation with Adaptive
+Logit Softening for Speaker Recognition," _ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025b.pdf)
+
+1. Zezhong Jin, Youzhi Tu, Zhe Li, Zilong Huang, Chong-Xin Gan, and Man-Wai Mak, "Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification," _ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025c.pdf)
+
 1.  Junjie Li, Kong-Aik Lee and Man-Wai Mak, "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction", _Proc. IEEE Spoken Language Technology Workshop_, Macau, Dec 2024.  
     
 2.  Jin Zezhong, Youzhi TU and Man-Wai Mak, "JOSEPH: Phonetic-aware Speaker Embedding for Far-field Speaker Verification, _Proc. APSIPA_, Macau, Dec 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa24.pdf)  
