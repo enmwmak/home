@@ -331,37 +331,35 @@
     
 44.  Youzhi TU, Yingke ZHU, Man Wai MAK, Dongpeng CHEN, Weiwei LIN, Brian K.W. MAK, Zhuxin CHEN and Weibin ZHANG, "PAU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/pau-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/PAU_sre18_poster.pdf)
     
-46.  M.W. Mak, W.W. Lin, and Y.Z. Tu, "PolyU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/polyu-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/sre18_poster.pdf)[  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)
-46.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Patient-Specific Heartbeat Classification Based on I-Vector Adapted Deep Neural Networks", _IEEE International Conference on Bioinformatics and Biomedicine_, Madrid, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18_present.pdf)  
+46.  M.W. Mak, W.W. Lin, and Y.Z. Tu, "PolyU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/polyu-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/sre18_poster.pdf)
+    
+48.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Patient-Specific Heartbeat Classification Based on I-Vector Adapted Deep Neural Networks", _IEEE International Conference on Bioinformatics and Biomedicine_, Madrid, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18_present.pdf)  
       
     
-47.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "The Application of Machine Learning Techniques on Channel Frequency Response based Indoor Positioning in Dynamic Environments", _IEEE International Conference on Sensing, Communication and Networking (CoWPER'18)_, 2018.  
+49.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "The Application of Machine Learning Techniques on Channel Frequency Response based Indoor Positioning in Dynamic Environments", _IEEE International Conference on Sensing, Communication and Networking (CoWPER'18)_, 2018.  
       
     
-48.  W.W. Lin, M.W. Mak, L.X. Li, and J.T. Chien, "Reducing Domain Mismatch by Maximum Mean Discrepancy Based Autoencoders", _Speaker Odyssey 2018_, June 2018, Les Sables d�Olonne, France, pp. 162-167. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18_present.pdf)  
+50.  W.W. Lin, M.W. Mak, L.X. Li, and J.T. Chien, "Reducing Domain Mismatch by Maximum Mean Discrepancy Based Autoencoders", _Speaker Odyssey 2018_, June 2018, Les Sables d'Olonne, France, pp. 162-167. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18_present.pdf)  
       
     
-49.  L.X. Li and M.W. Mak, "Unsupervised Domain Adaptation for Gender-Aware PLDA Mixture Models, _ICASSP' 2018_, pp. 5269-5273. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp18_poster.pdf)  
+51.  L.X. Li and M.W. Mak, "Unsupervised Domain Adaptation for Gender-Aware PLDA Mixture Models, _ICASSP' 2018_, pp. 5269-5273. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp18_poster.pdf)  
       
     
-50.  K. A. Lee, V. Hautamaki, T. Kinnunen, A. Larcher, C. Zhang, A. Nautsch, T. Stafylakis, G. Liu, M. Rouvier, W. Rao, F. Alegre, J. Ma, M. W. Mak, A. K. Sarkar, H. Delgado, R. Saeidi, H. Aronowitz, A. Sizov1, H. Sun, G. Wang, T. H. Nguyen1, B. Ma, V. Vestman, M. Sahidullah, M. Halonen, A. Kanervisto, G. Le Lan, F. Bahmaninezhad, S. Isadskiy, C. Rathgeb, C. Busch, G. Tzimiropoulos, Q. Qian, Z. Wang, Q. Zhao, T. Wang, H. Li, J. Xue, S. Zhu, R. Jin, T. Zhao, P.M. Bousquet, M. Ajili, W. B. Kheder, D. Matrouf, Z. H. Lim, C. Xu, H. Xu, X. Xiao, E. S. Chng, B. Fauve, K. Sriskandaraja,  
+52.  K. A. Lee, V. Hautamaki, T. Kinnunen, A. Larcher, C. Zhang, A. Nautsch, T. Stafylakis, G. Liu, M. Rouvier, W. Rao, F. Alegre, J. Ma, M. W. Mak, A. K. Sarkar, H. Delgado, R. Saeidi, H. Aronowitz, A. Sizov1, H. Sun, G. Wang, T. H. Nguyen1, B. Ma, V. Vestman, M. Sahidullah, M. Halonen, A. Kanervisto, G. Le Lan, F. Bahmaninezhad, S. Isadskiy, C. Rathgeb, C. Busch, G. Tzimiropoulos, Q. Qian, Z. Wang, Q. Zhao, T. Wang, H. Li, J. Xue, S. Zhu, R. Jin, T. Zhao, P.M. Bousquet, M. Ajili, W. B. Kheder, D. Matrouf, Z. H. Lim, C. Xu, H. Xu, X. Xiao, E. S. Chng, B. Fauve, K. Sriskandaraja,  
     V. Sethu, W. W. Lin, D. A. L. Thomsen, Z.-H. Tan, M. Todisco, N. Evans, H. Li, J. H. L. Hansen, J.F. Bonastre, E. Ambikairajah, "The I4U Mega Fusion and Collaboration for NIST Speaker Recognition Evaluation 2016", _Interspeech'17_, 2017, p. 1328-1332.  
       
     
-51.  Zhili Tan and M.W. Mak, "I-Vector DNN Scoring and Calibration for Noise Robust Speaker Verification", _Interspeech'17_, 2017, pp. 1562-1566. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech17.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech17_poster.pdf)  
+53.  Zhili Tan and M.W. Mak, "I-Vector DNN Scoring and Calibration for Noise Robust Speaker Verification", _Interspeech'17_, 2017, pp. 1562-1566. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech17.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech17_poster.pdf)  
       
     
-52.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Deep Neural Networks versus Support Vector Machines for ECG Arrhythmia Classification", _The 7th International IEEE Workshop on__Multimedia Services and Technologies for E-health_ _(MUST-EH 2017)_, 2017, pp. 127-132. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/must-eh-2017.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/must-eh-present17.pdf)  
+54.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Deep Neural Networks versus Support Vector Machines for ECG Arrhythmia Classification", _The 7th International IEEE Workshop on__Multimedia Services and Technologies for E-health_ _(MUST-EH 2017)_, 2017, pp. 127-132. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/must-eh-2017.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/must-eh-present17.pdf)  
       
     
-53.  N. Li and M.W. Mak, and T.J. Chien, "Deep Neural Network Driven Mixture of PLDA for Robust I-Vector Speaker Verification", _IEEE SLT 2016 Workshop on Spoken Language Technology_, San Diego, Dec. 2016, pp. 186-191.   [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/slt16.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/slt16_poster.pdf)  
+55.  N. Li and M.W. Mak, and T.J. Chien, "Deep Neural Network Driven Mixture of PLDA for Robust I-Vector Speaker Verification", _IEEE SLT 2016 Workshop on Spoken Language Technology_, San Diego, Dec. 2016, pp. 186-191.   [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/slt16.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/slt16_poster.pdf)  
       
     
-54.  M.W. Mak and W.W. Lin, "PolyU Submission of NIST 2016 Speaker Recognition Evaluation", _NIST 2016 SRE Workshop,_ San Diego, Dec. 2016. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16.pdf) [Poster  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)
+56.  M.W. Mak and W.W. Lin, "PolyU Submission of NIST 2016 Speaker Recognition Evaluation", _NIST 2016 SRE Workshop,_ San Diego, Dec. 2016. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)
+    
 55.  Zhili Tan, Yingke Zhu, M.W. Mak and B. Mak, "Senone I-Vectors for Robust Speaker Verification", _Int. Sym. on Chinese Spoken Language Processing (ISCSLP'16),_ Tianjin, Oct. 2016. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp16.pdf)  
       
     
@@ -398,150 +396,193 @@
 66.  B.Y. Lei and M.W. Mak, "Sound-Event Partitioning and Feature Normalization for Robust Sound-Event Detection", _International Conference on Digital Signal Processing_, pp.389-394, Aug. 2014, [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/DSP2014.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/DSP14_present.ppt)  
       
     
-67.  W. Rao and M.W. Mak, "Construction of Discriminative Kernels from Known and Unknown Non-targets for PLDA-SVM Scoring", _ICASSP'2014_, pp. 4040-4044, Florence, 2014. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14a.pdf) [Presentation File  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14a.pptx)
-68.  S.B. Wan, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung, "Ensemble Random Projection for Multi-label Classification with Application to Protein Subcellular Localization", _ICASSP'2014_, pp. 6040-6044, Florence, 2014. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14b.pdf)  
-      
+67.  W. Rao and M.W. Mak, "Construction of Discriminative Kernels from Known and Unknown Non-targets for PLDA-SVM Scoring", _ICASSP'2014_, pp. 4040-4044, Florence, 2014. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14a.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14a.pptx)
     
-69.  S.B. Wan, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung, An Ensemble Classifier with Random Projection for Predicting Multi-label Protein Subcellular Localization", _Workshop on Integrative Data Analysis in System Biology_, _IEEE Int. Conf. on Bioinformatics and Biomedicine (BIBM'2013)_, Dec. 2013, Shanghai, pp. 35-42. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm13.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm13.pptx)  
+69.  S.B. Wan, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung, "Ensemble Random Projection for Multi-label Classification with Application to Protein Subcellular Localization", _ICASSP'2014_, pp. 6040-6044, Florence, 2014. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp14b.pdf)  
       
     
-70.  M.W. Mak and W. Rao, "Likelihood-Ratio Empirical Kernels for I-Vector Based PLDA-SVM Scoring", _IEEE Int. Conf. on Acoustic Speech and Signal Processing (ICASSP'13),_ May 2013, Vancouver, pp. 7702-7706. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13a.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13a_poster.pdf)  
-     
-71.  S.B. Wan, M.W. Mak and S.Y. Kung, "Adaptive Thresholding for Multi-Label SVM Classification with Application to Protein Subcellular Localization Prediction", _IEEE Int. Conf. on Acoustic Speech and Signal Processing (ICASSP'13),_ May 2013, Vancouver, pp. 3547-3551 [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13b.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13b_poster.pdf)  
-     
-72.  W. Rao and M.W. Mak, "Alleviating the Small Sample-Size Problem in I-Vector Based Speaker Verification", _Int. Sym. on Chinese Spoken Language Processing_ _(ISCSLP'12),_ Dec. 2012, Hong Kong_,_ pp. 335-339. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp12.pdf) 
-73.  W. Rao and M.W. Mak, "Utterance Partitioning with Acoustic Vector Resampling for I-Vector Based Speaker Verification", _Odyssey 2012: The Speaker and Language Recognition Workshop_, Singapore, Jun 2012, pp. 165-171. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/odyssey12.pdf) [PPT Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/odyssey12_present.pdf) [Presentation in Odyssey Workshop](http://www.superlectures.com/odyssey2012/utterance-partitioning-with-acoustic-vector-resampling-for-i-vector-based-speaker-verification)   
-74.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: Protein Subcellular Localization Prediction Based on Gene Ontology Annotation and SVM", _ICASSP'12_, Kyoto, 2012, pp. 2229-2232. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp12a.pdf)  [Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html)     
-     
-75.  M.W. Mak and S.Y. Kung, "Low-Power SVM Classifiers for Sound Event Classification on Mobile Devices", _ICASSP'12_, Kyoto, 2012, pp. 1985-1988. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp12b.pdf)   
-     
-76.  S.B. Wan, M.W. Mak, and S.Y. Kung, "Protein Subcellular Localization Prediction Based on Profile Alignment and Gene Ontology", _2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11)_, Beijing, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp11.pdf) 
-77.  H.B. Yu and M.W. Mak, "Comparison of Voice Activity Detectors for Interview Speech in NIST Speaker Recognition Evaluation", _Interspeech'11_, pp. 2353-2356, pp. 2353-2356, Florence, Aug. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11a.pdf) [Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)   
-     
-78.  W. Rao and M.W. Mak, "Addressing the Data-Imbalance Problem in Kernel-based Speaker Verification via Utterance Partitioning and Speaker Comparison", _Interspeech'11_, pp. 2717-2720, Plague, July 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11b.pdf)   
-     
-79.  W. Jiang, M. W. Mak, W. Rao, H. Meng, The HKCUPU System for the NIST 2010 Speaker Recognition Evaluation, _ICASSP' 2011_. pp. 5288 - 5291, Florence, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp11.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2011_poster.pdf)   
-     
-80.  M.W. Mak, W. Wang, and S.Y. Kung, "Truncation of Protein Sequences for Fast Profile Alignment with Application to Subcellular Localization", _Proc. IEEE International Conference on Bioinformatics & Biomedicine (BIBM'2010)_, pp. 115-120, Dec. 2010, Hong Kong. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)   
-     
-81.  M.W. Mak and H.B. Yu, "Robust Voice Activity Detection for Interview Speech in NIST Speaker Recognition Evaluation, "_Proc. APSIPA ASC_ 2010, pp. 64-71, Dec. 2010, Singapore. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.ppt)   
-     
-82.  M.W. Mak and W. Rao, "Acoustic Vector Resampling for GMMSVM-Based Speaker Verification, _Interspeech 2010_. Sept. 2010, Makuhari, Japan, pp. 1449-1452. [(interspeech10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10.pdf) [(interspeech10-poster.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10-poster.pdf)  
-     
-83.  W. Wang, M.W. Mak and S.Y. Kung, "Speeding up Subcellular Localization by Extracting Informative Regions of Protein Sequences for Profile Alignment", _Proc. Computational Intelligence in Bioinformatics and Computational Biology (CIBCB'10),_ Montreal, May, pp. 147-154. [(cibcb10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/cibcb10.pdf)  
-     
-84.  G. L. Ye, B. Mak and M.W. Mak "Fast GMM Computation for Speaker Verification Using Scalar Quantization and Discrete Densities", _Interspeech'2009_, Brighton, Sept. 2009, pp. 2327-2330.  
-     
-85.  S.X. Zhang and M.W. Mak, "Optimization of Discriminative Kernels in SVM Speaker Verification", _Interspeech'2009_, Brighton, Sept. 2009, 1275-1278. [(interspeech09.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech09.pdf) 
-86.  S.X. Zhang and M.W. Mak, Regression Optimized Kernel for High-Level Speaker Verification, _Proc. APSIPA ASC_ 2009, Sapporo, pp. 40-44, Oct. 2009.  [(apsipa09a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa09a.pdf) 
-87.  M.W. Mak, W. Wang, and S.Y. Kung. "Fusion of Conditional Random Field and SignalP for Protein Cleavage Site Prediction",  _Proc. APSIPA ASC_ 2009, Sapporo, pp. 716-721, Oct. 2009. [(apsipa09b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa09b.pdf) 
-88.  M.W. Mak and S.Y. Kung, "Conditional Random Fields for the Prediction of Signal Peptide Cleavage Sites", _ICASSP'09,_ April 2009, Taipei, pp. 1605-1608_._[Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp09.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp09a.ppt)    [CSitePred Web Server](http://158.132.148.85:8080/CSitePred/faces/Page1.jsp)  
-     
-89.  S.X. Zhang and M.W. Mak, "High-Level Speaker Verification via Articulatory-Feature based Sequence Kernels and SVM", _Interspeech'2008_, Brisbane, Sept. 2008, pp.  1393-1396 [(interspeech08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech08.pdf)  
-     
-90.  S.X. Zhang and M.W. Mak, "Articulatory-Feature based Sequence Kernel For High-Level Speaker Verification", _Int. Conf. on Machine Learning and Cybernetics (ICMLC) 2008_, vol. 5, pp. 2799-2804 [(icmlc08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icmlc08.pdf)_._ 
-91.  M.W. Mak and S.Y. Kung, "Fusion of Cleavage Site Detection and Pairwise Alignment for Fast Subcellular Localization", _ICASSP'08_, pp. 573-576, Las Vegas, April, 2008 [(icassp08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp08.pdf)  
-     
-92.  S.X. Zhang and M. W. Mak, "A New Adaptation Method for Speaker-Model Creation in High-Level Speaker Verification", _Advances in Multimedia Information Processing (PCM'2007)_, Hong Kong_,_ Springer LNCS 4810, pp. 325-335.  [(pcm07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm07.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/PCM07_pres.pdf) 
-93.  F. Mai, M.W. Mak, Y.S. Hung, and S.Y. Kung, "Sensitivity Analysis Of Boosting PSI-BLAST with Case Study on Subcellular Localization", _2007 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'07)_, Thessaloniki, Greece, Aug. 2007, pp. 39-44. [(mlsp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp07.pdf)  
-     
-94.  S.X. Zhang, M. W. Mak, and H. Meng, "High-Level Feature-Based Speaker Verification via Articulatory Phonetic-Class Pronunciation Modeling", _Interspeech'2007_, pp. 762-765, Antwery, Belgium [(interspeech07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech07.pdf) 
-95.  B. Ma, H. Meng, M. W. Mak, "Effects of Device Mismatch, Language Mismatch and Environmental Mismatch on Speaker Verification", _ICASSP'07_, 2007, vol. 4, pp. 301-304.  
-     
-96.  Henry Pak-Sum Hui, Helen M. Meng, Man-Wai Mak, "Adaptive Weight Estimation in Multi-Biometric Verification Using Fuzzy Logic Decision Fusion", _ICASSP'07_, 2007, vol. 1, pp. 501-504.  
-     
-97.  S.Y. Kung and M.W. Mak, Feature Selection for Pairwise Scoring Kernels with Applications to Protein Subcellular Localization, _ICASSP'07_, 2007, vol. 2, pp. 569-572. [(icassp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp07.pdf)  
-     
-98.  M.W. Mak and S.Y. Kung. "A solution to the Curse of Dimensionality Problem in Pairwise Scoring Techniques", _Int. Conf. on Neural Information Processing( ICONIP'06)_, vol. 1, pp. 314-323, Hong Kong, Oct. 2006. [(iconip06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06_slides.pdf) [(workshop)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06_workshop.pdf)  
-     
-99.  J. Guo, M.W. Mak and S.Y. Kung. "Eukaryotic Protein Subcellular Localization Based on Local Pairwise Profile Alignment SVM", _2006 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'06)_, Maynooth, Ireland, 2006, pp. 391-396 [(mlsp06a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a_slide.pdf) [(Supplementary Materials)](http://www.eie.polyu.edu.hk/~mwmak/BSIG/PairProSVM.htm)  
-     
-100.  M.W. Mak and K.K. Yiu. "Probabilistic Feature Transformation for Channel Robust Speaker Verification", _2006 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'06)_, Maynooth, Ireland, pp. 433-438, 2006. [(mlsp06b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06b.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06b_slide.pdf) [(Source code)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz)  
-     
-101.  Y.M. Lam, M.W. Mak, and P.H.W. Leong. "Surface Electromyogram Signal Based Speech Synthesis with Phonetic Smoothing", _IEEE 2006 International Conference of the Engineering in Medicine and Biology Society (EMBC 2006)_, 2006. 
-102.  Y.M. Lam, P.H.W. Leong, and M.W. Mak, "Frame-Based SEMG-to-Speech Conversion", _The Midwest Symposium on Circuits and Systems (MWSCAS'06)_, Puerto Rico, 2006.  
-     
-103.  Helen Meng, P.C. Ching, Tan Lee, Man Wai Mak, Brian Mak, Y.S. Moon, Man-Hung Siu, Xiaoou Tang, Henry P.S. Hui, Andrew Lee, Wai-Kit Lo, Bin Ma and Eddie K.T. Sio, "The Multi-biometric, Multi-device and Multiligual (M3) Corpus", _Second Workshop on Multimodal User Authentication_ _(MMUA'06)_, Toulouse, France, 2006. 
-104.  M.W. Mak, R. Hsiao, and B. Mak, "A Comparison of Various Adaptation Methods for Speaker Verification with Limited Enrollment Data", _ICASSP'06_, Toulouse, May, 2006, pp. 929-932. [(icassp06a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06a.pdf) [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06Poster.pdf)  
-     
-105.  S.Y. Kung and M.W. Mak, "On Consistent Fusion of Multimodal Biometrics," _ICASSP'06_, Toulouse, May, 2006, pp. 1085-1088. [(icassp06b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06b.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06Presentation.ppt)  
-     
-106.  Y.M. Lam, M.W. Mak and Philip H.W. Leong, "Speech Synthesis from Surface Electromyogram Signal," _The 5th IEEE International Symposium on Signal Processing and Information Technology_, December 18-21, 2005, pp. 749- 754, Athens, Greece. 
-107.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Speaker Verification via Articulatory Feature-based Conditional Pronunciation Modeling with Vowel and Consonant Mixture Models, _Eurospeech'05_, 3089-3092, Lisbon, 2005. [(eurospeech05a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05a.pdf). [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05Poster1.pdf) 
-108.  K.K. Yiu, M.W. Mak, and S.Y. Kung, "Channel Robust Speaker Verification via Bayesian Blind Stochastic Feature Transformation, _Eurospeech'05_, pp. 2013-2016, Lisbon, 2005. [(eurospeech05b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05b.pdf). [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05Poster2.pdf)  [(BSFT and BBSFT Software)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz) 
-109.  S.Y.Kung and M.W. Mak, "A Machine Learning Approach to DNA Microarray Biclustering Analysis", _2005 IEEE International Workshop on Machine Learning for Signal Processing_, Connecticut, pp. 399-404, 2005. [(mlsp05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp05.pdf). [(Supplementary webpage)](http://www.eie.polyu.edu.hk/~mwmak/microarray.htm). 
-110.  S.Y.Kung, M.W. Mak, and I. Tagkopoulos, "Multi-Metric and Multi-Substructure Biclustering Analysis for Gene Expression Data," _IEEE Computational Systems Bioinformatics Conference_, Stanford University, California, pp. 123-134, 2005 [(csb05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/csb05.pdf) [(Supplementary webpage)](http://www.eie.polyu.edu.hk/~mwmak/microarray.htm).  
-     
-111.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Speaker Verification Using Adapted Articulatory Feature-based Conditional Pronunciation Modeling", _ICASSP'05,_ vol. 1, pp. 181-184, 2005, Philadelphia [(icassp05a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp05a.pdf). 
-112.  M.C. Cheung, M.W. Mak and S.Y. Kung, "A Two-level Fusion Approach to Multmodal Biometric Verification", _ICASSP'05_, vol. 5, pp. 486-489, 2005, Philadelphia. [(icassp05b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp05b.pdf) 
-113.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Conditional Pronunciation Modeling using Articulatory Features for Speaker Verification", _Int. Sym. on Chinese Spoken Language Processing_ _(ISCSLP'04)_, pp. 61-64, 2004. [(iscslp04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp04.pdf)  
+70.  S.B. Wan, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung, An Ensemble Classifier with Random Projection for Predicting Multi-label Protein Subcellular Localization", _Workshop on Integrative Data Analysis in System Biology_, _IEEE Int. Conf. on Bioinformatics and Biomedicine (BIBM'2013)_, Dec. 2013, Shanghai, pp. 35-42. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm13.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm13.pptx)  
+      
     
-114.  T.K. Choi, X.M. Zhu, R.W.P Luk, F.L. Chung, M.W. Mak, K.M. Lam and W.C. Siu, "The Impact of Speech Recognition Errors on the Effectiveness of Spoken Cantonese Query Retrieval", _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 210-213.  
+71.  M.W. Mak and W. Rao, "Likelihood-Ratio Empirical Kernels for I-Vector Based PLDA-SVM Scoring", _IEEE Int. Conf. on Acoustic Speech and Signal Processing (ICASSP'13),_ May 2013, Vancouver, pp. 7702-7706. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13a.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13a_poster.pdf)  
+     
+72.  S.B. Wan, M.W. Mak and S.Y. Kung, "Adaptive Thresholding for Multi-Label SVM Classification with Application to Protein Subcellular Localization Prediction", _IEEE Int. Conf. on Acoustic Speech and Signal Processing (ICASSP'13),_ May 2013, Vancouver, pp. 3547-3551 [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13b.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp13b_poster.pdf)  
+     
+73.  W. Rao and M.W. Mak, "Alleviating the Small Sample-Size Problem in I-Vector Based Speaker Verification", _Int. Sym. on Chinese Spoken Language Processing_ _(ISCSLP'12),_ Dec. 2012, Hong Kong_,_ pp. 335-339. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp12.pdf) 
+74.  W. Rao and M.W. Mak, "Utterance Partitioning with Acoustic Vector Resampling for I-Vector Based Speaker Verification", _Odyssey 2012: The Speaker and Language Recognition Workshop_, Singapore, Jun 2012, pp. 165-171. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/odyssey12.pdf) [PPT Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/odyssey12_present.pdf) [Presentation in Odyssey Workshop](http://www.superlectures.com/odyssey2012/utterance-partitioning-with-acoustic-vector-resampling-for-i-vector-based-speaker-verification)
     
-115.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "Blind Stochastic Feature Transformation for Speaker Verification over Cellular Networks," _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 679-682. [(isimp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/isimp04a.pdf) 
-116.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Intramodal and Intermodal Fusion for Audio-Visual Biometric Authentication", _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 25-28. [(isimp04b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/isimp04b.pdf)  
+76.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: Protein Subcellular Localization Prediction Based on Gene Ontology Annotation and SVM", _ICASSP'12_, Kyoto, 2012, pp. 2229-2232. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp12a.pdf)  [Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html)     
      
-117.  M.C. Cheung, K.K. Yiu, M.W. Mak, and S.Y. Kung, "Multi-Sample Fusion with Constrained Feature Transformation for Robust Speaker Verification", _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, pp. 1813-1816. [(icslp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04a.pdf)  
+77.  M.W. Mak and S.Y. Kung, "Low-Power SVM Classifiers for Sound Event Classification on Mobile Devices", _ICASSP'12_, Kyoto, 2012, pp. 1985-1988. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp12b.pdf)   
      
-118.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "A New Approach to Channel Robust Speaker Verification via Constrained Stochastic Feature Transformation" _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, pp. 1753-1756. [(icslp04b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04b.pdf) 
-119.  K.Y. Leung, M.W. Mak and S.Y. Kung, "Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification", _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, 2597-2600. [(icslp04c.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04c.pdf) 
-120.  C.H. Sit, M.W. Mak and S.Y. Kung, "Maximum likelihood and maximum a posteriori adaptation for distributed speaker recognition systems, _Int. Conf. on Biometric Authentication (ICBA'04)_, Hong Kong, July 2004, pp. 640-647. [(icba04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icba04.pdf)  
+78.  S.B. Wan, M.W. Mak, and S.Y. Kung, "Protein Subcellular Localization Prediction Based on Profile Alignment and Gene Ontology", _2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11)_, Beijing, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp11.pdf)
+    
+80.  H.B. Yu and M.W. Mak, "Comparison of Voice Activity Detectors for Interview Speech in NIST Speaker Recognition Evaluation", _Interspeech'11_, pp. 2353-2356, pp. 2353-2356, Florence, Aug. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11a.pdf) [Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)   
      
-121.  K.Y. Leung, M.W. Mak and S.Y. Kung, "Applying articulatory features to  
-    telephone-based speaker verification", _ICASSP'04_, Montreal, May, 2004, vol. 1, pp. 85-88. [(icassp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp04a.pdf)  
+81.  W. Rao and M.W. Mak, "Addressing the Data-Imbalance Problem in Kernel-based Speaker Verification via Utterance Partitioning and Speaker Comparison", _Interspeech'11_, pp. 2717-2720, Plague, July 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11b.pdf)   
      
-122.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Multi-sample data-dependent  
-    fusion of sorted score sequences for biometric verification", _ICASSP'04_, Montreal, May, 2004, vol. 5, pp. 681-684. [(icassp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp04b.pdf)  
+82.  W. Jiang, M. W. Mak, W. Rao, H. Meng, The HKCUPU System for the NIST 2010 Speaker Recognition Evaluation, _ICASSP' 2011_. pp. 5288 - 5291, Florence, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp11.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2011_poster.pdf)   
      
-123.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Cluster-Dependent Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification", _ICICS-PCM'2003._ [(icics-pcm2003.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2003.pdf) 
-124.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Adaptive Decision Fusion for Multi-Sample Speaker Verification over GSM Networks," _Eurospeech'03_, Geneva, Sept. 2003, pp. 2969-2972.  [(Eurosp03a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03a.pdf) 
-125.  Eric, W.M. Yu, M.W. Mak, C.H. Sit and S.Y. Kung, "Speaker Verification Based on G.729 and G.723.1 Coder Parameters and Handset Mismatch Compensation", _Eurospeech'03_, Geneva, Sept. 2003, pp. 1681-1684. [(Eurosp03b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03b.pdf)  
+83.  M.W. Mak, W. Wang, and S.Y. Kung, "Truncation of Protein Sequences for Fast Profile Alignment with Application to Subcellular Localization", _Proc. IEEE International Conference on Bioinformatics & Biomedicine (BIBM'2010)_, pp. 115-120, Dec. 2010, Hong Kong. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)   
      
-126.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification", _Eurospeech'03_, Geneva, Sept. 2003, pp. 2973-2976. [(Eurosp03c)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03c.pdf) 
-127.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Cluster-Dependent Feature Transformation for Telephone-Based Speaker Verification", _Int. Conf. on Audio- and Video-Based Biometric Person Authentication 2003 (AVBPA'03)_, Surrey, U.K, pp. 86-94. [(avbpa03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/avbpa03.pdf)
+84.  M.W. Mak and H.B. Yu, "Robust Voice Activity Detection for Interview Speech in NIST Speaker Recognition Evaluation, "_Proc. APSIPA ASC_ 2010, pp. 64-71, Dec. 2010, Singapore. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.ppt)   
+     
+85.  M.W. Mak and W. Rao, "Acoustic Vector Resampling for GMMSVM-Based Speaker Verification, _Interspeech 2010_. Sept. 2010, Makuhari, Japan, pp. 1449-1452. [(interspeech10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10.pdf) [(interspeech10-poster.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10-poster.pdf)  
+     
+86.  W. Wang, M.W. Mak and S.Y. Kung, "Speeding up Subcellular Localization by Extracting Informative Regions of Protein Sequences for Profile Alignment", _Proc. Computational Intelligence in Bioinformatics and Computational Biology (CIBCB'10),_ Montreal, May, pp. 147-154. [(cibcb10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/cibcb10.pdf)  
+     
+87.  G. L. Ye, B. Mak and M.W. Mak "Fast GMM Computation for Speaker Verification Using Scalar Quantization and Discrete Densities", _Interspeech'2009_, Brighton, Sept. 2009, pp. 2327-2330.  
+     
+88.  S.X. Zhang and M.W. Mak, "Optimization of Discriminative Kernels in SVM Speaker Verification", _Interspeech'2009_, Brighton, Sept. 2009, 1275-1278. [(interspeech09.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech09.pdf)
+     
+90.  S.X. Zhang and M.W. Mak, Regression Optimized Kernel for High-Level Speaker Verification, _Proc. APSIPA ASC_ 2009, Sapporo, pp. 40-44, Oct. 2009.  [(apsipa09a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa09a.pdf)
+    
+92.  M.W. Mak, W. Wang, and S.Y. Kung. "Fusion of Conditional Random Field and SignalP for Protein Cleavage Site Prediction",  _Proc. APSIPA ASC_ 2009, Sapporo, pp. 716-721, Oct. 2009. [(apsipa09b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa09b.pdf)
+    
+94.  M.W. Mak and S.Y. Kung, "Conditional Random Fields for the Prediction of Signal Peptide Cleavage Sites", _ICASSP'09,_ April 2009, Taipei, pp. 1605-1608_._[Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp09.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp09a.ppt)    [CSitePred Web Server](http://158.132.148.85:8080/CSitePred/faces/Page1.jsp)  
+     
+95.  S.X. Zhang and M.W. Mak, "High-Level Speaker Verification via Articulatory-Feature based Sequence Kernels and SVM", _Interspeech'2008_, Brisbane, Sept. 2008, pp.  1393-1396 [(interspeech08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech08.pdf)  
+     
+96.  S.X. Zhang and M.W. Mak, "Articulatory-Feature based Sequence Kernel For High-Level Speaker Verification", _Int. Conf. on Machine Learning and Cybernetics (ICMLC) 2008_, vol. 5, pp. 2799-2804 [(icmlc08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icmlc08.pdf)_._ 
+97.  M.W. Mak and S.Y. Kung, "Fusion of Cleavage Site Detection and Pairwise Alignment for Fast Subcellular Localization", _ICASSP'08_, pp. 573-576, Las Vegas, April, 2008 [(icassp08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp08.pdf)  
+     
+98.  S.X. Zhang and M. W. Mak, "A New Adaptation Method for Speaker-Model Creation in High-Level Speaker Verification", _Advances in Multimedia Information Processing (PCM'2007)_, Hong Kong_,_ Springer LNCS 4810, pp. 325-335.  [(pcm07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm07.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/PCM07_pres.pdf)
+    
+100.  F. Mai, M.W. Mak, Y.S. Hung, and S.Y. Kung, "Sensitivity Analysis Of Boosting PSI-BLAST with Case Study on Subcellular Localization", _2007 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'07)_, Thessaloniki, Greece, Aug. 2007, pp. 39-44. [(mlsp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp07.pdf)  
+     
+101.  S.X. Zhang, M. W. Mak, and H. Meng, "High-Level Feature-Based Speaker Verification via Articulatory Phonetic-Class Pronunciation Modeling", _Interspeech'2007_, pp. 762-765, Antwery, Belgium [(interspeech07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech07.pdf)
+     
+103.  B. Ma, H. Meng, M. W. Mak, "Effects of Device Mismatch, Language Mismatch and Environmental Mismatch on Speaker Verification", _ICASSP'07_, 2007, vol. 4, pp. 301-304.  
+     
+104.  Henry Pak-Sum Hui, Helen M. Meng, Man-Wai Mak, "Adaptive Weight Estimation in Multi-Biometric Verification Using Fuzzy Logic Decision Fusion", _ICASSP'07_, 2007, vol. 1, pp. 501-504.  
+     
+105.  S.Y. Kung and M.W. Mak, Feature Selection for Pairwise Scoring Kernels with Applications to Protein Subcellular Localization, _ICASSP'07_, 2007, vol. 2, pp. 569-572. [(icassp07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp07.pdf)  
+     
+106.  M.W. Mak and S.Y. Kung. "A solution to the Curse of Dimensionality Problem in Pairwise Scoring Techniques", _Int. Conf. on Neural Information Processing( ICONIP'06)_, vol. 1, pp. 314-323, Hong Kong, Oct. 2006. [(iconip06.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06_slides.pdf) [(workshop)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip06_workshop.pdf)  
+     
+107.  J. Guo, M.W. Mak and S.Y. Kung. "Eukaryotic Protein Subcellular Localization Based on Local Pairwise Profile Alignment SVM", _2006 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'06)_, Maynooth, Ireland, 2006, pp. 391-396 [(mlsp06a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06a_slide.pdf) [(Supplementary Materials)](http://www.eie.polyu.edu.hk/~mwmak/BSIG/PairProSVM.htm)  
+     
+108.  M.W. Mak and K.K. Yiu. "Probabilistic Feature Transformation for Channel Robust Speaker Verification", _2006 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'06)_, Maynooth, Ireland, pp. 433-438, 2006. [(mlsp06b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06b.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp06b_slide.pdf) [(Source code)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz)  
+     
+109.  Y.M. Lam, M.W. Mak, and P.H.W. Leong. "Surface Electromyogram Signal Based Speech Synthesis with Phonetic Smoothing", _IEEE 2006 International Conference of the Engineering in Medicine and Biology Society (EMBC 2006)_, 2006. 
+110.  Y.M. Lam, P.H.W. Leong, and M.W. Mak, "Frame-Based SEMG-to-Speech Conversion", _The Midwest Symposium on Circuits and Systems (MWSCAS'06)_, Puerto Rico, 2006.  
+     
+111.  Helen Meng, P.C. Ching, Tan Lee, Man Wai Mak, Brian Mak, Y.S. Moon, Man-Hung Siu, Xiaoou Tang, Henry P.S. Hui, Andrew Lee, Wai-Kit Lo, Bin Ma and Eddie K.T. Sio, "The Multi-biometric, Multi-device and Multiligual (M3) Corpus", _Second Workshop on Multimodal User Authentication_ _(MMUA'06)_, Toulouse, France, 2006.
+     
+113.  M.W. Mak, R. Hsiao, and B. Mak, "A Comparison of Various Adaptation Methods for Speaker Verification with Limited Enrollment Data", _ICASSP'06_, Toulouse, May, 2006, pp. 929-932. [(icassp06a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06a.pdf) [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06Poster.pdf)  
+     
+114.  S.Y. Kung and M.W. Mak, "On Consistent Fusion of Multimodal Biometrics," _ICASSP'06_, Toulouse, May, 2006, pp. 1085-1088. [(icassp06b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06b.pdf) [(Presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp06Presentation.ppt)  
+     
+115.  Y.M. Lam, M.W. Mak and Philip H.W. Leong, "Speech Synthesis from Surface Electromyogram Signal," _The 5th IEEE International Symposium on Signal Processing and Information Technology_, December 18-21, 2005, pp. 749- 754, Athens, Greece.
+     
+117.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Speaker Verification via Articulatory Feature-based Conditional Pronunciation Modeling with Vowel and Consonant Mixture Models, _Eurospeech'05_, 3089-3092, Lisbon, 2005. [(eurospeech05a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05a.pdf). [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05Poster1.pdf)
+     
+119.  K.K. Yiu, M.W. Mak, and S.Y. Kung, "Channel Robust Speaker Verification via Bayesian Blind Stochastic Feature Transformation, _Eurospeech'05_, pp. 2013-2016, Lisbon, 2005. [(eurospeech05b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05b.pdf). [(Poster)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech05Poster2.pdf)  [(BSFT and BBSFT Software)](http://www.eie.polyu.edu.hk/~mwmak/programs/feaTx.tgz)
+     
+121.  S.Y.Kung and M.W. Mak, "A Machine Learning Approach to DNA Microarray Biclustering Analysis", _2005 IEEE International Workshop on Machine Learning for Signal Processing_, Connecticut, pp. 399-404, 2005. [(mlsp05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp05.pdf). [(Supplementary webpage)](http://www.eie.polyu.edu.hk/~mwmak/microarray.htm).
+     
+123.  S.Y.Kung, M.W. Mak, and I. Tagkopoulos, "Multi-Metric and Multi-Substructure Biclustering Analysis for Gene Expression Data," _IEEE Computational Systems Bioinformatics Conference_, Stanford University, California, pp. 123-134, 2005 [(csb05.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/csb05.pdf) [(Supplementary webpage)](http://www.eie.polyu.edu.hk/~mwmak/microarray.htm).  
+     
+124.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Speaker Verification Using Adapted Articulatory Feature-based Conditional Pronunciation Modeling", _ICASSP'05,_ vol. 1, pp. 181-184, 2005, Philadelphia [(icassp05a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp05a.pdf).
+     
+126.  M.C. Cheung, M.W. Mak and S.Y. Kung, "A Two-level Fusion Approach to Multmodal Biometric Verification", _ICASSP'05_, vol. 5, pp. 486-489, 2005, Philadelphia. [(icassp05b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp05b.pdf)
+     
+128.  K.Y. Leung, M.W. Mak, M.H. Siu, and S.Y. Kung, "Adaptive Conditional Pronunciation Modeling using Articulatory Features for Speaker Verification", _Int. Sym. on Chinese Spoken Language Processing_ _(ISCSLP'04)_, pp. 61-64, 2004. [(iscslp04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp04.pdf)  
+    
+129.  T.K. Choi, X.M. Zhu, R.W.P Luk, F.L. Chung, M.W. Mak, K.M. Lam and W.C. Siu, "The Impact of Speech Recognition Errors on the Effectiveness of Spoken Cantonese Query Retrieval", _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 210-213.  
+    
+130.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "Blind Stochastic Feature Transformation for Speaker Verification over Cellular Networks," _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 679-682. [(isimp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/isimp04a.pdf)
+     
+132.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Intramodal and Intermodal Fusion for Audio-Visual Biometric Authentication", _Proc. International Symposium on Intelligent Multimedia, Video, and Speech Processing (ISIMP'04)_, Oct. 2004, pp. 25-28. [(isimp04b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/isimp04b.pdf)  
+     
+133.  M.C. Cheung, K.K. Yiu, M.W. Mak, and S.Y. Kung, "Multi-Sample Fusion with Constrained Feature Transformation for Robust Speaker Verification", _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, pp. 1813-1816. [(icslp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04a.pdf)  
+     
+134.  K.K. Yiu, M.W. Mak, M.C. Cheung, and S.Y. Kung, "A New Approach to Channel Robust Speaker Verification via Constrained Stochastic Feature Transformation" _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, pp. 1753-1756. [(icslp04b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04b.pdf)
+     
+136.  K.Y. Leung, M.W. Mak and S.Y. Kung, "Articulatory Feature-Based Conditional Pronunciation Modeling for Speaker Verification", _Int. Conf. on Spoken Language Processing_, Korea, Oct. 2004, 2597-2600. [(icslp04c.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp04c.pdf)
+     
+138.  C.H. Sit, M.W. Mak and S.Y. Kung, "Maximum likelihood and maximum a posteriori adaptation for distributed speaker recognition systems, _Int. Conf. on Biometric Authentication (ICBA'04)_, Hong Kong, July 2004, pp. 640-647. [(icba04.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icba04.pdf)  
+     
+139.  K.Y. Leung, M.W. Mak and S.Y. Kung, "Applying articulatory features to telephone-based speaker verification", _ICASSP'04_, Montreal, May, 2004, vol. 1, pp. 85-88. [(icassp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp04a.pdf)  
+     
+140.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Multi-sample data-dependent fusion of sorted score sequences for biometric verification", _ICASSP'04_, Montreal, May, 2004, vol. 5, pp. 681-684. [(icassp04a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp04b.pdf)  
+     
+141.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Cluster-Dependent Feature Transformation with Divergence-Based Out-of-Handset Rejection for Robust Speaker Verification", _ICICS-PCM'2003._ [(icics-pcm2003.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2003.pdf)
+     
+143.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Adaptive Decision Fusion for Multi-Sample Speaker Verification over GSM Networks," _Eurospeech'03_, Geneva, Sept. 2003, pp. 2969-2972.  [(Eurosp03a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03a.pdf)
+      
+145.  Eric, W.M. Yu, M.W. Mak, C.H. Sit and S.Y. Kung, "Speaker Verification Based on G.729 and G.723.1 Coder Parameters and Handset Mismatch Compensation", _Eurospeech'03_, Geneva, Sept. 2003, pp. 1681-1684. [(Eurosp03b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03b.pdf)  
+     
+146.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification", _Eurospeech'03_, Geneva, Sept. 2003, pp. 2973-2976. [(Eurosp03c)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03c.pdf)
+     
+148.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Cluster-Dependent Feature Transformation for Telephone-Based Speaker Verification", _Int. Conf. on Audio- and Video-Based Biometric Person Authentication 2003 (AVBPA'03)_, Surrey, U.K, pp. 86-94. [(avbpa03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/avbpa03.pdf)
   
-130.  M.W. Mak, M.C. Cheung, and S.Y. Kung, "Robust Speaker Verification from GSM-Transcoded Speech Based on Decision Fusion and Feature Transformation," _ICASSP'2003_, vol. 2, pp. 745-748. [(icassp2003.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2003.pdf)
+149.  M.W. Mak, M.C. Cheung, and S.Y. Kung, "Robust Speaker Verification from GSM-Transcoded Speech Based on Decision Fusion and Feature Transformation," _ICASSP'2003_, vol. 2, pp. 745-748. [(icassp2003.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2003.pdf)
   
-133.  Y.M. Lam, M.W. Mak and P.H.W. Leong, "Fixed-Point Implementation of Speech Recognition Systems," _International Signal Processing Conference'2003, Texas, March 31 - April 3, 2003._
+150.  Y.M. Lam, M.W. Mak and P.H.W. Leong, "Fixed-Point Implementation of Speech Recognition Systems," _International Signal Processing Conference'2003, Texas, March 31 - April 3, 2003._
    
-135.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Speaker Verification with A Priori Threshold Determination using Kernel-Based Probabilistic Neural Networks," _Int. Conf. on Neural Information Processing, 2002 (ICONIP'02)_, Singapore, Nov. 2002, pp. 2386-2390 [(iconip2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip2002.pdf)
+151.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Speaker Verification with A Priori Threshold Determination using Kernel-Based Probabilistic Neural Networks," _Int. Conf. on Neural Information Processing, 2002 (ICONIP'02)_, Singapore, Nov. 2002, pp. 2386-2390 [(iconip2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/iconip2002.pdf)
+     
  137.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Divergence-Based Out-of-Class Rejection for Telephone Handset Identification," _Int. Conf. on Spoken Language Processing_, USA, 2002, pp. 2329-2332. [(icslp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icslp2002.pdf)
   
-140.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Kernel-Based Probabilistic Neural Networks with Integrated Scoring Normalization for Speaker Verification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 623-630. [(pcm2002b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002b.pdf)
+153.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Kernel-Based Probabilistic Neural Networks with Integrated Scoring Normalization for Speaker Verification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 623-630. [(pcm2002b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002b.pdf)
+     
  142.  Eric W.M. Yu, M.W. Mak and S.Y. Kung, "Speaker Verification From Coded Telephone Speech Using Stochastic Feature Transformation and Handset Identification," _Pacific-Rim Conference on Multimedia 2002_ (PCM'2002), 2002, pp. 598-606. [(pcm2002a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2002a.pdf) 
   
-145.  M.W. Mak and S.Y. Kung. "Combining Stochastic Feature Transformation and Handset Identification for Telephone-Based Speaker Verification, _ICASSP'2002,_ pp. I701-I704_._[(icassp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2002.pdf)
+155.  M.W. Mak and S.Y. Kung. "Combining Stochastic Feature Transformation and Handset Identification for Telephone-Based Speaker Verification, _ICASSP'2002,_ pp. I701-I704_._[(icassp2002.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2002.pdf)
+     
  147.  K.K. Yiu, M.W. Mak and S.Y. Kung. "A GMM-Based Handset Selector for Channel Mismatch Compensation with Applications to Speaker Identification," _Second IEEE Pacific-Rim Conference on Multimedia 2001 (PCM'2001)_, pp. 1132-1137, Oct. 2001. [(pcm2001.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm2001.pdf)
- 148.  Zhang, W.D., He, M.X. and Mak, M.W. �Cloud detection using probabilistic neural networks,� _IEEE International Geoscience and Remote Sensing Symposium 2001 (IGARSS'01)_, pp. 2373-2375. 
+ 
+ 148.  Zhang, W.D., He, M.X. and Mak, M.W. �Cloud detection using probabilistic neural networks,� _IEEE International Geoscience and Remote Sensing Symposium 2001 (IGARSS'01)_, pp. 2373-2375.
+      
  149.  M.W. Mak, W.D. Zhang and M.X. He, "A New Two-Stage Scoring Normalization Approach to Speaker Verification," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 107-110, May 2001, Hong Kong.[(1024.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1024.pdf)
+ 
  150.  W.D. Zhang, M.X. He and M.W. Mak, "Application of MLP and RBF Networks to Cloud Detection,"_Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 60-63, May 2001, Hong Kong. [(4042.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/4042.pdf)
+ 
  151.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Channel Distortion Compensation Based on the Measurement of Handset's Frequency Responses," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_ pp. 197-200, May 2001, Hong Kong. [(1023.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1023.pdf)
+ 
  152.  X. Li, M.W. Mak and S.Y. Kung, "Robust Speaker Verification Over the Telephone by Feature Recuperation," _Proc. Int. Sym. on Intelligent Multimedia, Video and Speech Processing,_pp. 433-436, May 2001, Hong Kong. [(1022.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/1022.pdf)
   
-154.  K.W. Ku and M.W. Mak, "Training Neurocontrollers by Local and Evolutionary Search," _Proc. Congress on Evolutionary Computation, 2000 (CEC'2000)_, Vol. 2, pp. 1558-1564.  
+157.  K.W. Ku and M.W. Mak, "Training Neurocontrollers by Local and Evolutionary Search," _Proc. Congress on Evolutionary Computation, 2000 (CEC'2000)_, Vol. 2, pp. 1558-1564.  
     
  155.  W.D. Zhang, M.W. Mak and M.X. He, "A Two-Stage Scoring Method Combining World and Cohort Models for Speaker Verification," _Proc. Int. Conference on Acoustic, Speech and Signal Processing_, Vol. 2, pp. 1193-1196, 2000. [(icassp2000.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2000.ps)
+ 
    156.  T.F. Lo and M.W. Mak, "A New Intra-Frame and Inter-Frame Cepstral Processing Method for Telephone-Based Speaker Verification," _Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications,_ pp. 116-122, 2000. [(mmws2000a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000a.ps) 
+   
  157.  M. W. Mak, W. D. Zhang and M. X. He, "Determination of A Priori Decision Threshold for Phrase-Prompted Speaker Verification,"_Int. Workshop on Multimedia Data Storage, Retrieval, Integration and Applications_, pp. 96-103, 2000. [(mmws2000b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/mmws2000b.ps)
   
-159.  K.K. Yiu, M.W. Mak, T.F. Lo and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speaker Verification with A Priori Decision Thresholds,"_1999 International Symposium on Signal Processing and Intelligent System,_ pp. 612-617. 
+159.  K.K. Yiu, M.W. Mak, T.F. Lo and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speaker Verification with A Priori Decision Thresholds,"_1999 International Symposium on Signal Processing and Intelligent System,_ pp. 612-617.
+     
  160.  M.W. Mak and C.K. Li, "Elliptical Basis Function Networks and Radial Basis Function Networks for Speaker Verification: A Comparative Study," _International Joint Conference on Neural Networks (IJCNN'99)_, vol. 5, pp. 3034-3039, July 1999, Washington DC. [(ijcnn99.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn99.pdf) 
+
  161.  T.F. Lo, M.W. Mak and K.K. Yiu "A New Cepstrum-Based Channel Compensation Method for Speaker Verification," _Eurospeech'99_, Vol. 2, pp. 775-778, Sept. 1999, Hungary. [(eurospeech99a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99a.pdf) 
+ 
  162.  W.D. Zhang, K.K. Yiu, M.W. Mak, C.K. Li and M.X. He, "A Priori Threshold Determination for Phrase-Prompted Speaker Verification", _Eurospeech'99_, Vol.2, pp. 1023-1026, Sept. 1999, Hungary. [(eurospeech99b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurospeech99b.pdf) 
+ 
  163.  M.W. Mak, C.K. Li and X. Li, "Maximum Likelihood Estimation of Elliptical Basis Function Parameters with Application to Speaker Verification," _International Conference on Signal Processing (ICSP'98)_, pp. 1287-1290. Oct. 98, Beijing. [(icsp98a.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98a.ps) 
+ 
  164.  K.K. Yiu, M.W. Mak and C.K. Li, "Probabilistic Decision-Based Neural Networks for Speech Pattern Classification," _International Conference on Signal Processing (ICSP'98)_, pp. 1378-1381, Oct. 98, Beijing. [(icsp98b.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icsp98b.ps) 
+ 
  165.  X. Li and M.W. Mak, "Optimization of EBFN architecture by an improved RPCL algorithm with application to speaker verification," _Proc. of the 1998 Symposium on Image, Speech, Signal Processing and Robotics (ISSPR'98)_, Vol. II, pp. 43-47, Hong Kong. [(isspr98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isspr98.ps) 
+ 
  166.  K.W. Ku and M.W. Mak, "Empirical Analysis of the Factors that Affect the Baldwin Effect," _Fifth Internation Conference on Parallel Problem Solving from Nature (PPSN'98)_, pp. 481-490, Sept. 98, Amsterdam. [(ppsn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ppsn98.ps) 
+ 
  167.  M.W. Mak and K.W. Cho, "Genetic Evolution of Radial Basis Function Centers for Pattern Classification", _International Conference on Neural Networks (ICNN'98)_, pp. 669-673 May 1998, USA. [(ijcnn98.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ijcnn98.ps) 
+ 
  168.  K.W. Ku and M.W. Mak, "Exploring the Effects of Lamarckian and Baldwinian Learning in Evolving Neural Networks", _Int. Conf. on Evolutionary Computation (ICEC'97)_, pp. 617-20, 13-16 April 1997. [(icec97.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icec97.ps) 
+ 
  169.  M.W. Mak, "Text-Independent Speaker Verification Over a Telephone Network by Radial Basis Function Networks", _Proc. Int. Sym. Multi-Technology Information Processing (ISMIP'96)_, pp. 145-150, December 1996, Taiwan. [(ismip96.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ismip96.ps) 
+ 
  170.  K.W. Ku, M.W. Mak and W.C. Siu, "A Cellular Genetic Algorithm for Training Recurrent Neural Networks", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 140-3, 10-3 December 1995, Nanjing, China. [(icnnsp95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnnsp95.ps) 
+ 
  171.  Y.L. Lu, M.W. Mak and W.C. Siu, "Diminish the Computational Burden of Real Time Recurrent Learning Algorithm by Constrainted Sensitivity", _Proceedings, International Conference on Neural Networks and Signal Processing (ICNNSP'95)_, Vol. 1, pp. 223-6, 10-3 December 1995, Nanjing, China. 
+ 
  172.  M.W. Mak, Y.L. Lu and K.W. Ku, "Improved Real-time Recurrent Learning Algorithm : A Review and some New Approaches", _Proceedings, International Symposium on Artificial Neural Networks (ISANN'95)_, pp. IS01-IS06, December 1995, Taiwan. [(isann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/isann95.ps) 
+ 
  173.  Y.L. Lu, M.W. Mak and W.C. Siu, "Application of a Fast Real-Time Recurrent Learning Algorithm to text-to-phoneme Conversion", _Proceedings, IEEE International Conference on Neural Networks (ICNN'95)_, Vol. 5, pp. 2853-7, November- December 1995, Perth, Australia. [(icnn95.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icnn95.pdf) 
+ 
  174.  M.W. Mak, "Speaker Identification using Modular Recurrent Neural Networks", _Proceedings, 4th IEE International Conference on Artificial Neural Networks_, pp. 1-6, June 1995, U.K. [(ieeann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann95.ps) 
+ 
  175.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Radial Basis Functions," _The 3rd IEE Int. Conf. on Artificial Neural Networks_, pp. 138-142, U.K. [(ieeann93.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann93.pdf)   
      
 176.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptron and Radial Basis function Networks in Speaker Recognition", _BCS/IEEE/EUROMICRO Workshop on Neural Networks: Techniques and Applications_, Liverpool, 7-8 Sept. 1992.
