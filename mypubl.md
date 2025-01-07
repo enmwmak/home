@@ -131,7 +131,7 @@
       
 44.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mPLR-Loc: An Adaptive-decision Multi-label Classifier Based on Penalized Logistic Regression for Protein Subcellular Localization Prediction", _Analytical Biochemistry: Methods in the Biological Sciences_, Vol. 473, March 2015, Pages 14-27, [Paper](http://www.sciencedirect.com/science/article/pii/S0003269714004965), [mPLR-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/mPLRLocServer/)  
       
-45.  S.B. Wan, M.W. Mak, and S.Y. Kung, "R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization", _J. of Theoretical Biology_, vol. 360, pp. 34�45, 2014. [Paper](http://www.sciencedirect.com/science/article/pii/S0022519314003749) [R3P-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/R3PLocServer/)  
+45.  S.B. Wan, M.W. Mak, and S.Y. Kung, "R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization", _J. of Theoretical Biology_, vol. 360, pp. 34-45, 2014. [Paper](http://www.sciencedirect.com/science/article/pii/S0022519314003749) [R3P-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/R3PLocServer/)  
       
 46.  S.B. Wan, M.W. Mak, and S.Y. Kung, "HybridGO-Loc: Mining Hybrid Features on Gene Ontology for Predicting Subcellular Localization of Multi-Location Proteins", _PLoS ONE_, vol. 9, no. 3, March 2014. [Paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089545) [HybridGO-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/HybridGoServer/)  
       
@@ -141,15 +141,15 @@
       
 49.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou's Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40-48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
 
-50.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)  
-     
-51.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines", _BMC Bioinformatics_, 2012, 13:290.  [mGOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/mGOASVM.html) [Paper](http://www.biomedcentral.com/1471-2105/13/290) 
+50.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)
+    
+52.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines", _BMC Bioinformatics_, 2012, 13:290.  [mGOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/mGOASVM.html) [Paper](http://www.biomedcentral.com/1471-2105/13/290)
+    
+53.  M.W. Mak, W. Wang, and S.Y. Kung, "Fast Subcellular Localization by Cascaded Fusion of Signal-Based and Homology-Based Methods", _Proteome Science_, 9(Suppl 1):S8. [Data (before Blustclust)](http://www.eie.polyu.edu.hk/~mwmak/papers/Group.zip) [Paper](http://www.proteomesci.com/content/9/S1/S8) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)
 
-52.  M.W. Mak, W. Wang, and S.Y. Kung, "Fast Subcellular Localization by Cascaded Fusion of Signal-Based and Homology-Based Methods", _Proteome Science_, 9(Suppl 1):S8. [Data (before Blustclust)](http://www.eie.polyu.edu.hk/~mwmak/papers/Group.zip) [Paper](http://www.proteomesci.com/content/9/S1/S8) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)
-
-53.  S.Y. Kung, Y.H. Luo, and M.W. Mak, "Feature Selection for Genomic Signal Processing: Unsupervised, Supervised, and Self-Supervised Scenarios, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, Vol. 61, Issue 1, Special Issue, pp. 3-20, Oct. 2010.  
+54.  S.Y. Kung, Y.H. Luo, and M.W. Mak, "Feature Selection for Genomic Signal Processing: Unsupervised, Supervised, and Self-Supervised Scenarios, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, Vol. 61, Issue 1, Special Issue, pp. 3-20, Oct. 2010.  
           
-54.  S.Y. Kung and M.W. Mak, "PDA-SVM Hybrid: A Unified Model for Kernel-Based Supervised Classification, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, May 2011.
+55.  S.Y. Kung and M.W. Mak, "PDA-SVM Hybrid: A Unified Model for Kernel-Based Supervised Classification, _Journal of Signal Processing Systems for Signal, Image, and Video Technology_, May 2011.
     
 56.  S.X. Zhang and M.W. Mak, "Optimized Discriminative Kernel for SVM Scoring and its Application to Speaker Verification", _IEEE Trans. on Neural Networks_, vol. 22, no. 2, Feb. 2011. [(tnn2010.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/tnn2010.pdf)  
      
