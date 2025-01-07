@@ -30,10 +30,13 @@
 
 ## Book Chapters
 
-1.  S.Y. Kung and M.W. Mak, "Feature Selection for Genomic and Proteomic Data Mining", in Yanqing Zhang and Jagath C. Rajapakse, editors, _Machine Learning in Bioinformatics_, John Wiley & Sons, 2008, pp. 1-45.   
-2.  M.C. Cheung, M.W. Mak and S.Y. Kung, "[Probabilistic Fusion of Sorted Score Sequences for Robust Speaker Verification](http://www.eie.polyu.edu.hk/~mwmak/papers/TanBook05.pdf)," in Y.P. Tan, K.H. Yap and L. Wang, editors, _Intelligent Multimedia Processing with Soft Computing_, Springer, pp. 369-381, 2005. 
-3.  K.W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004. 
-4.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
+1.  S.Y. Kung and M.W. Mak, "Feature Selection for Genomic and Proteomic Data Mining", in Yanqing Zhang and Jagath C. Rajapakse, editors, _Machine Learning in Bioinformatics_, John Wiley & Sons, 2008, pp. 1-45.
+   
+3.  M.C. Cheung, M.W. Mak and S.Y. Kung, "[Probabilistic Fusion of Sorted Score Sequences for Robust Speaker Verification](http://www.eie.polyu.edu.hk/~mwmak/papers/TanBook05.pdf)," in Y.P. Tan, K.H. Yap and L. Wang, editors, _Intelligent Multimedia Processing with Soft Computing_, Springer, pp. 369-381, 2005.
+   
+5.  K .W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004.
+   
+7.  K .W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
 
