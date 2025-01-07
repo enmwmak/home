@@ -35,7 +35,13 @@
 7.  LU, Y.L. (1996), "Improved Recurrent Learning Algorithms and Their Applications," _MPhil Dissertation, The Hong Kong Polytechnic University._
 
 **MSc Dissertations**
-
+1.  XIA J.W. (2025) "Self-Supervised Features for Speech Emotion Recognition," _MSc Dissertation_, The Hong Kong Polytechnic University.
+2.  ZHANG T. (2025) "Spoken Language Processing and Natural Language Processing for Depression Detection," _MSc Dissertation_, The Hong Kong Polytechnic University.
+1.  CAO Zhenyu (2024) "Speech Emotion Recognition and Application Deployment Based on Wav2Vec2.0," _MSc Dissertation_, The Hong Kong Polytechnic University.
+1.  CUO Z.K. (2024) "Comparison of Self-supervised Pre-trained Models for Mandarin Speaker Verification," _MSc Dissertation_, The Hong Kong Polytechnic University.
+1.  MAI W.X. (2024) "Speaker Embedding for Text-Dependent Speaker Verification," _MSc Dissertation_, The Hong Kong Polytechnic University.
+1.  HUANG Z.L. (2024) "GAM-NodeFormer: Graph Attention Multi-Modal Emotion Recognition in Conversation with Node Transformer," _MSc Dissertation_, The Hong Kong Polytechnic University.
+1.  SONG Y.F. (2024) "Self-Supervised Features for Speech Emotion Recognition," _MSc Dissertation_, The Hong Kong Polytechnic University.
 1.  JIN Z.Z. (2022) "Speech and Speaker Recognition with Limited Data Resources", _MSc Dissertation_, The Hong Kong Polytechnic University.
 2.  QIU H. (2022) "Self-supervised Domain Adversarial Network for Mandarin Speaker Verification", _MSc Dissertation_, The Hong Kong Polytechnic University.  
 3.  GAO, Z.K. (2022) "UNet-DenseNet for Robust Far-Field Speaker Verification", _MSc Dissertation_, The Hong Kong Polytechnic University.  
