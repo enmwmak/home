@@ -39,6 +39,7 @@
 7.  K .W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
+1. J.M.R. Reyes, I.W.-H Ho, and M.W. Mak, "Wi-Fi CSI Fingerprinting-based indoor positioning using deep learning and vector embedding for temporal stability," _Expert Systems with Applications_, vol. 264, 125802, March 2025.
 
 1.  Chongkai Lu, Man-wai Mak, Ruimin Li, Zheru Chi, and Hong Fu, "Action Progression Networks for Temporal Action Detection in Videos", _IEEE Access_, Aug 2024. [Paper](https://ieeexplore.ieee.org/document/10658640)  
       
