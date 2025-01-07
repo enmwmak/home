@@ -225,72 +225,62 @@
 4.  Zilong Huang, Man-Wai Mak, Kong-Aik Lee, "MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24a.pdf)  
       
     
-5.  Zhe Li, Man-wai Mak, Hung-yi Lee, Helen Meng, "Parameter-efficient Fine-tuning of Speaker-Aware Dynamic Prompts for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24b.pdf)
-6.  Zezhong Jin, Youzhi Tu, Man-Wai Mak, "Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24c.pdf)
-7.  Zezhong Jin, Youzhi Tu, Man-Wai Mak, "W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24d.pdf)
-8.  Jen-Tzung Chien, I-Ping Yeh, Man-Wai Mak, "Collaborative Contrastive Learning for Hypothesis Domain Adaptation, _Proc. Interspeech_, Kos Island, Greece, Sept 2024.  
+5.  Zhe Li, Man-wai Mak, Hung-yi Lee, Helen Meng, "Parameter-efficient Fine-tuning of Speaker-Aware Dynamic Prompts for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24b.pdf)
+   
+7.  Zezhong Jin, Youzhi Tu, Man-Wai Mak, "Self-Supervised Learning with Multi-Head Multi-Mode Knowledge Distillation for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24c.pdf)
+   
+9.  Zezhong Jin, Youzhi Tu, Man-Wai Mak, "W-GVKT: Within-Global-View Knowledge Transfer for Speaker Verification", _Proc. Interspeech_, Kos Island, Greece, Sept 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech24d.pdf)
+    
+11.  Jen-Tzung Chien, I-Ping Yeh, Man-Wai Mak, "Collaborative Contrastive Learning for Hypothesis Domain Adaptation, _Proc. Interspeech_, Kos Island, Greece, Sept 2024.  
       
     
-9.  Chong-Xin Gan, Man-Wai Mak, Weiwei Lin, and Jen-Tzung Chien, "Asymmetric Clean Segments-Guided Self-Supervised Learning for Robust Speaker Verification", _ICASSP_, Seoul, April, 2024, pp. 11081-11085. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24a.pdf)  
+12.  Chong-Xin Gan, Man-Wai Mak, Weiwei Lin, and Jen-Tzung Chien, "Asymmetric Clean Segments-Guided Self-Supervised Learning for Robust Speaker Verification", _ICASSP_, Seoul, April, 2024, pp. 11081-11085. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24a.pdf)  
       
     
-10.  Zhe Li, Man-Wai Mak, Helen Mei-Ling Meng, "Dual Parameter-Efficient Fine-Tuning for Speaker Representation via Speaker Prompt Tuning and Adapters", _ICASSP_, Seoul, April, 2024, pp. 10751-10755. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24b.pdf)  
+13.  Zhe Li, Man-Wai Mak, Helen Mei-Ling Meng, "Dual Parameter-Efficient Fine-Tuning for Speaker Representation via Speaker Prompt Tuning and Adapters", _ICASSP_, Seoul, April, 2024, pp. 10751-10755. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24b.pdf)  
       
     
-11.  Youzhi Tu, Man-Wai Mak, and Jen-Tzung Chien, "Contrastive Speaker Embedding with Sequential Disentanglement", _ICASSP_, Seoul, April, 2024, pp. 10891-10895. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24c.pdf)  
+14.  Youzhi Tu, Man-Wai Mak, and Jen-Tzung Chien, "Contrastive Speaker Embedding with Sequential Disentanglement", _ICASSP_, Seoul, April, 2024, pp. 10891-10895. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24c.pdf)  
       
     
-12.  Lishi Zuo, Man-Wai Mak, and Youzhi TU, "Promoting Independence of Depression and Speaker Features for Speaker Disentanglement in Speech-Based Depression Detection", _ICASSP_, Seoul, April, 2024, pp. 10191-10195. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24d.pdf)  
+15.  Lishi Zuo, Man-Wai Mak, and Youzhi TU, "Promoting Independence of Depression and Speaker Features for Speaker Disentanglement in Speech-Based Depression Detection", _ICASSP_, Seoul, April, 2024, pp. 10191-10195. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24d.pdf)  
       
     
-13.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Jointly Modelling Transcriptions and Phonemes with Optimal Features to Detect Dementia from Spontaneous Cantonese", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23a.pdf)  
+16.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Jointly Modelling Transcriptions and Phonemes with Optimal Features to Detect Dementia from Spontaneous Cantonese", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23a.pdf)  
       
     
-14.  Jin Li, Man-Wai Mak, Nan Yan, and Lan Wang, "Modeling Suprasegmental Information Using Finite Difference Network for End-to-End Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23b.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Jin-APSIPA23_v8.pdf)  
+17.  Jin Li, Man-Wai Mak, Nan Yan, and Lan Wang, "Modeling Suprasegmental Information Using Finite Difference Network for End-to-End Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23b.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Jin-APSIPA23_v8.pdf)  
       
     
-15.  Lu Yi and Man-Wai Mak, "Cross-Domain adaptation in Distance Space for Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23c.pdf) [](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf)[Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Yi-Mak-APSIPA23_v3.pdf)  
+18.  Lu Yi and Man-Wai Mak, "Cross-Domain adaptation in Distance Space for Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23c.pdf) [](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf)[Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Yi-Mak-APSIPA23_v3.pdf)  
       
     
-16.  Chong-Xin Gan, Man-Wai Mak, Ivan Wang-Hei Ho, Steven Wing-Chi Lee, "Deep Segment-Attentive Network for Altered-Engine Recognition", _Proc. IEEE_ _International Conference on Intelligent Transportation Systems (ITSC)_, Bilbao, Sept 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/mwmak-itsc_2023.pdf)  
+19.  Chong-Xin Gan, Man-Wai Mak, Ivan Wang-Hei Ho, Steven Wing-Chi Lee, "Deep Segment-Attentive Network for Altered-Engine Recognition", _Proc. IEEE_ _International Conference on Intelligent Transportation Systems (ITSC)_, Bilbao, Sept 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/mwmak-itsc_2023.pdf)  
       
     
-17.  Helen Meng, Brian Mak, Man-Wai Mak, et al. "Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders", _Proc. Interspeech_, 2023.  
+20.  Helen Meng, Brian Mak, Man-Wai Mak, et al. "Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders", _Proc. Interspeech_, 2023.  
       
     
-18.  Weiwei Lin, Chenhang He, Man-Wai Mak, and Youzhi Tu, "[Self-supervised Neural Factor Analysis for Disentangling Utterance-level Speech Representations](https://arxiv.org/abs/2305.08099)", _Proc. International Conference on Machine Learning (ICML)_, 2023. [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icml23-poster.pdf)  
+21.  Weiwei Lin, Chenhang He, Man-Wai Mak, and Youzhi Tu, "[Self-supervised Neural Factor Analysis for Disentangling Utterance-level Speech Representations](https://arxiv.org/abs/2305.08099)", _Proc. International Conference on Machine Learning (ICML)_, 2023. [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icml23-poster.pdf)  
       
     
-19.  Xiaoquan Ke, Man-Wai Mak, and Helen M. MENG, "Feature Selection and Text Embedding for Detecting Dementia from Spontaneous Cantonese ", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23a.pdf)    [Presentation  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/ICASSP2023_xiaoquan_v2.pdf)
-20.  Zhe Li, Man-Wai Mak, and Helen Mei-Ling MENG, "Discriminative Speaker Representation via Contrastive Learning with Class-Aware Attention in Angular Space", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23b.pdf)   [Poster  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23-poster.pdf)
+22.  Xiaoquan Ke, Man-Wai Mak, and Helen M. MENG, "Feature Selection and Text Embedding for Detecting Dementia from Spontaneous Cantonese ", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23a.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/ICASSP2023_xiaoquan_v2.pdf)
+    
+20.  Zhe Li, Man-Wai Mak, and Helen Mei-Ling MENG, "Discriminative Speaker Representation via Contrastive Learning with Class-Aware Attention in Angular Space", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23b.pdf)   [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23-poster.pdf)
+
 21.  Zhe Li and Man-Wai Mak, "Speaker Representation Learning via Contrastive Loss with Maximal Speaker Separability", _Proc. APSIPA_, Chiang Mai, Nov. 2022. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa22.pdf)  
+          
+22.  Zhenke Gao, Man-Wai Mak, and Weiwei Lin, "UNet-DenseNet for Robust Far-Field Speaker Verification", _Proc. Interspeech_, Incheon, Sept. 2022. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22a.pdf)
+    
+24.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People", _Proc. Interspeech_, Incheon, Sept. 2022. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf)  
       
     
-22.  Zhenke Gao, Man-Wai Mak, and Weiwei Lin, "UNet-DenseNet for Robust Far-Field Speaker Verification", _Proc. Interspeech_, Incheon, Sept. 2022. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22a.pdf)
-23.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Automatic Selection of Discriminative Features for Dementia Detection in Cantonese-Speaking People", _Proc. Interspeech_, Incheon, Sept. 2022. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech22b.pdf)  
-      
+25.  W.W. Lin and M.W. Mak, "Robust speaker verification using Population-based Data Augmentation," _Proc. ICASSP_, Singapore, May 2022, pp. 7642-7646. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2022_Lin.pdf)
     
-24.  W.W. Lin and M.W. Mak, "Robust speaker verification using Population-based Data Augmentation," _Proc. ICASSP_, Singapore, May 2022, pp. 7642-7646. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2022_Lin.pdf)
-25.  L. Yi and M.W. Mak, "Disentangled speaker embedding for robust speaker verification," _Proc. ICASSP_, Singapore, May 2022, pp. 7662-7666. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2022_Yi.pdf)
-26.  Sean Shensheng Xu, Man-Wai Mak, Ka Ho Wong, Helen Meng, Timothy C.Y. Kwok, "Speaker Turn Aware Similarity Scoring for Diarization of Speech-Based Cognitive Assessments," _Proc. APSIPA_, Tokyo, Dec. 2021, pp. 1299-1304. [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21a.pdf)
+25.  L. Yi and M.W. Mak, "Disentangled speaker embedding for robust speaker verification," _Proc. ICASSP_, Singapore, May 2022, pp. 7662-7666. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2022_Yi.pdf)
+    
+27.  Sean Shensheng Xu, Man-Wai Mak, Ka Ho Wong, Helen Meng, Timothy C.Y. Kwok, "Speaker Turn Aware Similarity Scoring for Diarization of Speech-Based Cognitive Assessments," _Proc. APSIPA_, Tokyo, Dec. 2021, pp. 1299-1304. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21a.pdf)
+    
 27.  Xiaoquan Ke, Man-Wai Mak, Jinchao Li, Helen M. Meng, "Dual Dropout Ranking of Linguistic Features for Alzheimer's Disease Recognition", _Proc. APSIPA_, Toyko, Dec. 2021, pp. 743-749. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21b.pdf)  
       
     
@@ -312,21 +302,19 @@
 33.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "Gaussian Models for CSI Fingerprinting in Practical Indoor Environment Identification, _Globecom2020_, Taipei, Dec. 2020.  
       
     
-34.  L. Yi and M.W. Mak, "Adversarial Separation and Adaptation Network for Far-Field Speaker Verification," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4298-4302.  [Paper  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20a.pdf)
-35.  W.W. Lin and M.W. Mak, "Wav2Spk: A Simple DNN Architecture for Learning Speaker Embeddings from Waveforms," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 3211-3215.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20b.pdf)  
+34.  L. Yi and M.W. Mak, "Adversarial Separation and Adaptation Network for Far-Field Speaker Verification," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4298-4302.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20a.pdf)
+    
+36.  W.W. Lin and M.W. Mak, "Wav2Spk: A Simple DNN Architecture for Learning Speaker Embeddings from Waveforms," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 3211-3215.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20b.pdf)  
       
     
-36.  W.W. Lin, M.W. Mak and J.T. Chien, "Strategies for End-to-End Text-Independent Speaker Verification", _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4308-4312.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20c.pdf)  
+37.  W.W. Lin, M.W. Mak and J.T. Chien, "Strategies for End-to-End Text-Independent Speaker Verification", _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4308-4312.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20c.pdf)  
       
     
-37.  W.W. Lin, M.W. Mak, and L. Yi, "[Learning Mixture Representation for Deep Speaker Embedding Using Attention](https://www.isca-speech.org/archive/odyssey_2020/lin20c_odyssey.html)", _Odyssey 2020: The Speaker and Language Recognition Workshop_, Tokyo, Nov. 2020, pp. 210-214.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey20.pdf)  
+38.  W.W. Lin, M.W. Mak, and L. Yi, "[Learning Mixture Representation for Deep Speaker Embedding Using Attention](https://www.isca-speech.org/archive/odyssey_2020/lin20c_odyssey.html)", _Odyssey 2020: The Speaker and Language Recognition Workshop_, Tokyo, Nov. 2020, pp. 210-214.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey20.pdf)  
       
     
-38.  W.W. Lin, M.W. Mak, N. Li, D. Su, D. Yu, "Multi-level Deep Neural Network Adaptation for Speaker Verification using MMD and Consistency Regularization", _ICASSP'20_, Barcelona, May 2020, pp. 6834-6838.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp20a.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-LinMakLiSuYu.pdf) [Video Presentation  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-720p.mp4)
+39.  W.W. Lin, M.W. Mak, N. Li, D. Su, D. Yu, "Multi-level Deep Neural Network Adaptation for Speaker Verification using MMD and Consistency Regularization", _ICASSP'20_, Barcelona, May 2020, pp. 6834-6838.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp20a.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-LinMakLiSuYu.pdf) [Video Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-720p.mp4)
+    
 39.  Y.Z. Tu, M.W. Mak and J.T. Chien, "Information Maximized Variational Domain Adversarial Learning for Speaker Verification", _ICASSP'20_, Barcelona, May 2020, pp. 6444-6448. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp20b.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/5091-TuMakChien.pdf) [Video Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/5091-720p.mp4)  
       
     
@@ -339,13 +327,11 @@
 42.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "Fingerprint Quality Classification for CSI-based Indoor Positioning Systems", _Twentieth International Symposium on Mobile Ad Hoc Networking_ (ACM MobiHoc 2019), Catania, 2019.  
       
     
-43.  W.W. Lin, M.W. Mak, Y.Z. Tu, and J.T. Chien, "Semi-supervised Nuisance-Attribute Networks for Domain Adaptation", _ICASSP_'_19_, Brighton, May, 2019, pp. 6236-6240. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19-poster.pdf)[  
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)  
+43.  W.W. Lin, M.W. Mak, Y.Z. Tu, and J.T. Chien, "Semi-supervised Nuisance-Attribute Networks for Domain Adaptation", _ICASSP_'_19_, Brighton, May, 2019, pp. 6236-6240. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19-poster.pdf)  
     
-44.  Youzhi TU, Yingke ZHU, Man Wai MAK, Dongpeng CHEN, Weiwei LIN, Brian K.W. MAK, Zhuxin CHEN and Weibin ZHANG, "PAU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/pau-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/PAU_sre18_poster.pdf)[  
-      
-    ](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)
-45.  M.W. Mak, W.W. Lin, and Y.Z. Tu, "PolyU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/polyu-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/sre18_poster.pdf)[  
+44.  Youzhi TU, Yingke ZHU, Man Wai MAK, Dongpeng CHEN, Weiwei LIN, Brian K.W. MAK, Zhuxin CHEN and Weibin ZHANG, "PAU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/pau-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/PAU_sre18_poster.pdf)
+    
+46.  M.W. Mak, W.W. Lin, and Y.Z. Tu, "PolyU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/polyu-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/sre18_poster.pdf)[  
       
     ](http://www.eie.polyu.edu.hk/~mwmak/papers/sre16_poster.pdf)
 46.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Patient-Specific Heartbeat Classification Based on I-Vector Adapted Deep Neural Networks", _IEEE International Conference on Bioinformatics and Biomedicine_, Madrid, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18_present.pdf)  
