@@ -511,9 +511,9 @@
      
 143.  M.C. Cheung, M.W. Mak and S.Y. Kung, "Adaptive Decision Fusion for Multi-Sample Speaker Verification over GSM Networks," _Eurospeech'03_, Geneva, Sept. 2003, pp. 2969-2972.  [(Eurosp03a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03a.pdf)
       
-145.  Eric, W.M. Yu, M.W. Mak, C.H. Sit and S.Y. Kung, "Speaker Verification Based on G.729 and G.723.1 Coder Parameters and Handset Mismatch Compensation", _Eurospeech'03_, Geneva, Sept. 2003, pp. 1681-1684. [(Eurosp03b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03b.pdf)  
-     
-146.  K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification", _Eurospeech'03_, Geneva, Sept. 2003, pp. 2973-2976. [(Eurosp03c)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03c.pdf)
+145.  Eric, W.M. Yu, M.W. Mak, C.H. Sit and S.Y. Kung, "Speaker Verification Based on G.729 and G.723.1 Coder Parameters and Handset Mismatch Compensation", _Eurospeech'03_, Geneva, Sept. 2003, pp. 1681-1684. [(Eurosp03b.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03b.pdf)
+    
+147.   K.K. Yiu, M.W. Mak and S.Y. Kung, "Environment Adaptation for Robust Speaker Verification", _Eurospeech'03_, Geneva, Sept. 2003, pp. 2973-2976. [(Eurosp03c)](http://www.eie.polyu.edu.hk/~mwmak/papers/eurosp03c.pdf)
      
 148.  C.L. Tsang, M.W. Mak and S.Y. Kung, "Cluster-Dependent Feature Transformation for Telephone-Based Speaker Verification", _Int. Conf. on Audio- and Video-Based Biometric Person Authentication 2003 (AVBPA'03)_, Surrey, U.K, pp. 86-94. [(avbpa03.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/avbpa03.pdf)
   
@@ -583,9 +583,9 @@
  
 174.  M.W. Mak, "Speaker Identification using Modular Recurrent Neural Networks", _Proceedings, 4th IEE International Conference on Artificial Neural Networks_, pp. 1-6, June 1995, U.K. [(ieeann95.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann95.ps) 
  
-175.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Radial Basis Functions," _The 3rd IEE Int. Conf. on Artificial Neural Networks_, pp. 138-142, U.K. [(ieeann93.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann93.pdf)   
-     
-176.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptron and Radial Basis function Networks in Speaker Recognition", _BCS/IEEE/EUROMICRO Workshop on Neural Networks: Techniques and Applications_, Liverpool, 7-8 Sept. 1992.
+175.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Radial Basis Functions," _The 3rd IEE Int. Conf. on Artificial Neural Networks_, pp. 138-142, U.K. [(ieeann93.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/ieeann93.pdf)
+     
+177.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptron and Radial Basis function Networks in Speaker Recognition", _BCS/IEEE/EUROMICRO Workshop on Neural Networks: Techniques and Applications_, Liverpool, 7-8 Sept. 1992.
 
   
 ## Technical Reports and Lecture Notes  
