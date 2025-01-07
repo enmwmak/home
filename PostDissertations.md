@@ -24,7 +24,7 @@
 
 11.  KU, K.W.C. 1999, "On the Combination of Local and Evolutionary Search for Training Recurrent Neural Networks," _PhD Dissertation, The Hong Kong Polytechnic University._
 
-**MPhil Dissertation**
+**MPhil Dissertations**
 
 1.  LI, L.X. (2019), "Semi-supervised and Adversarial Domain Adaptation for Speaker Recognition", _MPhil Dissertation_, _The Hong Kong Polytechnic University.  
 2.  YU, H. B. (2012), "Voice Activity Detection for NIST Speaker Recognition Evaluations", _MPhil Dissertation_, _The Hong Kong Polytechnic University._ 
