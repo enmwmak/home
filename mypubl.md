@@ -43,7 +43,7 @@
 7.  K .W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
-1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification," _Neurocomputing_, 2025 (to appear).
+1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, 2025. 
    
 1. J.M.R. Reyes, I.W.-H Ho, and M.W. Mak, "Wi-Fi CSI Fingerprinting-based indoor positioning using deep learning and vector embedding for temporal stability," _Expert Systems with Applications_, vol. 264, 125802, March 2025.
 
