@@ -212,7 +212,7 @@
 
 93.  M.W. Mak and W.G. Allen, "Lip-Motion Analysis for Speech Segmentation in Noise," _Speech Communication_, Vol. 14, No. 3, pp. 279-96, June 1994. 
 
-94.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
+94.  M.W. Mak, W.G. Allen and G.G. Sexton, "Speaker Identification using Multi-Layer Perceptrons and Radial Basis Functions Networks," _Neurocomputing_, Vol. 6, No. 1, pp. 99-118, February 1994. 
 
 95.  M.W. Mak and W.G. Allen, "Spectral Transitivity Functions for Speech Segmentation in Noise," _Acoustic Letters_, Vol. 16, No. 10, pp. 228-34, April 1993. 
 
@@ -221,12 +221,12 @@
 ## Conference Papers
 
 1. Zhe Li, Man-Wai Mak, Mert Pilanci, Hyng-yi Lee, and Helen Meng, "Spectral-Aware Low-Rank Adaptation for Speaker
-Verification," _Proc. ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025a.pdf)
+Verification," _Proc. ICASSP_, Hyderabad, 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/icassp25c.pdf)
 
 1. Chong-Xin Gan, Youzhi Tu, Zezhong Jin, Man-Wai Mak, and Kong Aik Lee, "Grouped Knowledge Distillation with Adaptive
-Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025b.pdf)
+Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/icassp25a.pdf)
 
-1. Zezhong Jin, Youzhi Tu, Zhe Li, Zilong Huang, Chong-Xin Gan, and Man-Wai Mak, "Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification," _Proc. ICASSP_, Hyderabad, 2025. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2025c.pdf)
+1. Zezhong Jin, Youzhi Tu, Zhe Li, Zilong Huang, Chong-Xin Gan, and Man-Wai Mak, "Denoising Student Features with Diffusion Models for Knowledge Distillation in Speaker Verification," _Proc. ICASSP_, Hyderabad, 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/icassp25b.pdf)
 
 1.  Junjie Li, Kong-Aik Lee and Man-Wai Mak, "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction", _Proc. IEEE Spoken Language Technology Workshop_, Macau, Dec 2024.  
     
