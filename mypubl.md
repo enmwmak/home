@@ -230,7 +230,7 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, 2025. [Pape
 
 1.  Junjie Li, Kong-Aik Lee and Man-Wai Mak, "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction", _Proc. IEEE Spoken Language Technology Workshop_, Macau, Dec 2024.  
     
-2.  Jin Zezhong, Youzhi TU and Man-Wai Mak, "JOSEPH: Phonetic-aware Speaker Embedding for Far-field Speaker Verification, _Proc. APSIPA_, Macau, Dec 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa24.pdf)  
+2.  Zezhong Jin, Youzhi TU and Man-Wai Mak, "JOSEPH: Phonetic-aware Speaker Embedding for Far-field Speaker Verification, _Proc. APSIPA_, Macau, Dec 2024. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa24.pdf)  
       
     
 3.  Yuejiao Wang, Xianmin Gong, Xixin Wu, Patrick Wong, Helene Fung, Man-Wai MAK and Helen Meng, "Naturalistic Language-related Movie-Watching fMRI Task for Detecting Neurocognitive Decline and Disorder",  _IEEE 14th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Beijing, Nov. 2024.  
