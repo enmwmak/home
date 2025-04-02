@@ -219,7 +219,7 @@
 96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
-1. Junjie Li, Ke Zhang, Shuai Wang, Kong Aik Lee, Man-Wai Mak, Haizhou Li, "MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues," _Proc. IEEE Int. Conf. on Multimedia and Expo (ICME).
+1. Junjie Li, Ke Zhang, Shuai Wang, Kong Aik Lee, Man-Wai Mak, Haizhou Li, "MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues," _Proc. IEEE Int. Conf. on Multimedia and Expo (ICME)_, July 2025. [Paper](https://arxiv.org/abs/2412.08247)
    
 1. Zhe Li, Man-Wai Mak, Mert Pilanci, Hyng-yi Lee, and Helen Meng, "Spectral-Aware Low-Rank Adaptation for Speaker
 Verification," _Proc. ICASSP_, Hyderabad, 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/icassp25c.pdf)
