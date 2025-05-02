@@ -40,12 +40,12 @@
    
 5.  K .W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004.
    
-7.  K .W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
+7.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
 1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, to appear.
 
-1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, 2025. 
+1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, Jan 2025. 
    
 1. J.M.R. Reyes, I.W.-H Ho, and M.W. Mak, "Wi-Fi CSI Fingerprinting-based indoor positioning using deep learning and vector embedding for temporal stability," _Expert Systems with Applications_, vol. 264, 125802, March 2025.
 
@@ -142,13 +142,13 @@
       
 46.  S.B. Wan, M.W. Mak, and S.Y. Kung, "HybridGO-Loc: Mining Hybrid Features on Gene Ontology for Predicting Subcellular Localization of Multi-Location Proteins", _PLoS ONE_, vol. 9, no. 3, March 2014. [Paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089545) [HybridGO-Loc Web Server](http://bioinfo.eie.polyu.edu.hk/HybridGoServer/)  
       
-47.  M.W. Mak and H.B. Yu, " A Study of Voice Activity Detection Techniques for NIST Speaker Recognition Evaluations", _Computer Speech & Language_, vol. 28, No. 1, Jan 2014, pp. 295-313. [Paper](http://www.sciencedirect.com/science/article/pii/S0885230813000533)  [Web Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)  
+47.  M.W. Mak and H.B. Yu, " A Study of Voice Activity Detection Techniques for NIST Speaker Recognition Evaluations", _Computer Speech & Language_, vol. 28, No. 1, Jan 2014, pp. 295-313. [Paper](http://www.sciencedirect.com/science/article/pii/S0885230813000533)  [Web Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)
+    
+49.  S.B. Wan, M. Mak and S. Kung, "Semantic Similarity over Gene Ontology for Multi-Label Protein Subcellular Localization," _Engineering_, Vol. 5 No. 10B, 2013, pp. 68-72. doi:10.4236/eng.2013.510B014. [Paper](http://www.scirp.org/journal/PaperInformation.aspx?paperID=38539#.UzJB362Sw3s) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icbbe13.pptx)  
       
-48.  S.B. Wan, M. Mak and S. Kung, "Semantic Similarity over Gene Ontology for Multi-Label Protein Subcellular Localization," _Engineering_, Vol. 5 No. 10B, 2013, pp. 68-72. doi:10.4236/eng.2013.510B014. [Paper](http://www.scirp.org/journal/PaperInformation.aspx?paperID=38539#.UzJB362Sw3s) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/icbbe13.pptx)  
-      
-49.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou's Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40-48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
+50.  S.B. Wan, M.W. Mak, and S.Y. Kung, "GOASVM: A Subcellular Location Predictor by Incorporating Term-Frequency Gene Ontology into the General Form of Chou's Pseudo-Amino Acid Composition", _J. of Theoretical Biology_, vol. 323 pp. 40-48 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/jtb2013.pdf)  [GOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/GOASVM.html) 
 
-50.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)
+51.  W. Rao and M.W. Mak, "Boosting the Performance of I-Vector Based Speaker Verification via Utterance Partitioning", _IEEE Trans. on Audio, Speech and Language Processing_, vol. 21, no. 5, pp. 1012-1022, May 2013. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/T-ASLP2013.pdf)
     
 52.  S.B. Wan, M.W. Mak, and S.Y. Kung, "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines", _BMC Bioinformatics_, 2012, 13:290.  [mGOASVM Web Server](http://bioinfo.eie.polyu.edu.hk/mGoaSvmServer/mGOASVM.html) [Paper](http://www.biomedcentral.com/1471-2105/13/290)
     
@@ -249,37 +249,26 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, April 2025.
     
 11.  Jen-Tzung Chien, I-Ping Yeh, Man-Wai Mak, "Collaborative Contrastive Learning for Hypothesis Domain Adaptation, _Proc. Interspeech_, Kos Island, Greece, Sept 2024.  
       
-    
 12.  Chong-Xin Gan, Man-Wai Mak, Weiwei Lin, and Jen-Tzung Chien, "Asymmetric Clean Segments-Guided Self-Supervised Learning for Robust Speaker Verification", _ICASSP_, Seoul, April, 2024, pp. 11081-11085. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24a.pdf)  
       
-    
 13.  Zhe Li, Man-Wai Mak, Helen Mei-Ling Meng, "Dual Parameter-Efficient Fine-Tuning for Speaker Representation via Speaker Prompt Tuning and Adapters", _ICASSP_, Seoul, April, 2024, pp. 10751-10755. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24b.pdf)  
       
-    
 14.  Youzhi Tu, Man-Wai Mak, and Jen-Tzung Chien, "Contrastive Speaker Embedding with Sequential Disentanglement", _ICASSP_, Seoul, April, 2024, pp. 10891-10895. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24c.pdf)  
       
-    
 15.  Lishi Zuo, Man-Wai Mak, and Youzhi TU, "Promoting Independence of Depression and Speaker Features for Speaker Disentanglement in Speech-Based Depression Detection", _ICASSP_, Seoul, April, 2024, pp. 10191-10195. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp24d.pdf)  
       
-    
 16.  Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Jointly Modelling Transcriptions and Phonemes with Optimal Features to Detect Dementia from Spontaneous Cantonese", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23a.pdf)  
       
-    
 17.  Jin Li, Man-Wai Mak, Nan Yan, and Lan Wang, "Modeling Suprasegmental Information Using Finite Difference Network for End-to-End Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23b.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Jin-APSIPA23_v8.pdf)  
       
-    
 18.  Lu Yi and Man-Wai Mak, "Cross-Domain adaptation in Distance Space for Speaker Verification", _Proc. APSIPA_, Taipei, Nov. 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa23c.pdf) [](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf)[Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/Yi-Mak-APSIPA23_v3.pdf)  
-      
-    
+          
 19.  Chong-Xin Gan, Man-Wai Mak, Ivan Wang-Hei Ho, Steven Wing-Chi Lee, "Deep Segment-Attentive Network for Altered-Engine Recognition", _Proc. IEEE_ _International Conference on Intelligent Transportation Systems (ITSC)_, Bilbao, Sept 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/itsc2023.pdf) [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/mwmak-itsc_2023.pdf)  
       
-    
 20.  Helen Meng, Brian Mak, Man-Wai Mak, et al. "Integrated and Enhanced Pipeline System to Support Spoken Language Analytics for Screening Neurocognitive Disorders", _Proc. Interspeech_, 2023.  
       
-    
 21.  Weiwei Lin, Chenhang He, Man-Wai Mak, and Youzhi Tu, "[Self-supervised Neural Factor Analysis for Disentangling Utterance-level Speech Representations](https://arxiv.org/abs/2305.08099)", _Proc. International Conference on Machine Learning (ICML)_, 2023. [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icml23-poster.pdf)  
       
-    
 22.  Xiaoquan Ke, Man-Wai Mak, and Helen M. MENG, "Feature Selection and Text Embedding for Detecting Dementia from Spontaneous Cantonese ", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23a.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/ICASSP2023_xiaoquan_v2.pdf)
     
 20.  Zhe Li, Man-Wai Mak, and Helen Mei-Ling MENG, "Discriminative Speaker Representation via Contrastive Learning with Class-Aware Attention in Angular Space", _Proc. ICASSP_, Rhodes Island, June 2023. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23b.pdf)   [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp23-poster.pdf)
@@ -299,50 +288,36 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, April 2025.
     
 27.  Xiaoquan Ke, Man-Wai Mak, Jinchao Li, Helen M. Meng, "Dual Dropout Ranking of Linguistic Features for Alzheimer's Disease Recognition", _Proc. APSIPA_, Toyko, Dec. 2021, pp. 743-749. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa21b.pdf)  
       
-    
 28.  Youzhi Tu and Man-Wai Mak,"Mutual Information Enhanced Training for Speaker Embedding", _Proc. Interspeech'2021_, Brno, Sep 2021, pp. 91-95. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech21.pdf)  
-      
-    
+        
 29.  Jinchao Li, Jianwei Yu, Ye Zi, Simon Wong, Man-Wai Mak, Brian Mak, Xunying Liu, and Helen Meng, "A Comparative Study of Acoustic and Linguistic Features Classification for Alzheimer's Disease Detection", _Proc. ICASSP_'2021, Toronto, Jun 2021, pp. 6408-6411.  
       
-    
 30.  Youzhi Tu and Man-Wai Mak, "Short-Time Spectral Aggregation for Speaker Embedding", Proc. _ICASSP'2021_, Toronto, Jun 2021, pp. 6693-6697. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp21.pdf)[](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp2021b.pdf)  
       
-    
 31.  Sean Shensheng Xu, Man-Wai Mak, Ka Ho Wong, Helen Meng, and Timothy C.Y. Kwok, "Age-Invariant Speaker Embedding for Diarization of Cognitive Assessments", _Proc. International Symposium on Chinese Spoken Language Processing (ISCSLP'2021)_, Hong Kong, Jan. 2021. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp2021a.pdf) [](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp2021b.pdf)[Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/Xu-Mak-iscslp21.pdf) [Video](http://www.eie.polyu.edu.hk/~mwmak/papers/114.mp4)  
       
-    
 32.  Ling-jun Zhao and Man-Wai Mak, "Channel Interdependence Enhanced Speaker Embeddings for Far-Field Speaker Verification", _Proc. International Symposium on Chinese Spoken Language Processing (ISCSLP'2021)_, Hong Kong, Jan. 2021. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/iscslp2021b.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/Zhao-Mak-iscslp21.pdf) [Video](http://www.eie.polyu.edu.hk/~mwmak/papers/39.mp4)  
       
-    
 33.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "Gaussian Models for CSI Fingerprinting in Practical Indoor Environment Identification, _Globecom2020_, Taipei, Dec. 2020.  
       
-    
 34.  L. Yi and M.W. Mak, "Adversarial Separation and Adaptation Network for Far-Field Speaker Verification," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4298-4302.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20a.pdf)
     
 36.  W.W. Lin and M.W. Mak, "Wav2Spk: A Simple DNN Architecture for Learning Speaker Embeddings from Waveforms," _Interspeech'2020_, Shanghai, Oct. 2020, pp. 3211-3215.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20b.pdf)  
       
-    
 37.  W.W. Lin, M.W. Mak and J.T. Chien, "Strategies for End-to-End Text-Independent Speaker Verification", _Interspeech'2020_, Shanghai, Oct. 2020, pp. 4308-4312.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech20c.pdf)  
       
-    
 38.  W.W. Lin, M.W. Mak, and L. Yi, "[Learning Mixture Representation for Deep Speaker Embedding Using Attention](https://www.isca-speech.org/archive/odyssey_2020/lin20c_odyssey.html)", _Odyssey 2020: The Speaker and Language Recognition Workshop_, Tokyo, Nov. 2020, pp. 210-214.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey20.pdf)  
       
-    
 39.  W.W. Lin, M.W. Mak, N. Li, D. Su, D. Yu, "Multi-level Deep Neural Network Adaptation for Speaker Verification using MMD and Consistency Regularization", _ICASSP'20_, Barcelona, May 2020, pp. 6834-6838.  [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp20a.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-LinMakLiSuYu.pdf) [Video Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/3043-720p.mp4)
     
 39.  Y.Z. Tu, M.W. Mak and J.T. Chien, "Information Maximized Variational Domain Adversarial Learning for Speaker Verification", _ICASSP'20_, Barcelona, May 2020, pp. 6444-6448. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp20b.pdf) [Slides](http://www.eie.polyu.edu.hk/~mwmak/papers/5091-TuMakChien.pdf) [Video Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/5091-720p.mp4)  
       
-    
 40.  L. Yi and M.W. Mak, "Adversarial Data Augmentation Network for Speech Emotion Recognition", _APSIPA_, Lanzhou, China, Nov. 2019. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa19.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa19-poster.pdf)  
       
-    
 41.  Y.Z. Tu, M.W. Mak, and J.T. Chien, "Variational Domain Adversarial Learning for Speaker Verification", _Interspeech_'_19_, Graz, Sept. 2019. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech19.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech19-poster.pdf)  
       
-    
 42.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "Fingerprint Quality Classification for CSI-based Indoor Positioning Systems", _Twentieth International Symposium on Mobile Ad Hoc Networking_ (ACM MobiHoc 2019), Catania, 2019.  
       
-    
 43.  W.W. Lin, M.W. Mak, Y.Z. Tu, and J.T. Chien, "Semi-supervised Nuisance-Attribute Networks for Domain Adaptation", _ICASSP_'_19_, Brighton, May, 2019, pp. 6236-6240. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp19-poster.pdf)  
     
 44.  Youzhi TU, Yingke ZHU, Man Wai MAK, Dongpeng CHEN, Weiwei LIN, Brian K.W. MAK, Zhuxin CHEN and Weibin ZHANG, "PAU Submission of NIST 2018 Speaker Recognition Evaluation", _NIST 2018 SRE Workshop,_ Athens, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/pau-sre18-sysdesc.pdf) [Poster](http://www.eie.polyu.edu.hk/~mwmak/papers/PAU_sre18_poster.pdf)
@@ -351,9 +326,7 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, April 2025.
     
 48.  Sean shensheng Xu, Man-Wai Mak and Chi-Chung Cheung, "Patient-Specific Heartbeat Classification Based on I-Vector Adapted Deep Neural Networks", _IEEE International Conference on Bioinformatics and Biomedicine_, Madrid, Dec. 2018. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm18_present.pdf)  
       
-    
 49.  Josyl Mariela Rocamora, Ivan Wang-Hei Ho and Man-Wai Mak, "The Application of Machine Learning Techniques on Channel Frequency Response based Indoor Positioning in Dynamic Environments", _IEEE International Conference on Sensing, Communication and Networking (CoWPER'18)_, 2018.  
-      
     
 50.  W.W. Lin, M.W. Mak, L.X. Li, and J.T. Chien, "Reducing Domain Mismatch by Maximum Mean Discrepancy Based Autoencoders", _Speaker Odyssey 2018_, June 2018, Les Sables d'Olonne, France, pp. 162-167. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18.pdf) [Presentation File](http://www.eie.polyu.edu.hk/~mwmak/papers/Odyssey18_present.pdf)  
       
