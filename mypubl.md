@@ -432,8 +432,8 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, April 2025.
 
 100.  S.X. Zhang and M.W. Mak, "High-Level Speaker Verification via Articulatory-Feature based Sequence Kernels and SVM", _Interspeech'2008_, Brisbane, Sept. 2008, pp.  1393-1396 [(interspeech08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech08.pdf)
 
-102.  S.X. Zhang and M.W. Mak, "Articulatory-Feature based Sequence Kernel For High-Level Speaker Verification", _Int. Conf. on Machine Learning and Cybernetics (ICMLC) 2008_, vol. 5, pp. 2799-2804 [(icmlc08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icmlc08.pdf)_
- 
+102.  S.X. Zhang and M.W. Mak, "Articulatory-Feature based Sequence Kernel For High-Level Speaker Verification", _Int. Conf. on Machine Learning and Cybernetics (ICMLC) 2008_, vol. 5, pp. 2799-2804 [(icmlc08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icmlc08.pdf)
+
 104.  M.W. Mak and S.Y. Kung, "Fusion of Cleavage Site Detection and Pairwise Alignment for Fast Subcellular Localization", _ICASSP'08_, pp. 573-576, Las Vegas, April, 2008 [(icassp08.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp08.pdf)  
      
 105.  S.X. Zhang and M. W. Mak, "A New Adaptation Method for Speaker-Model Creation in High-Level Speaker Verification", _Advances in Multimedia Information Processing (PCM'2007)_, Hong Kong_,_ Springer LNCS 4810, pp. 325-335.  [(pcm07.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/pcm07.pdf) [(presentation)](http://www.eie.polyu.edu.hk/~mwmak/papers/PCM07_pres.pdf)
