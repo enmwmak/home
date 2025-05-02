@@ -406,23 +406,23 @@ Logit Softening for Speaker Recognition," _Proc. ICASSP_, Hyderabad, April 2025.
      
 78.  S.B. Wan, M.W. Mak, and S.Y. Kung, "Protein Subcellular Localization Prediction Based on Profile Alignment and Gene Ontology", _2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11)_, Beijing, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/mlsp11.pdf)
     
-80.  H.B. Yu and M.W. Mak, "Comparison of Voice Activity Detectors for Interview Speech in NIST Speaker Recognition Evaluation", _Interspeech'11_, pp. 2353-2356, pp. 2353-2356, Florence, Aug. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11a.pdf) [Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)   
+80.  H.B. Yu and M.W. Mak, "Comparison of Voice Activity Detectors for Interview Speech in NIST Speaker Recognition Evaluation", _Interspeech'11_, pp. 2353-2356, pp. 2353-2356, Florence, Aug. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11a.pdf) [Resources](http://bioinfo.eie.polyu.edu.hk/ssvad)
+    
+82.  W. Rao and M.W. Mak, "Addressing the Data-Imbalance Problem in Kernel-based Speaker Verification via Utterance Partitioning and Speaker Comparison", _Interspeech'11_, pp. 2717-2720, Plague, July 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11b.pdf)   
      
-81.  W. Rao and M.W. Mak, "Addressing the Data-Imbalance Problem in Kernel-based Speaker Verification via Utterance Partitioning and Speaker Comparison", _Interspeech'11_, pp. 2717-2720, Plague, July 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech11b.pdf)   
+83.  W. Jiang, M. W. Mak, W. Rao, H. Meng, The HKCUPU System for the NIST 2010 Speaker Recognition Evaluation, _ICASSP' 2011_. pp. 5288 - 5291, Florence, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp11.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2011_poster.pdf)   
      
-82.  W. Jiang, M. W. Mak, W. Rao, H. Meng, The HKCUPU System for the NIST 2010 Speaker Recognition Evaluation, _ICASSP' 2011_. pp. 5288 - 5291, Florence, Sept. 2011. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp11.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/icassp2011_poster.pdf)   
+84.  M.W. Mak, W. Wang, and S.Y. Kung, "Truncation of Protein Sequences for Fast Profile Alignment with Application to Subcellular Localization", _Proc. IEEE International Conference on Bioinformatics & Biomedicine (BIBM'2010)_, pp. 115-120, Dec. 2010, Hong Kong. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)   
      
-83.  M.W. Mak, W. Wang, and S.Y. Kung, "Truncation of Protein Sequences for Fast Profile Alignment with Application to Subcellular Localization", _Proc. IEEE International Conference on Bioinformatics & Biomedicine (BIBM'2010)_, pp. 115-120, Dec. 2010, Hong Kong. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/bibm10.ppt)   
+85.  M.W. Mak and H.B. Yu, "Robust Voice Activity Detection for Interview Speech in NIST Speaker Recognition Evaluation, "_Proc. APSIPA ASC_ 2010, pp. 64-71, Dec. 2010, Singapore. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.ppt)   
      
-84.  M.W. Mak and H.B. Yu, "Robust Voice Activity Detection for Interview Speech in NIST Speaker Recognition Evaluation, "_Proc. APSIPA ASC_ 2010, pp. 64-71, Dec. 2010, Singapore. [Paper](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.pdf)    [Presentation](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa10.ppt)   
+86.  M.W. Mak and W. Rao, "Acoustic Vector Resampling for GMMSVM-Based Speaker Verification, _Interspeech 2010_. Sept. 2010, Makuhari, Japan, pp. 1449-1452. [(interspeech10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10.pdf) [(interspeech10-poster.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10-poster.pdf)  
      
-85.  M.W. Mak and W. Rao, "Acoustic Vector Resampling for GMMSVM-Based Speaker Verification, _Interspeech 2010_. Sept. 2010, Makuhari, Japan, pp. 1449-1452. [(interspeech10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10.pdf) [(interspeech10-poster.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech10-poster.pdf)  
+87.  W. Wang, M.W. Mak and S.Y. Kung, "Speeding up Subcellular Localization by Extracting Informative Regions of Protein Sequences for Profile Alignment", _Proc. Computational Intelligence in Bioinformatics and Computational Biology (CIBCB'10),_ Montreal, May, pp. 147-154. [(cibcb10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/cibcb10.pdf)  
      
-86.  W. Wang, M.W. Mak and S.Y. Kung, "Speeding up Subcellular Localization by Extracting Informative Regions of Protein Sequences for Profile Alignment", _Proc. Computational Intelligence in Bioinformatics and Computational Biology (CIBCB'10),_ Montreal, May, pp. 147-154. [(cibcb10.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/cibcb10.pdf)  
+88.  G. L. Ye, B. Mak and M.W. Mak "Fast GMM Computation for Speaker Verification Using Scalar Quantization and Discrete Densities", _Interspeech'2009_, Brighton, Sept. 2009, pp. 2327-2330.  
      
-87.  G. L. Ye, B. Mak and M.W. Mak "Fast GMM Computation for Speaker Verification Using Scalar Quantization and Discrete Densities", _Interspeech'2009_, Brighton, Sept. 2009, pp. 2327-2330.  
-     
-88.  S.X. Zhang and M.W. Mak, "Optimization of Discriminative Kernels in SVM Speaker Verification", _Interspeech'2009_, Brighton, Sept. 2009, 1275-1278. [(interspeech09.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech09.pdf)
+89.  S.X. Zhang and M.W. Mak, "Optimization of Discriminative Kernels in SVM Speaker Verification", _Interspeech'2009_, Brighton, Sept. 2009, 1275-1278. [(interspeech09.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/interspeech09.pdf)
      
 90.  S.X. Zhang and M.W. Mak, Regression Optimized Kernel for High-Level Speaker Verification, _Proc. APSIPA ASC_ 2009, Sapporo, pp. 40-44, Oct. 2009.  [(apsipa09a.pdf)](http://www.eie.polyu.edu.hk/~mwmak/papers/apsipa09a.pdf)
     
