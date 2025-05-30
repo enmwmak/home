@@ -3,8 +3,7 @@
 
 **Invited Talks**
 
-1.  [Deep Learning-Based Spoken Language Processing for Biomedical Applications](http://www.eie.polyu.edu.hk/~mwmak/papers/Mak-NYCU-2023.pdf)", National Yang Ming Chiao Tung University, Taiwan, Nov. 2023.[  
-      ](https://cis.cihe.edu.hk/video/20210320.mak.mp4#t=58)
+1.  [Deep Learning-Based Spoken Language Processing for Biomedical Applications](http://www.eie.polyu.edu.hk/~mwmak/papers/Mak-NYCU-2023.pdf)", National Yang Ming Chiao Tung University, Taiwan, Nov. 2023. (https://cis.cihe.edu.hk/video/20210320.mak.mp4#t=58)
 
 2.  "[Supervised and Self-Supervised Contrastive Learning for Speaker Verification Across Languages](http://www.eie.polyu.edu.hk/~mwmak/papers/IEEE-Workshop-DL2023.pdf)", _IEEE Workshop on Deep Learning_, Hong Kong, April 2023.  (https://cis.cihe.edu.hk/video/20210320.mak.mp4#t=58)
 3.  "[Advanced Pooling Methods for Robust Speaker Verification](http://www.eie.polyu.edu.hk/~mwmak/papers/SRRW2022.pdf)", _The Symposium on Speaker Recognition Research and Application (SRRW2022)_, Xinjiang, Nov. 2022. [Video](https://polyuit-my.sharepoint.com/:v:/g/personal/enmwmak_polyu_edu_hk/EdGDN6-wIK1NhZhg8bnDxvsBOZTUUQvrYT-4QRG-S1cwdA?e=ZI0iul)  
