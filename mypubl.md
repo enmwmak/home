@@ -233,8 +233,6 @@
 
 1. Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Optimizing Pause Context in Fine-Tuning Pre-trained Large Language Models for Dementia Detection," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(b).pdf)
 
-1. Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Optimizing Pause Context in Fine-Tuning Pre-trained Large Language Models for Dementia Detection," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(b).pdf)
-
 1. Lishi Zuo and Man-Wai Mak, "Leveraging Ordinal Information for Speech-based Depression Classification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(a).pdf)
 
 1. Junjie Li, Ke Zhang, Shuai Wang, Kong Aik Lee, Man-Wai Mak, Haizhou Li, "MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues," _Proc. IEEE Int. Conf. on Multimedia and Expo (ICME)_, Nantes, July 2025. [Paper](https://arxiv.org/abs/2412.08247)
