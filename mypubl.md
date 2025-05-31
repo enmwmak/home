@@ -223,6 +223,18 @@
 96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
+1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(f).pdf)
+
+1. Ruichen Zuo, Kong Aik Lee, Zilong Huang, Man-Wai Mak, "The Sub-3Sec Problem: From Text-Independent to Text-Dependent Corpus," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(e).pdf)
+
+1. Chong-Xin Gan, Zhe Li, Zezhong Jin, Zilong Huang, Man-Wai Mak, Kong Aik Lee, "IDIR: Identifying and Distilling Informative Relations for Speaker Verification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(d).pdf)
+
+1. Jin Li, Man-Wai Mak, Johan Rohdin, Kong Aik Lee, Hynek Hermansky, "Bayesian Learning for Domain-Invariant Speaker Verification and Anti-Spoofing," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(c).pdf)
+
+1. Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Optimizing Pause Context in Fine-Tuning Pre-trained Large Language Models for Dementia Detection," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(b).pdf)
+
+1. Xiaoquan Ke, Man-Wai Mak, and Helen M. Meng, "Optimizing Pause Context in Fine-Tuning Pre-trained Large Language Models for Dementia Detection," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(b).pdf)
+
 1. Lishi Zuo and Man-Wai Mak, "Leveraging Ordinal Information for Speech-based Depression Classification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(a).pdf)
 
 1. Junjie Li, Ke Zhang, Shuai Wang, Kong Aik Lee, Man-Wai Mak, Haizhou Li, "MoMuSE: Momentum Multi-modal Target Speaker Extraction for Real-time Scenarios with Impaired Visual Cues," _Proc. IEEE Int. Conf. on Multimedia and Expo (ICME)_, Nantes, July 2025. [Paper](https://arxiv.org/abs/2412.08247)
