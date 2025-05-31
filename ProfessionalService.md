@@ -3,6 +3,8 @@
 
 **Invited Talks**
 
+1.  [Parameter-Efficient Fine-Tuning and Feature Disentanglement for Speaker Representation Learning](https://polyuit-my.sharepoint.com/:b:/g/personal/enmwmak_polyu_edu_hk/EVZlCTXuiYFJsb-07uJ76ckBruIkRYe4cD8UpoT0CJPCwA?e=8bkGfc)", APSIPA Distinguished Lecture, Duke Kunshan University, China, May 2025.
+
 1.  [Deep Learning-Based Spoken Language Processing for Biomedical Applications](http://www.eie.polyu.edu.hk/~mwmak/papers/Mak-NYCU-2023.pdf)", National Yang Ming Chiao Tung University, Taiwan, Nov. 2023. 
 
 2.  "[Supervised and Self-Supervised Contrastive Learning for Speaker Verification Across Languages](http://www.eie.polyu.edu.hk/~mwmak/papers/IEEE-Workshop-DL2023.pdf)", _IEEE Workshop on Deep Learning_, Hong Kong, April 2023.  (https://cis.cihe.edu.hk/video/20210320.mak.mp4#t=58)
