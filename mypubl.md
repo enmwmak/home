@@ -43,7 +43,7 @@
 7.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
-1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, to appear. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ALSP-2025.pdf)
+1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, to appear. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025.pdf)
 
 1. Youzhi Tu, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, "ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification", _Neurocomputing_, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Neurocomp2025b.pdf)
 
