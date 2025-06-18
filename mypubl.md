@@ -49,7 +49,7 @@
 
 1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/JBHI-2025.pdf)
 
-1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, Jan 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Neurocomp2025a.pdf)
+1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, Jan 2025. 
    
 1. J.M.R. Reyes, I.W.H. Ho, and M.W. Mak, "Wi-Fi CSI Fingerprinting-based indoor positioning using deep learning and vector embedding for temporal stability," _Expert Systems with Applications_, vol. 264, 125802, March 2025.
 
