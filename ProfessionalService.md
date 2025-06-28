@@ -78,6 +78,7 @@
 
 1.  Distinguished Lecturer, APSIPA, 2025 - 2026
 1.  Member, Innovation and Technology Fund - Research Projects Assessment Panel, 2025 - 2027
+2.  Member of Assessment Panel, Innovation and Technology Fund (ITF) - Enterprise Support Scheme (ESS), 2025 – 2027.
 1.  Member, APAS Advisory Committee, 2023-2025  
 2.  Member, Program Committee, APSIPA 2023
 3.  Member, Program Committee, Odyssey 2022
