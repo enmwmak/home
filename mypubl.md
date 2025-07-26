@@ -43,11 +43,11 @@
 7.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
 
 ## Journal Papers
-1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, to appear. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025.pdf)
+1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 2961-2972, June 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025.pdf)
 
 1. Youzhi Tu, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, "ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification", _Neurocomputing_, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Neurocomp2025b.pdf)
 
-1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/JBHI-2025.pdf)
+1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, vol. 33, pp. 2961-2972, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/JBHI-2025.pdf)
 
 1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, Jan 2025. 
    
