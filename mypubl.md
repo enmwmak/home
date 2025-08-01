@@ -38,9 +38,10 @@
    
 3.  M.C. Cheung, M.W. Mak and S.Y. Kung, "[Probabilistic Fusion of Sorted Score Sequences for Robust Speaker Verification](http://www.eie.polyu.edu.hk/~mwmak/papers/TanBook05.pdf)," in Y.P. Tan, K.H. Yap and L. Wang, editors, _Intelligent Multimedia Processing with Soft Computing_, Springer, pp. 369-381, 2005.
    
-5.  K .W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," to appear in Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004.
+5.  K .W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004.
    
 7.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
+8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
 1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE/ACM Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 2961-2972, June 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025.pdf)
