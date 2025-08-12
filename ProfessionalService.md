@@ -3,6 +3,8 @@
 
 **Invited Talks**
 
+1. [Towards Efficient Speaker Representation Learning](https://github.com/enmwmak/home/blob/main/papers/MSRA-APSIPA-DL-2025.pdf), APSIPA Distinguished Lecture, Microsoft Research Asia, China, Aug 2025.
+
 1.  [Parameter-Efficient Fine-Tuning and Feature Disentanglement for Speaker Representation Learning](https://polyuit-my.sharepoint.com/:b:/g/personal/enmwmak_polyu_edu_hk/EVZlCTXuiYFJsb-07uJ76ckBruIkRYe4cD8UpoT0CJPCwA?e=8bkGfc)", APSIPA Distinguished Lecture, Duke Kunshan University, China, May 2025. [Video presentation](https://polyuit-my.sharepoint.com/:v:/g/personal/enmwmak_polyu_edu_hk/EYb8iFXYF8hMtIM4kajNUcIBtoj9oxn7gdX2L4FIs11LyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vgV2rv)    
 
 1.  [Deep Learning-Based Spoken Language Processing for Biomedical Applications](http://www.eie.polyu.edu.hk/~mwmak/papers/Mak-NYCU-2023.pdf)", National Yang Ming Chiao Tung University, Taiwan, Nov. 2023. 
