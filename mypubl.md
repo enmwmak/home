@@ -230,8 +230,6 @@
 
 1. Siqing QIN, Kong Aik LEE, Man-Wai MAK, Pasquale LISENA, Massimiliano TODISCO, "Variational Regularization for End-to-end Speech Deepfake Detection," _Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)_, Singapore, Oct 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/QIN.pdf)
 
-1. Siqing QIN, Kong Aik LEE, Man-Wai MAK, Pasquale LISENA, Massimiliano TODISCO, "Variational Regularization for End-to-end Speech Deepfake Detection," _Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)_, Singapore, Oct 2025. 
-
 1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(f).pdf)
 
 1. Ruichen Zuo, Kong Aik Lee, Zilong Huang, Man-Wai Mak, "The Sub-3Sec Problem: From Text-Independent to Text-Dependent Corpus," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(e).pdf)
