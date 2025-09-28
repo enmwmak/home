@@ -44,7 +44,7 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
-1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification", _IEEE Transactions on Audio, Speech and Language Processing_, 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025b.pdf)
+1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification", _IEEE Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 3896-3907, Sep 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025b.pdf)
 
 1. Zhe Li, Man-Wai Mak, Mert Pilanci, and Helen Meng, "Mutual Information-Enhanced Contrastive Learning with Margin for Maximal Speaker Separability", _IEEE Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 2961-2972, June 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025.pdf)
 
