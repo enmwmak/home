@@ -50,7 +50,7 @@
 
 1. Youzhi Tu, Man-Wai Mak, Kong-Aik Lee, and Weiwei Lin, "ConFusionformer: Locality-enhanced Conformer Through Multi-resolution Attention Fusion for Speaker Verification", _Neurocomputing_, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Neurocomp2025b.pdf)
 
-1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, vol. 33, pp. 2961-2972, May 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/JBHI-2025.pdf)
+1. Lishi Zuo and Man-Wai Mak, "Vector Quantization-based Counterfactual Augmentation for Speech-based Depression Detection under Data Scarcity", _IEEE Journal of Biomedical and Health Informatics (J-BHI)_, vol. 33, pp. 7559-7567, Oct 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/JBHI-2025.pdf)
 
 1. Zezhong Jin, Youzhi Tu, Chong-Xin Gan, Man-Wai Mak, Kong-Aik Lee, "[Adversarially Adaptive Temperatures for Decoupled Knowledge Distillation with Applications to Speaker Verification](https://doi.org/10.1016/j.neucom.2025.129481)," _Neurocomputing_, Jan 2025. 
    
