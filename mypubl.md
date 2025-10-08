@@ -44,7 +44,7 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
-1. Jinchao Li, Yuejiao Wang, Junan Li, Jiawen Kang, Bo Zheng, Simon Wong, Brian Mak, Helene Fung, Jean Woo, Man-Wai Mak, Timothy Kwok, Vincent Mok, Xianmin Gong, Xixin Wu, Xunying Liu, Patrick Wong, Helen Meng, "Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-Modal Consistency in Visual-Stimulated Narratives," _IEEE Journal of Selected Topics in Signal Processing, 2025.
+1. Jinchao Li, Yuejiao Wang, Junan Li, Jiawen Kang, Bo Zheng, Simon Wong, Brian Mak, Helene Fung, Jean Woo, Man-Wai Mak, Timothy Kwok, Vincent Mok, Xianmin Gong, Xixin Wu, Xunying Liu, Patrick Wong, Helen Meng, "Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-Modal Consistency in Visual-Stimulated Narratives," _IEEE Journal of Selected Topics in Signal Processing_, 2025.
    
 1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification", _IEEE Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 3896-3907, Sep 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025b.pdf)
 
@@ -232,7 +232,7 @@
 ## Conference Papers
 1. Zezhong Jin, Shubhang Desai, Xu Chen, Biyi Fang, Zhuoyi Huang, Zhe Li, Chong-Xin Gan, Xiao Tu, Man-Wai Mak, Yan Lu, Shujie Liu, "TrInk: Ink Generation with Transformer Network," _Proc. Empirical Methods in Natural Language Processing (EMNLP)_, Suzhou, Nov 2025. [Paper](https://arxiv.org/abs/2508.21098)
 
-1. Siqing QIN, Kong Aik LEE, Man-Wai MAK, Pasquale LISENA, Massimiliano TODISCO, "Variational Regularization for End-to-end Speech Deepfake Detection," _Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)_, Singapore, Oct 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/QIN.pdf)
+1. Siqing QIN, Kong Aik LEE, Man-Wai MAK, Pasquale LISENA, Massimiliano TODISCO, "Variational Regularization for End-to-end Speech Deepfake Detection," _Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)_, Singapore, pp. 330-335, Oct 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/QIN.pdf)
 
 1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification," _Proc. Interspeech_, Rotterdam, Aug 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/Interspeech25(f).pdf)
 
