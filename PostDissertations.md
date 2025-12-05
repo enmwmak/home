@@ -2,7 +2,7 @@
 
 **PhD Dissertation**
 
-1.  Zhe Li, 2025, "Maximal Speaker Separability via Robust Speaker Representation Learning", _PhD Dissertation_, The Hong Kong Polytechnic University.
+1.  Zhe LI, 2025, "Maximal Speaker Separability via Robust Speaker Representation Learning", _PhD Dissertation_, The Hong Kong Polytechnic University.
 
 1.  Chongkai LU, 2024, "Towards End-to-End Temporal Action Detection in Videos", _PhD Dissertation_, The Hong Kong Polytechnic University.  
     
