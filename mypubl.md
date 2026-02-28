@@ -232,13 +232,15 @@
 96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
-1. Zezhong Jin, Shujie Liu, Zhe Li, Chong-Xin Gan, Zilong Huang, Man-Wai Mak, Kong Aik Lee, "Distilling Attention Knowledge for Speaker Verification," _ICASSP_, May 2026.
+1. Zezhong Jin, Shujie Liu, Zhe Li, Chong-Xin Gan, Zilong Huang, Man-Wai Mak, Kong Aik Lee, "Distilling Attention Knowledge for Speaker Verification," _Proc. ICASSP_, May 2026.
    
-1. Yijia Chen, Junjie Li, Kong Aik Lee, Man Wai Mak, "Uncertainty Factorization with Linear-Time Sequential Modeling for Speaker Embedding," _ICASSP_, May 2026.
+1. Yijia Chen, Junjie Li, Kong Aik Lee, Man Wai Mak, "Uncertainty Factorization with Linear-Time Sequential Modeling for Speaker Embedding," _Proc. ICASSP_, May 2026.
 
-1. Jin Li, Man-Wai Mak, Kong Aik Lee, Oldřich Plchot, "Uncertainty-Guided Domain Augmentation for Domain Generalization In Speaker Verification and Anti-Spoofing," _ICASSP_, May 2026.
+1. Jin Li, Man-Wai Mak, Kong Aik Lee, Oldřich Plchot, "Uncertainty-Guided Domain Augmentation for Domain Generalization In Speaker Verification and Anti-Spoofing," _Proc. ICASSP_, May 2026.
 
-1. 
+1. Jin Li, Man-Wai Mak, Johan Rohdin, Oldřich Plchot, Kong Aik Lee, "Curriculum Learning with Contrastive Loss for Lightweight Speaker Verification," _Proc. ICASSP_, May 2026.
+
+1. Junjie Li, Kong Aik Lee, Duc-Tuan Truong, Tianchi Liu, Man-Wai Mak, "Xi+: Uncertainty Supervision for Robust Speaker Embedding", _Proc. ICASSP_, May 2026.
    
 1. Zezhong Jin, Shubhang Desai, Xu Chen, Biyi Fang, Zhuoyi Huang, Zhe Li, Chong-Xin Gan, Xiao Tu, Man-Wai Mak, Yan Lu, Shujie Liu, "TrInk: Ink Generation with Transformer Network," _Proc. Empirical Methods in Natural Language Processing (EMNLP)_, Suzhou, Nov 2025. [Paper](https://arxiv.org/abs/2508.21098)
 
