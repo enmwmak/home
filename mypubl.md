@@ -44,6 +44,9 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
+1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode
+Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
+
 1. Jin Li, Man-Wai Mak, Johan Rohdin, Oldrich Plchot, Kong Aik Lee, and Hynek Hermansky, "Bayesian Neural Representation Augmentations for Domain Generalization in Speaker Verification and Anti-Spoofing," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
 
 1. Zhe Li, Man-Wai Mak, Merit Pilanci, Hung-Yi Lee, Chong-Xin Gan, Jiabao Sheng, and Helen Meng, "Towards A Unified Perspective on Parameter-Efficient Fine Tuning for Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
