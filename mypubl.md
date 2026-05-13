@@ -44,16 +44,17 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
-1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode
-Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
+1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, 2026.
 
-1. Jin Li, Man-Wai Mak, Johan Rohdin, Oldrich Plchot, Kong Aik Lee, and Hynek Hermansky, "Bayesian Neural Representation Augmentations for Domain Generalization in Speaker Verification and Anti-Spoofing," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
+1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2101-2114, Apr 2026.
+
+1. Jin Li, Man-Wai Mak, Johan Rohdin, Oldrich Plchot, Kong Aik Lee, and Hynek Hermansky, "Bayesian Neural Representation Augmentations for Domain Generalization in Speaker Verification and Anti-Spoofing," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2198-2212, Apr 2026.
 
 1. Zhe Li, Man-Wai Mak, Merit Pilanci, Hung-Yi Lee, Chong-Xin Gan, Jiabao Sheng, and Helen Meng, "Towards A Unified Perspective on Parameter-Efficient Fine Tuning for Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, 2026.
    
 1. Pasquale Lisena, Kong Aik Lee, Yi Wang, Massimiliano Todisco, Chiara Galdi, Raphael Troncy, Nicholas Evans, Weiwei Lin, Lap-Pui Chau, Man-Wai Mak, "Future-Proofing Deepfake Detection by Integrating Audio, Video, and Text," _ACM AI Letters_, Feb 2026.
 
-1. Jinchao Li, Yuejiao Wang, Junan Li, Jiawen Kang, Bo Zheng, Simon Wong, Brian Mak, Helene Fung, Jean Woo, Man-Wai Mak, Timothy Kwok, Vincent Mok, Xianmin Gong, Xixin Wu, Xunying Liu, Patrick Wong, Helen Meng, "Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-Modal Consistency in Visual-Stimulated Narratives," _IEEE Journal of Selected Topics in Signal Processing_, 2025.
+1. Jinchao Li, Yuejiao Wang, Junan Li, Jiawen Kang, Bo Zheng, Simon Wong, Brian Mak, Helene Fung, Jean Woo, Man-Wai Mak, Timothy Kwok, Vincent Mok, Xianmin Gong, Xixin Wu, Xunying Liu, Patrick Wong, Helen Meng, "Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-Modal Consistency in Visual-Stimulated Narratives," _IEEE Journal of Selected Topics in Signal Processing_, Vol. 19, pp. 741-756, July 2025.
    
 1. Zhe Li, Man-Wai Mak, Jen-Tzung Chien, Mert Pilanci, Zezhong Jin, and Helen Meng, "Disentangling Speech Representations Learning with Latent Diffusion for Speaker Verification", _IEEE Transactions on Audio, Speech and Language Processing_, vol. 33, pp. 3896-3907, Sep 2025. [Paper](https://github.com/enmwmak/home/blob/main/papers/T-ASLP-2025b.pdf)
 
