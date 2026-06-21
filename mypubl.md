@@ -240,6 +240,17 @@
 96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
+1. Zilong Huang, Kong Aik Lee, Chong-Xin Gan, Zezhong Jin, Ruichen Zuo, Man-Wai Mak, "EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation," _Proc. Interspeech_, Sydney, Sept. 2026.
+
+2. Zilong Huang, Kong Aik Lee, Junjie Li, Zhe Li, Man-Wai Mak, "EmoEUS: Uncertainty Supervision for Multimodal Emotion Recognition in Conversation," _Proc. Interspeech_, Sydney, Sept. 2026.
+
+3. Zezhong Jin, Xiaoyu Wang, Zhe Li, Chong-Xin Gan, Zilong Huang, Man-Wai Mak, Kong Aik Lee, "Beyond Residual Connections: Manifold-Constrained Hyper-Connections for Robust Speaker Representation Learning," _Proc. Interspeech_, Sydney, Sept. 2026.
+
+4. Siqing QIN, Zhe LI, Kong Aik LEE, Man-Wai MAK, "Domain-Adaptive Dual-Gating Mixture of Experts for Generalizable Speech
+Deepfake Detection," _Proc. Interspeech_, Sydney, Sept. 2026.
+
+5. Siqing QIN, Kong Aik LEE, Youzhi TU, Eng Siong CHNG, Man-Wai MAK, "DGS-MLDG: Domain Gradient Surgery Guided Meta-Learning for Domain Generalization in Speech Deepfake Detection," _Proc. Interspeech_, Sydney, Sept. 2026.
+
 1. Zezhong Jin, Shujie Liu, Zhe Li, Chong-Xin Gan, Zilong Huang, Man-Wai Mak, Kong Aik Lee, "Distilling Attention Knowledge for Speaker Verification," _Proc. ICASSP_, May 2026.
    
 1. Yijia Chen, Junjie Li, Kong Aik Lee, Man Wai Mak, "Uncertainty Factorization with Linear-Time Sequential Modeling for Speaker Embedding," _Proc. ICASSP_, May 2026.
