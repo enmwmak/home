@@ -44,7 +44,9 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
-1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, 2026.
+1. Youzhi Tu, Man-Wai Mak, Jen-Tzung Chien, and Lishi Zuo, "Improve Speaker Embedding Through Diffusion Generative Training," _IEEE Transactions on Audio, Speech and Language Processing_, to appear, 2026. 
+   
+1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, vol. 180, May 2026.
 
 1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2101-2114, Apr 2026.
 
