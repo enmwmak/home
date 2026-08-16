@@ -242,6 +242,8 @@
 96.  M.W. Mak, W.G. Allen and G.G. Sexton, "Comparing Multi-Layer Perceptrons and Radial Basis Function Networks in Speaker Identifications," _Journal of Microcomputer Applications_, Vol. 16, pp. 147-59, April 1993.
 
 ## Conference Papers
+1. Zilong Huang, Junyi Peng, Junjie Li, Kai Li, Wenze Ren, Kong Aik Lee, Man-Wai Mak, Tatsuya Kawahara, "Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion," __ACM Multimedia 2026__, Brazil, Nov. 2026.
+ 
 1. Zilong Huang, Kong Aik Lee, Chong-Xin Gan, Zezhong Jin, Ruichen Zuo, Man-Wai Mak, "EII-SCL: Harnessing Emotional Inertia for Multimodal Emotion Recognition in Conversation," _Proc. Interspeech_, Sydney, Sept. 2026.
 
 2. Zilong Huang, Kong Aik Lee, Junjie Li, Zhe Li, Man-Wai Mak, "EmoEUS: Uncertainty Supervision for Multimodal Emotion Recognition in Conversation," _Proc. Interspeech_, Sydney, Sept. 2026.
