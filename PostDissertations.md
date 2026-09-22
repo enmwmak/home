@@ -1,6 +1,7 @@
 **Dissertations of My Postgraduate Students**
 
 **PhD Dissertation**
+1.  Zezhong JIN, 2026, "Knowledge Distillation for Robust Speaker Representation Learning", _PhD Dissertation_, The Hong Kong Polytechnic University.
 
 1.  Zhe LI, 2025, "Maximal Speaker Separability via Robust Speaker Representation Learning", _PhD Dissertation_, The Hong Kong Polytechnic University.
 
