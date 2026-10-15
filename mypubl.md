@@ -267,7 +267,7 @@ Deepfake Detection," _Proc. Interspeech_, Sydney, Sept. 2026.
 
 1. Junjie Li, Kong Aik Lee, Duc-Tuan Truong, Tianchi Liu, Man-Wai Mak, "Xi+: Uncertainty Supervision for Robust Speaker Embedding", _Proc. ICASSP_, May 2026.
 
-1. Daniele Colibro, Claudio Vair, Youzhi Tu, Junjie Li, Zilong Huang, Yijia Chen, Kong Aik Lee, Man-Wai Mak, Jagabandhu Mishra, Vishwanath Singh, Xi Xuan, Manasi Chhibber, Oguzhan Kurnaz, Tomi Kinnunen, Suyeon Lee, Chaeyoung Jung, Kihyun Nam, Joon Son Chung, Shuai Wang, "I4U’s Official and Streamlined Audio Systems for NIST SRE24", _Proc. Odyssey, Lisbon, pp. 191-198, 2026, 
+1. Daniele Colibro, Claudio Vair, Youzhi Tu, Junjie Li, Zilong Huang, Yijia Chen, Kong Aik Lee, Man-Wai Mak, Jagabandhu Mishra, Vishwanath Singh, Xi Xuan, Manasi Chhibber, Oguzhan Kurnaz, Tomi Kinnunen, Suyeon Lee, Chaeyoung Jung, Kihyun Nam, Joon Son Chung, Shuai Wang, "I4U’s Official and Streamlined Audio Systems for NIST SRE24", _Proc. Odyssey_, Lisbon, pp. 191-198, 2026, 
    
 1. Zezhong Jin, Shubhang Desai, Xu Chen, Biyi Fang, Zhuoyi Huang, Zhe Li, Chong-Xin Gan, Xiao Tu, Man-Wai Mak, Yan Lu, Shujie Liu, "TrInk: Ink Generation with Transformer Network," _Proc. Empirical Methods in Natural Language Processing (EMNLP)_, Suzhou, Nov 2025. [Paper](https://arxiv.org/abs/2508.21098)
 
