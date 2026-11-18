@@ -44,6 +44,8 @@
 8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
+1. Xianmin Gong, Hongwei Zhang, Yuejiao Wang, Patrick Wong, Helene H. Fung, Bonnie Lam, Vincent Mok, Timothy C. Y. Kwok, Jean Woo, Ka Ho Wong, Man Wai Mak, and Helen Meng, Brain Responses to Naturalistic Language During Movie-Watching as Markers of Current and Future Cognitive Function in Older Adults, _Journal of Neuroscience_, to appear, 2026.
+
 1. Youzhi Tu, Man-Wai Mak, Jen-Tzung Chien, and Lishi Zuo, "Improve Speaker Embedding Through Diffusion Generative Training," _IEEE Transactions on Audio, Speech and Language Processing_, to appear, 2026. 
    
 1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, vol. 180, May 2026.
