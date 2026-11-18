@@ -41,16 +41,16 @@
 5.  K .W. Ku and M.W. Mak, "Knowledge Incorporation Through Lifetime Learning," Yaochu Jin, editor, _Knowledge Incorporation in Evolutionary Computation_, Springer, pp. 359-384, 2004.
    
 7.  K.W. Ku, M.W. Mak and W.C. Siu, "Approaches to Combining Local and Evolutionary Search for Training Neural Networks: A Review and Some New Results". In S. Tsutsui and A. Ghosh, editors,  _Advances in Evolutionary Computing_, Springer, 2003, pp. 615-642. [(ch24.ps)](http://www.eie.polyu.edu.hk/~mwmak/papers/ch24.ps)
-8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advance Technology for Huminity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
+8.  M.W. Mak, "Deep Speaker Embedding for Robust Speaker Verification," _IEEE Hong Kong Section 50th Anniversary 1972-2022: Advanced Technology for Humanity - The Tech-Biz Intelligence_, pp. 40-41, 2022.
 
 ## Journal Papers
 1. Xianmin Gong, Hongwei Zhang, Yuejiao Wang, Patrick Wong, Helene H. Fung, Bonnie Lam, Vincent Mok, Timothy C. Y. Kwok, Jean Woo, Ka Ho Wong, Man Wai Mak, and Helen Meng, Brain Responses to Naturalistic Language During Movie-Watching as Markers of Current and Future Cognitive Function in Older Adults, _Journal of Neuroscience_, to appear, 2026.
 
-1. Youzhi Tu, Man-Wai Mak, Jen-Tzung Chien, and Lishi Zuo, "Improve Speaker Embedding Through Diffusion Generative Training," _IEEE Transactions on Audio, Speech and Language Processing_, to appear, 2026. 
+1. Youzhi Tu, Man-Wai Mak, Jen-Tzung Chien, and Lishi Zuo, "Improve Speaker Embedding Through Diffusion Generative Training," _IEEE Transactions on Audio, Speech and Language Processing_, pp. 3778-3790, July 2026.
    
-1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, vol. 180, May 2026.
+1. Lishi Zuo, Lu Yi, Youzhi Tu, Man-Wai Mak, "Class Unbiasing for Generalization in Medical Diagnosis," _Pattern Recognition_, vol. 180, Dec. 2026.
 
-1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2101-2114, Apr 2026.
+1. Zezhong Jin, YouZhi Tu, Zhe Li, Man-Wai Mak, and Kong-Aik Lee, "Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2101-2114, Apr. 2026.
 
 1. Jin Li, Man-Wai Mak, Johan Rohdin, Oldrich Plchot, Kong Aik Lee, and Hynek Hermansky, "Bayesian Neural Representation Augmentations for Domain Generalization in Speaker Verification and Anti-Spoofing," _IEEE Transactions on Audio, Speech and Language Processing_, Vol. 34, pp. 2198-2212, Apr 2026.
 
